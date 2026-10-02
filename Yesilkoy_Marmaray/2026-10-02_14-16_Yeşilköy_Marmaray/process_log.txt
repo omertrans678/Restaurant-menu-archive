@@ -1,0 +1,1045 @@
+2026-10-02 14:16:28,763 INFO MainThread Seçilecek adres: 'Yeşilköy, Yeşilköy Halkalı Cd. 2a, 34149 Bakırköy/İstanbul'
+2026-10-02 14:16:49,492 INFO MainThread Kampanya listeleme: 236 benzersiz URL, https://tgoyemek.com/arama?promotionIds=65910950,67806491,68999768,69518655,73980185&openRestaurants=false
+2026-10-02 14:16:56,566 INFO Thread-4 (worker) Seçilecek adres: 'Yeşilköy, Yeşilköy Halkalı Cd. 2a, 34149 Bakırköy/İstanbul'
+2026-10-02 14:17:03,774 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/3671 ayrıştırma 0.270 sn
+2026-10-02 14:17:05,021 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/28203 ayrıştırma 0.366 sn
+2026-10-02 14:17:06,271 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/312923 ayrıştırma 0.476 sn
+2026-10-02 14:17:07,204 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/431828 ayrıştırma 0.187 sn
+2026-10-02 14:17:08,306 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/220736 ayrıştırma 0.378 sn
+2026-10-02 14:17:09,212 WARNING MainThread Ctrl+C: tamamlanan veriler korunuyor
+2026-10-02 14:17:09,214 WARNING Thread-8 (close) Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(10054, 'Varolan bir bağlantı uzaktaki bir ana bilgisayar tarafından zorla kapatıldı', None, 10054, None)': /session/ac85d161222c730fdb8e04ca88298c4d
+2026-10-02 14:17:09,214 WARNING Thread-4 (worker) Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2026-10-02 14:17:09,214 WARNING Thread-4 (worker) Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(10054, 'Varolan bir bağlantı uzaktaki bir ana bilgisayar tarafından zorla kapatıldı', None, 10054, None)': /session/ac85d161222c730fdb8e04ca88298c4d/element/f.6BC907325619164EA985C2B7382A1ED8.d.C968C242515C08A31AB71CE2AB7CF6A4.e.1047/text
+2026-10-02 14:17:13,242 WARNING Thread-8 (close) Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=61466): Failed to establish a new connection: [WinError 10061] Hedef makine etkin olarak reddettiğinden bağlantı kurulamadı")': /session/ac85d161222c730fdb8e04ca88298c4d
+2026-10-02 14:17:13,243 WARNING Thread-4 (worker) Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2026-10-02 14:17:13,243 WARNING Thread-4 (worker) Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=61466): Failed to establish a new connection: [WinError 10061] Hedef makine etkin olarak reddettiğinden bağlantı kurulamadı")': /session/ac85d161222c730fdb8e04ca88298c4d/element/f.6BC907325619164EA985C2B7382A1ED8.d.C968C242515C08A31AB71CE2AB7CF6A4.e.1047/text
+2026-10-02 14:17:17,239 WARNING MainThread Başlatma/kapanış sürüyor; etkin klasörler silinmedi: C:\Users\OmerW11\AppData\Local\Temp\tgo-dumper-31d8_hkh
+2026-10-02 14:17:17,257 INFO MainThread Performans: kayıt=5 yeni_çekilen=5 hatalı_URL=0 eksik=231 toplam=52.380s ortalama_restoran=6.288s duvar_saati_ortalama=10.476s kesildi=True
+2026-10-02 14:20:33,975 INFO Thread-7 (worker) Seçilecek adres: 'Yeşilköy, Yeşilköy Halkalı Cd. 2a, 34149 Bakırköy/İstanbul'
+2026-10-02 14:20:34,015 INFO Thread-3 (worker) Seçilecek adres: 'Yeşilköy, Yeşilköy Halkalı Cd. 2a, 34149 Bakırköy/İstanbul'
+2026-10-02 14:20:34,890 INFO Thread-6 (worker) Seçilecek adres: 'Yeşilköy, Yeşilköy Halkalı Cd. 2a, 34149 Bakırköy/İstanbul'
+2026-10-02 14:20:35,776 INFO Thread-1 (worker) Seçilecek adres: 'Yeşilköy, Yeşilköy Halkalı Cd. 2a, 34149 Bakırköy/İstanbul'
+2026-10-02 14:20:35,779 INFO Thread-2 (worker) Seçilecek adres: 'Yeşilköy, Yeşilköy Halkalı Cd. 2a, 34149 Bakırköy/İstanbul'
+2026-10-02 14:20:35,869 INFO Thread-5 (worker) Seçilecek adres: 'Yeşilköy, Yeşilköy Halkalı Cd. 2a, 34149 Bakırköy/İstanbul'
+2026-10-02 14:20:35,932 INFO Thread-8 (worker) Seçilecek adres: 'Yeşilköy, Yeşilköy Halkalı Cd. 2a, 34149 Bakırköy/İstanbul'
+2026-10-02 14:20:35,944 INFO Thread-4 (worker) Seçilecek adres: 'Yeşilköy, Yeşilköy Halkalı Cd. 2a, 34149 Bakırköy/İstanbul'
+2026-10-02 14:20:37,797 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/427851 ayrıştırma 2.698 sn
+2026-10-02 14:20:39,476 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/368009 ayrıştırma 3.100 sn
+2026-10-02 14:20:39,914 INFO Thread-2 (worker) Restoran https://tgoyemek.com/restoranlar/5048 ayrıştırma 2.362 sn
+2026-10-02 14:20:39,989 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/377870 ayrıştırma 2.277 sn
+2026-10-02 14:20:40,253 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/3303 ayrıştırma 2.455 sn
+2026-10-02 14:20:40,434 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/323309 ayrıştırma 2.213 sn
+2026-10-02 14:20:40,604 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/114024 ayrıştırma 2.896 sn
+2026-10-02 14:20:40,831 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/373808 ayrıştırma 2.882 sn
+2026-10-02 14:20:41,010 INFO Thread-1 (worker) Restoran https://tgoyemek.com/restoranlar/455892 ayrıştırma 3.319 sn
+2026-10-02 14:20:41,786 INFO Thread-2 (worker) Restoran https://tgoyemek.com/restoranlar/361709 ayrıştırma 1.871 sn
+2026-10-02 14:20:42,174 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/327424 ayrıştırma 1.740 sn
+2026-10-02 14:20:42,332 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/5722 ayrıştırma 2.854 sn
+2026-10-02 14:20:42,349 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/415111 ayrıştırma 2.095 sn
+2026-10-02 14:20:42,834 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/391461 ayrıştırma 2.843 sn
+2026-10-02 14:20:42,859 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/8650 ayrıştırma 2.254 sn
+2026-10-02 14:20:43,180 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/222127 ayrıştırma 2.348 sn
+2026-10-02 14:20:43,706 INFO Thread-2 (worker) Restoran https://tgoyemek.com/restoranlar/5572 ayrıştırma 1.920 sn
+2026-10-02 14:20:43,961 INFO Thread-1 (worker) Restoran https://tgoyemek.com/restoranlar/336944 ayrıştırma 2.947 sn
+2026-10-02 14:20:43,973 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/303444 ayrıştırma 1.623 sn
+2026-10-02 14:20:44,234 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/102530 ayrıştırma 2.060 sn
+2026-10-02 14:20:44,440 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/297762 ayrıştırma 2.091 sn
+2026-10-02 14:20:44,786 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/294946 ayrıştırma 1.926 sn
+2026-10-02 14:20:45,126 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/3318 ayrıştırma 2.272 sn
+2026-10-02 14:20:45,267 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/455913 ayrıştırma 2.086 sn
+2026-10-02 14:20:45,336 INFO Thread-2 (worker) Restoran https://tgoyemek.com/restoranlar/291250 ayrıştırma 1.630 sn
+2026-10-02 14:20:45,717 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/22479 ayrıştırma 1.738 sn
+2026-10-02 14:20:46,188 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/396260 ayrıştırma 1.953 sn
+2026-10-02 14:20:46,428 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/294745 ayrıştırma 1.642 sn
+2026-10-02 14:20:46,597 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/125336 ayrıştırma 2.156 sn
+2026-10-02 14:20:46,862 INFO Thread-1 (worker) Restoran https://tgoyemek.com/restoranlar/129940 ayrıştırma 2.888 sn
+2026-10-02 14:20:46,930 INFO Thread-2 (worker) Restoran https://tgoyemek.com/restoranlar/406371 ayrıştırma 1.594 sn
+2026-10-02 14:20:47,043 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/184210 ayrıştırma 1.773 sn
+2026-10-02 14:20:47,649 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/195200 ayrıştırma 2.523 sn
+2026-10-02 14:20:48,023 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/422609 ayrıştırma 1.425 sn
+2026-10-02 14:20:48,104 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/107023 ayrıştırma 1.914 sn
+2026-10-02 14:20:48,223 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/19416 ayrıştırma 1.795 sn
+2026-10-02 14:20:48,362 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/357560 ayrıştırma 2.645 sn
+2026-10-02 14:20:48,487 INFO Thread-1 (worker) Restoran https://tgoyemek.com/restoranlar/108850 ayrıştırma 1.624 sn
+2026-10-02 14:20:48,757 INFO Thread-2 (worker) Restoran https://tgoyemek.com/restoranlar/22631 ayrıştırma 1.819 sn
+2026-10-02 14:20:48,853 WARNING MainThread Ctrl+C: tamamlanan veriler korunuyor
+2026-10-02 14:20:48,863 ERROR Thread-5 (worker) Restaurant fetch failed: https://tgoyemek.com/restoranlar/115296
+Traceback (most recent call last):
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\connectionpool.py", line 793, in urlopen
+    response = self._make_request(
+        conn,
+    ...<10 lines>...
+        **response_kw,
+    )
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\connectionpool.py", line 540, in _make_request
+    response = conn.getresponse()
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\connection.py", line 638, in getresponse
+    httplib_response = super().getresponse()
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 1478, in getresponse
+    response.begin()
+    ~~~~~~~~~~~~~~^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 343, in begin
+    version, status, reason = self._read_status()
+                              ~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 304, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+               ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\socket.py", line 729, in readinto
+    return self._sock.recv_into(b)
+           ~~~~~~~~~~~~~~~~~~~~^^^
+ConnectionResetError: [WinError 10054] Varolan bir bağlantı uzaktaki bir ana bilgisayar tarafından zorla kapatıldı
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\MyData\TexGo\Scripts\tgo_restaurant_dumper_2.py", line 824, in worker
+    record = parse_restaurant_page(driver, url)
+  File "C:\MyData\TexGo\Scripts\tgo_restaurant_dumper_2.py", line 270, in parse_restaurant_page
+    dismiss_cookies(driver)
+    ~~~~~~~~~~~~~~~^^^^^^^^
+  File "C:\MyData\TexGo\Scripts\tgo_restaurant_dumper_2.py", line 667, in dismiss_cookies
+    for button in driver.find_elements(By.CSS_SELECTOR, selector):
+                  ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 944, in find_elements
+    return self.execute(Command.FIND_ELEMENTS, {"using": by, "value": value})["value"] or []
+           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 503, in execute
+    response = cast(RemoteConnection, self.command_executor).execute(driver_command, params)
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\selenium\webdriver\remote\remote_connection.py", line 407, in execute
+    return self._request(command_info[0], url, body=data)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\selenium\webdriver\remote\remote_connection.py", line 431, in _request
+    response = self._conn.request(method, url, body=body, headers=headers, timeout=self._client_config.timeout)
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\_request_methods.py", line 143, in request
+    return self.request_encode_body(
+           ~~~~~~~~~~~~~~~~~~~~~~~~^
+        method, url, fields=fields, headers=headers, **urlopen_kw
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\_request_methods.py", line 278, in request_encode_body
+    return self.urlopen(method, url, **extra_kw)
+           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\poolmanager.py", line 459, in urlopen
+    response = conn.urlopen(method, u.request_uri, **kw)
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\connectionpool.py", line 847, in urlopen
+    retries = retries.increment(
+        method, url, error=new_e, _pool=self, _stacktrace=sys.exc_info()[2]
+    )
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\util\retry.py", line 510, in increment
+    raise reraise(type(error), error, _stacktrace)
+          ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\util\util.py", line 38, in reraise
+    raise value.with_traceback(tb)
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\connectionpool.py", line 793, in urlopen
+    response = self._make_request(
+        conn,
+    ...<10 lines>...
+        **response_kw,
+    )
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\connectionpool.py", line 540, in _make_request
+    response = conn.getresponse()
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\connection.py", line 638, in getresponse
+    httplib_response = super().getresponse()
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 1478, in getresponse
+    response.begin()
+    ~~~~~~~~~~~~~~^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 343, in begin
+    version, status, reason = self._read_status()
+                              ~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 304, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+               ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\socket.py", line 729, in readinto
+    return self._sock.recv_into(b)
+           ~~~~~~~~~~~~~~~~~~~~^^^
+urllib3.exceptions.ProtocolError: ('Connection aborted.', ConnectionResetError(10054, 'Varolan bir bağlantı uzaktaki bir ana bilgisayar tarafından zorla kapatıldı', None, 10054, None))
+2026-10-02 14:20:48,865 WARNING Thread-4 (worker) Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(10054, 'Varolan bir bağlantı uzaktaki bir ana bilgisayar tarafından zorla kapatıldı', None, 10054, None)': /session/806e2af6f7dc3bb99ec09fca89db3245/element/f.EA0C45B473BD4B34ABE43AA9B35D2460.d.F40840CC9D24B61FC949B8DCE3A186B4.e.6453/text
+2026-10-02 14:20:48,865 ERROR Thread-2 (worker) Restaurant fetch failed: https://tgoyemek.com/restoranlar/397974
+Traceback (most recent call last):
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\connectionpool.py", line 793, in urlopen
+    response = self._make_request(
+        conn,
+    ...<10 lines>...
+        **response_kw,
+    )
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\connectionpool.py", line 540, in _make_request
+    response = conn.getresponse()
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\connection.py", line 638, in getresponse
+    httplib_response = super().getresponse()
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 1478, in getresponse
+    response.begin()
+    ~~~~~~~~~~~~~~^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 343, in begin
+    version, status, reason = self._read_status()
+                              ~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 304, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+               ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\socket.py", line 729, in readinto
+    return self._sock.recv_into(b)
+           ~~~~~~~~~~~~~~~~~~~~^^^
+ConnectionResetError: [WinError 10054] Varolan bir bağlantı uzaktaki bir ana bilgisayar tarafından zorla kapatıldı
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\MyData\TexGo\Scripts\tgo_restaurant_dumper_2.py", line 824, in worker
+    record = parse_restaurant_page(driver, url)
+  File "C:\MyData\TexGo\Scripts\tgo_restaurant_dumper_2.py", line 266, in parse_restaurant_page
+    driver.get(url)
+    ~~~~~~~~~~^^^^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 526, in get
+    self.execute(Command.GET, {"url": url})
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 503, in execute
+    response = cast(RemoteConnection, self.command_executor).execute(driver_command, params)
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\selenium\webdriver\remote\remote_connection.py", line 407, in execute
+    return self._request(command_info[0], url, body=data)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\selenium\webdriver\remote\remote_connection.py", line 431, in _request
+    response = self._conn.request(method, url, body=body, headers=headers, timeout=self._client_config.timeout)
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\_request_methods.py", line 143, in request
+    return self.request_encode_body(
+           ~~~~~~~~~~~~~~~~~~~~~~~~^
+        method, url, fields=fields, headers=headers, **urlopen_kw
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\_request_methods.py", line 278, in request_encode_body
+    return self.urlopen(method, url, **extra_kw)
+           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\poolmanager.py", line 459, in urlopen
+    response = conn.urlopen(method, u.request_uri, **kw)
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\connectionpool.py", line 847, in urlopen
+    retries = retries.increment(
+        method, url, error=new_e, _pool=self, _stacktrace=sys.exc_info()[2]
+    )
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\util\retry.py", line 510, in increment
+    raise reraise(type(error), error, _stacktrace)
+          ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\util\util.py", line 38, in reraise
+    raise value.with_traceback(tb)
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\connectionpool.py", line 793, in urlopen
+    response = self._make_request(
+        conn,
+    ...<10 lines>...
+        **response_kw,
+    )
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\connectionpool.py", line 540, in _make_request
+    response = conn.getresponse()
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\connection.py", line 638, in getresponse
+    httplib_response = super().getresponse()
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 1478, in getresponse
+    response.begin()
+    ~~~~~~~~~~~~~~^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 343, in begin
+    version, status, reason = self._read_status()
+                              ~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 304, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+               ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\socket.py", line 729, in readinto
+    return self._sock.recv_into(b)
+           ~~~~~~~~~~~~~~~~~~~~^^^
+urllib3.exceptions.ProtocolError: ('Connection aborted.', ConnectionResetError(10054, 'Varolan bir bağlantı uzaktaki bir ana bilgisayar tarafından zorla kapatıldı', None, 10054, None))
+2026-10-02 14:20:48,865 ERROR Thread-3 (worker) Restaurant fetch failed: https://tgoyemek.com/restoranlar/113255
+Traceback (most recent call last):
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\connectionpool.py", line 793, in urlopen
+    response = self._make_request(
+        conn,
+    ...<10 lines>...
+        **response_kw,
+    )
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\connectionpool.py", line 540, in _make_request
+    response = conn.getresponse()
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\connection.py", line 638, in getresponse
+    httplib_response = super().getresponse()
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 1478, in getresponse
+    response.begin()
+    ~~~~~~~~~~~~~~^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 343, in begin
+    version, status, reason = self._read_status()
+                              ~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 304, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+               ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\socket.py", line 729, in readinto
+    return self._sock.recv_into(b)
+           ~~~~~~~~~~~~~~~~~~~~^^^
+ConnectionResetError: [WinError 10054] Varolan bir bağlantı uzaktaki bir ana bilgisayar tarafından zorla kapatıldı
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\MyData\TexGo\Scripts\tgo_restaurant_dumper_2.py", line 824, in worker
+    record = parse_restaurant_page(driver, url)
+  File "C:\MyData\TexGo\Scripts\tgo_restaurant_dumper_2.py", line 266, in parse_restaurant_page
+    driver.get(url)
+    ~~~~~~~~~~^^^^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 526, in get
+    self.execute(Command.GET, {"url": url})
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 503, in execute
+    response = cast(RemoteConnection, self.command_executor).execute(driver_command, params)
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\selenium\webdriver\remote\remote_connection.py", line 407, in execute
+    return self._request(command_info[0], url, body=data)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\selenium\webdriver\remote\remote_connection.py", line 431, in _request
+    response = self._conn.request(method, url, body=body, headers=headers, timeout=self._client_config.timeout)
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\_request_methods.py", line 143, in request
+    return self.request_encode_body(
+           ~~~~~~~~~~~~~~~~~~~~~~~~^
+        method, url, fields=fields, headers=headers, **urlopen_kw
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\_request_methods.py", line 278, in request_encode_body
+    return self.urlopen(method, url, **extra_kw)
+           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\poolmanager.py", line 459, in urlopen
+    response = conn.urlopen(method, u.request_uri, **kw)
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\connectionpool.py", line 847, in urlopen
+    retries = retries.increment(
+        method, url, error=new_e, _pool=self, _stacktrace=sys.exc_info()[2]
+    )
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\util\retry.py", line 510, in increment
+    raise reraise(type(error), error, _stacktrace)
+          ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\util\util.py", line 38, in reraise
+    raise value.with_traceback(tb)
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\connectionpool.py", line 793, in urlopen
+    response = self._make_request(
+        conn,
+    ...<10 lines>...
+        **response_kw,
+    )
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\connectionpool.py", line 540, in _make_request
+    response = conn.getresponse()
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\connection.py", line 638, in getresponse
+    httplib_response = super().getresponse()
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 1478, in getresponse
+    response.begin()
+    ~~~~~~~~~~~~~~^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 343, in begin
+    version, status, reason = self._read_status()
+                              ~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 304, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+               ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\socket.py", line 729, in readinto
+    return self._sock.recv_into(b)
+           ~~~~~~~~~~~~~~~~~~~~^^^
+urllib3.exceptions.ProtocolError: ('Connection aborted.', ConnectionResetError(10054, 'Varolan bir bağlantı uzaktaki bir ana bilgisayar tarafından zorla kapatıldı', None, 10054, None))
+2026-10-02 14:20:48,866 WARNING Thread-35 (close) Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2026-10-02 14:20:48,866 WARNING Thread-33 (close) Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2026-10-02 14:20:48,867 ERROR Thread-7 (worker) Restaurant fetch failed: https://tgoyemek.com/restoranlar/368917
+Traceback (most recent call last):
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\connectionpool.py", line 793, in urlopen
+    response = self._make_request(
+        conn,
+    ...<10 lines>...
+        **response_kw,
+    )
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\connectionpool.py", line 540, in _make_request
+    response = conn.getresponse()
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\connection.py", line 638, in getresponse
+    httplib_response = super().getresponse()
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 1478, in getresponse
+    response.begin()
+    ~~~~~~~~~~~~~~^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 343, in begin
+    version, status, reason = self._read_status()
+                              ~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 304, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+               ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\socket.py", line 729, in readinto
+    return self._sock.recv_into(b)
+           ~~~~~~~~~~~~~~~~~~~~^^^
+ConnectionResetError: [WinError 10054] Varolan bir bağlantı uzaktaki bir ana bilgisayar tarafından zorla kapatıldı
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\MyData\TexGo\Scripts\tgo_restaurant_dumper_2.py", line 824, in worker
+    record = parse_restaurant_page(driver, url)
+  File "C:\MyData\TexGo\Scripts\tgo_restaurant_dumper_2.py", line 270, in parse_restaurant_page
+    dismiss_cookies(driver)
+    ~~~~~~~~~~~~~~~^^^^^^^^
+  File "C:\MyData\TexGo\Scripts\tgo_restaurant_dumper_2.py", line 667, in dismiss_cookies
+    for button in driver.find_elements(By.CSS_SELECTOR, selector):
+                  ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 944, in find_elements
+    return self.execute(Command.FIND_ELEMENTS, {"using": by, "value": value})["value"] or []
+           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 503, in execute
+    response = cast(RemoteConnection, self.command_executor).execute(driver_command, params)
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\selenium\webdriver\remote\remote_connection.py", line 407, in execute
+    return self._request(command_info[0], url, body=data)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\selenium\webdriver\remote\remote_connection.py", line 431, in _request
+    response = self._conn.request(method, url, body=body, headers=headers, timeout=self._client_config.timeout)
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\_request_methods.py", line 143, in request
+    return self.request_encode_body(
+           ~~~~~~~~~~~~~~~~~~~~~~~~^
+        method, url, fields=fields, headers=headers, **urlopen_kw
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\_request_methods.py", line 278, in request_encode_body
+    return self.urlopen(method, url, **extra_kw)
+           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\poolmanager.py", line 459, in urlopen
+    response = conn.urlopen(method, u.request_uri, **kw)
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\connectionpool.py", line 847, in urlopen
+    retries = retries.increment(
+        method, url, error=new_e, _pool=self, _stacktrace=sys.exc_info()[2]
+    )
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\util\retry.py", line 510, in increment
+    raise reraise(type(error), error, _stacktrace)
+          ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\util\util.py", line 38, in reraise
+    raise value.with_traceback(tb)
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\connectionpool.py", line 793, in urlopen
+    response = self._make_request(
+        conn,
+    ...<10 lines>...
+        **response_kw,
+    )
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\connectionpool.py", line 540, in _make_request
+    response = conn.getresponse()
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\connection.py", line 638, in getresponse
+    httplib_response = super().getresponse()
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 1478, in getresponse
+    response.begin()
+    ~~~~~~~~~~~~~~^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 343, in begin
+    version, status, reason = self._read_status()
+                              ~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 304, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+               ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\socket.py", line 729, in readinto
+    return self._sock.recv_into(b)
+           ~~~~~~~~~~~~~~~~~~~~^^^
+urllib3.exceptions.ProtocolError: ('Connection aborted.', ConnectionResetError(10054, 'Varolan bir bağlantı uzaktaki bir ana bilgisayar tarafından zorla kapatıldı', None, 10054, None))
+2026-10-02 14:20:48,867 WARNING Thread-34 (close) Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2026-10-02 14:20:48,869 WARNING Thread-6 (worker) Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProtocolError("Connection broken: ConnectionResetError(10054, 'Varolan bir bağlantı uzaktaki bir ana bilgisayar tarafından zorla kapatıldı', None, 10054, None)", ConnectionResetError(10054, 'Varolan bir bağlantı uzaktaki bir ana bilgisayar tarafından zorla kapatıldı', None, 10054, None))': /session/98aa4f3a15153396b49a49f07ee5e9cc/source
+2026-10-02 14:20:48,870 ERROR Thread-1 (worker) Restaurant fetch failed: https://tgoyemek.com/restoranlar/112142
+Traceback (most recent call last):
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\connectionpool.py", line 793, in urlopen
+    response = self._make_request(
+        conn,
+    ...<10 lines>...
+        **response_kw,
+    )
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\connectionpool.py", line 540, in _make_request
+    response = conn.getresponse()
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\connection.py", line 638, in getresponse
+    httplib_response = super().getresponse()
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 1478, in getresponse
+    response.begin()
+    ~~~~~~~~~~~~~~^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 343, in begin
+    version, status, reason = self._read_status()
+                              ~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 304, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+               ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\socket.py", line 729, in readinto
+    return self._sock.recv_into(b)
+           ~~~~~~~~~~~~~~~~~~~~^^^
+ConnectionResetError: [WinError 10054] Varolan bir bağlantı uzaktaki bir ana bilgisayar tarafından zorla kapatıldı
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\MyData\TexGo\Scripts\tgo_restaurant_dumper_2.py", line 824, in worker
+    record = parse_restaurant_page(driver, url)
+  File "C:\MyData\TexGo\Scripts\tgo_restaurant_dumper_2.py", line 266, in parse_restaurant_page
+    driver.get(url)
+    ~~~~~~~~~~^^^^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 526, in get
+    self.execute(Command.GET, {"url": url})
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 503, in execute
+    response = cast(RemoteConnection, self.command_executor).execute(driver_command, params)
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\selenium\webdriver\remote\remote_connection.py", line 407, in execute
+    return self._request(command_info[0], url, body=data)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\selenium\webdriver\remote\remote_connection.py", line 431, in _request
+    response = self._conn.request(method, url, body=body, headers=headers, timeout=self._client_config.timeout)
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\_request_methods.py", line 143, in request
+    return self.request_encode_body(
+           ~~~~~~~~~~~~~~~~~~~~~~~~^
+        method, url, fields=fields, headers=headers, **urlopen_kw
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\_request_methods.py", line 278, in request_encode_body
+    return self.urlopen(method, url, **extra_kw)
+           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\poolmanager.py", line 459, in urlopen
+    response = conn.urlopen(method, u.request_uri, **kw)
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\connectionpool.py", line 847, in urlopen
+    retries = retries.increment(
+        method, url, error=new_e, _pool=self, _stacktrace=sys.exc_info()[2]
+    )
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\util\retry.py", line 510, in increment
+    raise reraise(type(error), error, _stacktrace)
+          ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\util\util.py", line 38, in reraise
+    raise value.with_traceback(tb)
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\connectionpool.py", line 793, in urlopen
+    response = self._make_request(
+        conn,
+    ...<10 lines>...
+        **response_kw,
+    )
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\connectionpool.py", line 540, in _make_request
+    response = conn.getresponse()
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\connection.py", line 638, in getresponse
+    httplib_response = super().getresponse()
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 1478, in getresponse
+    response.begin()
+    ~~~~~~~~~~~~~~^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 343, in begin
+    version, status, reason = self._read_status()
+                              ~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 304, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+               ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\socket.py", line 729, in readinto
+    return self._sock.recv_into(b)
+           ~~~~~~~~~~~~~~~~~~~~^^^
+urllib3.exceptions.ProtocolError: ('Connection aborted.', ConnectionResetError(10054, 'Varolan bir bağlantı uzaktaki bir ana bilgisayar tarafından zorla kapatıldı', None, 10054, None))
+2026-10-02 14:20:48,870 WARNING Thread-37 (close) Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2026-10-02 14:20:48,873 ERROR Thread-8 (worker) Restaurant fetch failed: https://tgoyemek.com/restoranlar/5290
+Traceback (most recent call last):
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\connectionpool.py", line 793, in urlopen
+    response = self._make_request(
+        conn,
+    ...<10 lines>...
+        **response_kw,
+    )
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\connectionpool.py", line 540, in _make_request
+    response = conn.getresponse()
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\connection.py", line 638, in getresponse
+    httplib_response = super().getresponse()
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 1478, in getresponse
+    response.begin()
+    ~~~~~~~~~~~~~~^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 343, in begin
+    version, status, reason = self._read_status()
+                              ~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 304, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+               ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\socket.py", line 729, in readinto
+    return self._sock.recv_into(b)
+           ~~~~~~~~~~~~~~~~~~~~^^^
+ConnectionResetError: [WinError 10054] Varolan bir bağlantı uzaktaki bir ana bilgisayar tarafından zorla kapatıldı
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\MyData\TexGo\Scripts\tgo_restaurant_dumper_2.py", line 824, in worker
+    record = parse_restaurant_page(driver, url)
+  File "C:\MyData\TexGo\Scripts\tgo_restaurant_dumper_2.py", line 266, in parse_restaurant_page
+    driver.get(url)
+    ~~~~~~~~~~^^^^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 526, in get
+    self.execute(Command.GET, {"url": url})
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 503, in execute
+    response = cast(RemoteConnection, self.command_executor).execute(driver_command, params)
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\selenium\webdriver\remote\remote_connection.py", line 407, in execute
+    return self._request(command_info[0], url, body=data)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\selenium\webdriver\remote\remote_connection.py", line 431, in _request
+    response = self._conn.request(method, url, body=body, headers=headers, timeout=self._client_config.timeout)
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\_request_methods.py", line 143, in request
+    return self.request_encode_body(
+           ~~~~~~~~~~~~~~~~~~~~~~~~^
+        method, url, fields=fields, headers=headers, **urlopen_kw
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\_request_methods.py", line 278, in request_encode_body
+    return self.urlopen(method, url, **extra_kw)
+           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\poolmanager.py", line 459, in urlopen
+    response = conn.urlopen(method, u.request_uri, **kw)
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\connectionpool.py", line 847, in urlopen
+    retries = retries.increment(
+        method, url, error=new_e, _pool=self, _stacktrace=sys.exc_info()[2]
+    )
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\util\retry.py", line 510, in increment
+    raise reraise(type(error), error, _stacktrace)
+          ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\util\util.py", line 38, in reraise
+    raise value.with_traceback(tb)
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\connectionpool.py", line 793, in urlopen
+    response = self._make_request(
+        conn,
+    ...<10 lines>...
+        **response_kw,
+    )
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\connectionpool.py", line 540, in _make_request
+    response = conn.getresponse()
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\connection.py", line 638, in getresponse
+    httplib_response = super().getresponse()
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 1478, in getresponse
+    response.begin()
+    ~~~~~~~~~~~~~~^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 343, in begin
+    version, status, reason = self._read_status()
+                              ~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 304, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+               ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\socket.py", line 729, in readinto
+    return self._sock.recv_into(b)
+           ~~~~~~~~~~~~~~~~~~~~^^^
+urllib3.exceptions.ProtocolError: ('Connection aborted.', ConnectionResetError(10054, 'Varolan bir bağlantı uzaktaki bir ana bilgisayar tarafından zorla kapatıldı', None, 10054, None))
+2026-10-02 14:20:48,875 WARNING Thread-38 (close) Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2026-10-02 14:20:49,186 WARNING Thread-35 (close) Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(10054, 'Varolan bir bağlantı uzaktaki bir ana bilgisayar tarafından zorla kapatıldı', None, 10054, None)': /session/24729c24bbb07846be78f14128a393a7
+2026-10-02 14:20:49,188 WARNING Thread-33 (close) Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(10054, 'Varolan bir bağlantı uzaktaki bir ana bilgisayar tarafından zorla kapatıldı', None, 10054, None)': /session/8013b4d5d6e8c6a9872d0f1a383bd627
+2026-10-02 14:20:49,196 WARNING Thread-34 (close) Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(10054, 'Varolan bir bağlantı uzaktaki bir ana bilgisayar tarafından zorla kapatıldı', None, 10054, None)': /session/806e2af6f7dc3bb99ec09fca89db3245
+2026-10-02 14:20:49,200 ERROR Thread-5 (worker) Geçici klasör kilitli, silinemedi: C:\Users\OmerW11\AppData\Local\Temp\tgo-dumper-lv2k335b\worker-4
+Traceback (most recent call last):
+  File "C:\MyData\TexGo\Scripts\tgo_restaurant_dumper_2.py", line 728, in cleanup_owned
+    shutil.rmtree(target)
+    ~~~~~~~~~~~~~^^^^^^^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\shutil.py", line 852, in rmtree
+    _rmtree_impl(path, dir_fd, onexc)
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\shutil.py", line 705, in _rmtree_unsafe
+    onexc(os.unlink, fullname, err)
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\shutil.py", line 701, in _rmtree_unsafe
+    os.unlink(fullname)
+    ~~~~~~~~~^^^^^^^^^^
+PermissionError: [WinError 32] Dosya başka bir işlem tarafından kullanıldığından bu işlem dosyaya erişemiyor: 'C:\\Users\\OmerW11\\AppData\\Local\\Temp\\tgo-dumper-lv2k335b\\worker-4\\profile\\Default\\Cache\\Cache_Data\\sqldb0'
+2026-10-02 14:20:49,200 ERROR Thread-2 (worker) Geçici klasör kilitli, silinemedi: C:\Users\OmerW11\AppData\Local\Temp\tgo-dumper-lv2k335b\worker-1
+Traceback (most recent call last):
+  File "C:\MyData\TexGo\Scripts\tgo_restaurant_dumper_2.py", line 728, in cleanup_owned
+    shutil.rmtree(target)
+    ~~~~~~~~~~~~~^^^^^^^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\shutil.py", line 852, in rmtree
+    _rmtree_impl(path, dir_fd, onexc)
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\shutil.py", line 705, in _rmtree_unsafe
+    onexc(os.unlink, fullname, err)
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\shutil.py", line 701, in _rmtree_unsafe
+    os.unlink(fullname)
+    ~~~~~~~~~^^^^^^^^^^
+PermissionError: [WinError 32] Dosya başka bir işlem tarafından kullanıldığından bu işlem dosyaya erişemiyor: 'C:\\Users\\OmerW11\\AppData\\Local\\Temp\\tgo-dumper-lv2k335b\\worker-1\\profile\\Default\\Cache\\Cache_Data\\sqldb0'
+2026-10-02 14:20:49,207 WARNING Thread-37 (close) Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(10054, 'Varolan bir bağlantı uzaktaki bir ana bilgisayar tarafından zorla kapatıldı', None, 10054, None)': /session/979275c939dc722b4aa58f7466d39827
+2026-10-02 14:20:49,208 ERROR Thread-3 (worker) Geçici klasör kilitli, silinemedi: C:\Users\OmerW11\AppData\Local\Temp\tgo-dumper-lv2k335b\worker-2
+Traceback (most recent call last):
+  File "C:\MyData\TexGo\Scripts\tgo_restaurant_dumper_2.py", line 728, in cleanup_owned
+    shutil.rmtree(target)
+    ~~~~~~~~~~~~~^^^^^^^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\shutil.py", line 852, in rmtree
+    _rmtree_impl(path, dir_fd, onexc)
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\shutil.py", line 705, in _rmtree_unsafe
+    onexc(os.unlink, fullname, err)
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\shutil.py", line 701, in _rmtree_unsafe
+    os.unlink(fullname)
+    ~~~~~~~~~^^^^^^^^^^
+PermissionError: [WinError 32] Dosya başka bir işlem tarafından kullanıldığından bu işlem dosyaya erişemiyor: 'C:\\Users\\OmerW11\\AppData\\Local\\Temp\\tgo-dumper-lv2k335b\\worker-2\\profile\\Default\\Cache\\Cache_Data\\sqldb0'
+2026-10-02 14:20:49,213 WARNING Thread-38 (close) Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(10054, 'Varolan bir bağlantı uzaktaki bir ana bilgisayar tarafından zorla kapatıldı', None, 10054, None)': /session/98aa4f3a15153396b49a49f07ee5e9cc
+2026-10-02 14:20:49,220 ERROR Thread-7 (worker) Geçici klasör kilitli, silinemedi: C:\Users\OmerW11\AppData\Local\Temp\tgo-dumper-lv2k335b\worker-6
+Traceback (most recent call last):
+  File "C:\MyData\TexGo\Scripts\tgo_restaurant_dumper_2.py", line 728, in cleanup_owned
+    shutil.rmtree(target)
+    ~~~~~~~~~~~~~^^^^^^^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\shutil.py", line 852, in rmtree
+    _rmtree_impl(path, dir_fd, onexc)
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\shutil.py", line 705, in _rmtree_unsafe
+    onexc(os.unlink, fullname, err)
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\shutil.py", line 701, in _rmtree_unsafe
+    os.unlink(fullname)
+    ~~~~~~~~~^^^^^^^^^^
+PermissionError: [WinError 32] Dosya başka bir işlem tarafından kullanıldığından bu işlem dosyaya erişemiyor: 'C:\\Users\\OmerW11\\AppData\\Local\\Temp\\tgo-dumper-lv2k335b\\worker-6\\profile\\Default\\Cache\\Cache_Data\\sqldb0'
+2026-10-02 14:20:49,221 ERROR Thread-1 (worker) Geçici klasör kilitli, silinemedi: C:\Users\OmerW11\AppData\Local\Temp\tgo-dumper-lv2k335b\worker-0
+Traceback (most recent call last):
+  File "C:\MyData\TexGo\Scripts\tgo_restaurant_dumper_2.py", line 728, in cleanup_owned
+    shutil.rmtree(target)
+    ~~~~~~~~~~~~~^^^^^^^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\shutil.py", line 852, in rmtree
+    _rmtree_impl(path, dir_fd, onexc)
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\shutil.py", line 705, in _rmtree_unsafe
+    onexc(os.unlink, fullname, err)
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\shutil.py", line 701, in _rmtree_unsafe
+    os.unlink(fullname)
+    ~~~~~~~~~^^^^^^^^^^
+PermissionError: [WinError 32] Dosya başka bir işlem tarafından kullanıldığından bu işlem dosyaya erişemiyor: 'C:\\Users\\OmerW11\\AppData\\Local\\Temp\\tgo-dumper-lv2k335b\\worker-0\\profile\\Default\\Cache\\Cache_Data\\sqldb0'
+2026-10-02 14:20:49,224 ERROR Thread-8 (worker) Geçici klasör kilitli, silinemedi: C:\Users\OmerW11\AppData\Local\Temp\tgo-dumper-lv2k335b\worker-7
+Traceback (most recent call last):
+  File "C:\MyData\TexGo\Scripts\tgo_restaurant_dumper_2.py", line 728, in cleanup_owned
+    shutil.rmtree(target)
+    ~~~~~~~~~~~~~^^^^^^^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\shutil.py", line 852, in rmtree
+    _rmtree_impl(path, dir_fd, onexc)
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\shutil.py", line 705, in _rmtree_unsafe
+    onexc(os.unlink, fullname, err)
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\shutil.py", line 701, in _rmtree_unsafe
+    os.unlink(fullname)
+    ~~~~~~~~~^^^^^^^^^^
+PermissionError: [WinError 32] Dosya başka bir işlem tarafından kullanıldığından bu işlem dosyaya erişemiyor: 'C:\\Users\\OmerW11\\AppData\\Local\\Temp\\tgo-dumper-lv2k335b\\worker-7\\profile\\Default\\Cache\\Cache_Data\\sqldb0'
+2026-10-02 14:20:52,936 WARNING Thread-39 (close) Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2026-10-02 14:20:52,937 WARNING Thread-39 (close) Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=64542): Failed to establish a new connection: [WinError 10061] Hedef makine etkin olarak reddettiğinden bağlantı kurulamadı")': /session/fe173dfe314e1c27b383d000ff4b2283
+2026-10-02 14:20:52,937 WARNING Thread-36 (close) Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2026-10-02 14:20:52,937 WARNING Thread-36 (close) Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=64544): Failed to establish a new connection: [WinError 10061] Hedef makine etkin olarak reddettiğinden bağlantı kurulamadı")': /session/6a4aaf85fd2edb8fad49df35028a1db3
+2026-10-02 14:20:52,967 WARNING Thread-40 (close) Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=64536): Failed to establish a new connection: [WinError 10061] Hedef makine etkin olarak reddettiğinden bağlantı kurulamadı")': /session/1583a4b02ca6d5a9429d5b43bf704484
+2026-10-02 14:20:53,246 WARNING Thread-4 (worker) Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=64539): Failed to establish a new connection: [WinError 10061] Hedef makine etkin olarak reddettiğinden bağlantı kurulamadı")': /session/806e2af6f7dc3bb99ec09fca89db3245/element/f.EA0C45B473BD4B34ABE43AA9B35D2460.d.F40840CC9D24B61FC949B8DCE3A186B4.e.6453/text
+2026-10-02 14:20:53,246 WARNING Thread-6 (worker) Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=64541): Failed to establish a new connection: [WinError 10061] Hedef makine etkin olarak reddettiğinden bağlantı kurulamadı")': /session/98aa4f3a15153396b49a49f07ee5e9cc/source
+2026-10-02 14:20:53,277 WARNING Thread-33 (close) Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=64538): Failed to establish a new connection: [WinError 10061] Hedef makine etkin olarak reddettiğinden bağlantı kurulamadı")': /session/8013b4d5d6e8c6a9872d0f1a383bd627
+2026-10-02 14:20:53,277 WARNING Thread-34 (close) Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=64539): Failed to establish a new connection: [WinError 10061] Hedef makine etkin olarak reddettiğinden bağlantı kurulamadı")': /session/806e2af6f7dc3bb99ec09fca89db3245
+2026-10-02 14:20:53,292 WARNING Thread-35 (close) Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=64537): Failed to establish a new connection: [WinError 10061] Hedef makine etkin olarak reddettiğinden bağlantı kurulamadı")': /session/24729c24bbb07846be78f14128a393a7
+2026-10-02 14:20:53,309 WARNING Thread-37 (close) Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=64540): Failed to establish a new connection: [WinError 10061] Hedef makine etkin olarak reddettiğinden bağlantı kurulamadı")': /session/979275c939dc722b4aa58f7466d39827
+2026-10-02 14:20:53,325 WARNING Thread-38 (close) Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=64541): Failed to establish a new connection: [WinError 10061] Hedef makine etkin olarak reddettiğinden bağlantı kurulamadı")': /session/98aa4f3a15153396b49a49f07ee5e9cc
+2026-10-02 14:20:56,988 WARNING MainThread Başlatma/kapanış sürüyor; etkin klasörler silinmedi: C:\Users\OmerW11\AppData\Local\Temp\tgo-dumper-lv2k335b
+2026-10-02 14:20:57,008 WARNING Thread-36 (close) Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=64544): Failed to establish a new connection: [WinError 10061] Hedef makine etkin olarak reddettiğinden bağlantı kurulamadı")': /session/6a4aaf85fd2edb8fad49df35028a1db3
+2026-10-02 14:20:57,011 WARNING Thread-39 (close) Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=64542): Failed to establish a new connection: [WinError 10061] Hedef makine etkin olarak reddettiğinden bağlantı kurulamadı")': /session/fe173dfe314e1c27b383d000ff4b2283
+2026-10-02 14:20:57,037 WARNING Thread-40 (close) Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=64536): Failed to establish a new connection: [WinError 10061] Hedef makine etkin olarak reddettiğinden bağlantı kurulamadı")': /session/1583a4b02ca6d5a9429d5b43bf704484
+2026-10-02 14:20:57,098 INFO MainThread Performans: kayıt=44 yeni_çekilen=39 hatalı_URL=6 eksik=192 toplam=29.696s ortalama_restoran=2.214s duvar_saati_ortalama=0.761s kesildi=True
+2026-10-02 14:27:10,225 INFO MainThread Seçilecek adres: 'Yeşilköy, Yeşilköy Halkalı Cd. 2a, 34149 Bakırköy/İstanbul'
+2026-10-02 14:27:17,974 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/397974 ayrıştırma 2.278 sn
+2026-10-02 14:27:18,055 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/434943 ayrıştırma 2.360 sn
+2026-10-02 14:27:18,137 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/113255 ayrıştırma 2.442 sn
+2026-10-02 14:27:18,882 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/103498 ayrıştırma 3.187 sn
+2026-10-02 14:27:19,130 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/368917 ayrıştırma 3.435 sn
+2026-10-02 14:27:19,682 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/112142 ayrıştırma 3.986 sn
+2026-10-02 14:27:20,400 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/115296 ayrıştırma 4.705 sn
+2026-10-02 14:27:20,602 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/110743 ayrıştırma 2.627 sn
+2026-10-02 14:27:21,132 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/5290 ayrıştırma 5.437 sn
+2026-10-02 14:27:21,376 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/155328 ayrıştırma 2.493 sn
+2026-10-02 14:27:21,551 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/284564 ayrıştırma 3.495 sn
+2026-10-02 14:27:21,935 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/370096 ayrıştırma 2.254 sn
+2026-10-02 14:27:21,988 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/304757 ayrıştırma 3.850 sn
+2026-10-02 14:27:22,093 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/388803 ayrıştırma 2.962 sn
+2026-10-02 14:27:22,514 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/363870 ayrıştırma 1.912 sn
+2026-10-02 14:27:23,267 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/299464 ayrıştırma 1.713 sn
+2026-10-02 14:27:23,976 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/219738 ayrıştırma 3.575 sn
+2026-10-02 14:27:24,335 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/327411 ayrıştırma 2.346 sn
+2026-10-02 14:27:24,514 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/291870 ayrıştırma 2.578 sn
+2026-10-02 14:27:24,535 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/429968 ayrıştırma 3.158 sn
+2026-10-02 14:27:24,932 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/162320 ayrıştırma 2.418 sn
+2026-10-02 14:27:25,383 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/324832 ayrıştırma 2.114 sn
+2026-10-02 14:27:26,274 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/395713 ayrıştırma 5.140 sn
+2026-10-02 14:27:26,571 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/5825 ayrıştırma 2.237 sn
+2026-10-02 14:27:26,673 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/152937 ayrıştırma 4.579 sn
+2026-10-02 14:27:26,948 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/372841 ayrıştırma 2.972 sn
+2026-10-02 14:27:27,073 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/381420 ayrıştırma 2.558 sn
+2026-10-02 14:27:27,203 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/305271 ayrıştırma 2.667 sn
+2026-10-02 14:27:27,377 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/22182 ayrıştırma 2.444 sn
+2026-10-02 14:27:27,553 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/413016 ayrıştırma 2.170 sn
+2026-10-02 14:27:28,360 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/413273 ayrıştırma 2.085 sn
+2026-10-02 14:27:28,529 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/384651 ayrıştırma 1.856 sn
+2026-10-02 14:27:29,151 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/420186 ayrıştırma 2.580 sn
+2026-10-02 14:27:29,471 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/7789 ayrıştırma 2.268 sn
+2026-10-02 14:27:30,094 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/9495 ayrıştırma 3.143 sn
+2026-10-02 14:27:30,308 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/4858 ayrıştırma 2.930 sn
+2026-10-02 14:27:30,518 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/215927 ayrıştırma 2.965 sn
+2026-10-02 14:27:30,680 ERROR Thread-3 (worker) Restaurant fetch failed: https://tgoyemek.com/restoranlar/388873
+Traceback (most recent call last):
+  File "C:\MyData\TexGo\Scripts\tgo_restaurant_dumper_2.py", line 927, in worker
+    record = parse_restaurant_page(client, url)
+  File "C:\MyData\TexGo\Scripts\tgo_restaurant_dumper_2.py", line 268, in parse_restaurant_page
+    WebDriverWait(driver, 30, poll_frequency=0.2).until(
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        lambda d: source_ready(d.page_source, url))
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\selenium\webdriver\support\wait.py", line 112, in until
+    value = method(self._driver)
+  File "C:\MyData\TexGo\Scripts\tgo_restaurant_dumper_2.py", line 269, in <lambda>
+    lambda d: source_ready(d.page_source, url))
+                           ^^^^^^^^^^^^^
+  File "C:\MyData\TexGo\Scripts\tgo_restaurant_dumper_2.py", line 795, in page_source
+    return self.execute_script('return document.documentElement.outerHTML') or ''
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\MyData\TexGo\Scripts\tgo_restaurant_dumper_2.py", line 789, in execute_script
+    raise RuntimeError(str(result['exceptionDetails']))
+RuntimeError: {'exceptionId': 2, 'text': 'Uncaught', 'lineNumber': 0, 'columnNumber': 44, 'scriptId': '196', 'stackTrace': {'callFrames': [{'functionName': '', 'scriptId': '196', 'url': '', 'lineNumber': 0, 'columnNumber': 44}, {'functionName': '', 'scriptId': '196', 'url': '', 'lineNumber': 0, 'columnNumber': 55}]}, 'exception': {'type': 'object', 'subtype': 'error', 'className': 'TypeError', 'description': "TypeError: Cannot read properties of null (reading 'outerHTML')\n    at <anonymous>:1:45\n    at <anonymous>:1:56", 'objectId': '-1163876626098699336.22.2'}}
+2026-10-02 14:27:30,886 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/4746 ayrıştırma 3.813 sn
+2026-10-02 14:27:32,040 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/149997 ayrıştırma 3.511 sn
+2026-10-02 14:27:32,284 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/4907 ayrıştırma 3.923 sn
+2026-10-02 14:27:33,096 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/194971 ayrıştırma 3.002 sn
+2026-10-02 14:27:33,559 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/170676 ayrıştırma 4.407 sn
+2026-10-02 14:27:33,896 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/135562 ayrıştırma 3.587 sn
+2026-10-02 14:27:34,121 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/194434 ayrıştırma 3.436 sn
+2026-10-02 14:27:34,647 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/3670 ayrıştırma 2.606 sn
+2026-10-02 14:27:35,061 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/21252 ayrıştırma 4.542 sn
+2026-10-02 14:27:35,474 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/18698 ayrıştırma 4.587 sn
+2026-10-02 14:27:35,490 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/143416 ayrıştırma 3.205 sn
+2026-10-02 14:27:35,976 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/363906 ayrıştırma 2.417 sn
+2026-10-02 14:27:37,130 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/3320 ayrıştırma 3.009 sn
+2026-10-02 14:27:37,346 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/314778 ayrıştırma 2.284 sn
+2026-10-02 14:27:37,794 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/287270 ayrıştırma 3.897 sn
+2026-10-02 14:27:37,954 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/312950 ayrıştırma 3.306 sn
+2026-10-02 14:27:38,198 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/3817 ayrıştırma 5.101 sn
+2026-10-02 14:27:38,333 ERROR Thread-3 (worker) Restaurant fetch failed: https://tgoyemek.com/restoranlar/119126
+Traceback (most recent call last):
+  File "C:\MyData\TexGo\Scripts\tgo_restaurant_dumper_2.py", line 927, in worker
+    record = parse_restaurant_page(client, url)
+  File "C:\MyData\TexGo\Scripts\tgo_restaurant_dumper_2.py", line 268, in parse_restaurant_page
+    WebDriverWait(driver, 30, poll_frequency=0.2).until(
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        lambda d: source_ready(d.page_source, url))
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\selenium\webdriver\support\wait.py", line 112, in until
+    value = method(self._driver)
+  File "C:\MyData\TexGo\Scripts\tgo_restaurant_dumper_2.py", line 269, in <lambda>
+    lambda d: source_ready(d.page_source, url))
+                           ^^^^^^^^^^^^^
+  File "C:\MyData\TexGo\Scripts\tgo_restaurant_dumper_2.py", line 795, in page_source
+    return self.execute_script('return document.documentElement.outerHTML') or ''
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\MyData\TexGo\Scripts\tgo_restaurant_dumper_2.py", line 789, in execute_script
+    raise RuntimeError(str(result['exceptionDetails']))
+RuntimeError: {'exceptionId': 3, 'text': 'Uncaught', 'lineNumber': 0, 'columnNumber': 44, 'scriptId': '196', 'stackTrace': {'callFrames': [{'functionName': '', 'scriptId': '196', 'url': '', 'lineNumber': 0, 'columnNumber': 44}, {'functionName': '', 'scriptId': '196', 'url': '', 'lineNumber': 0, 'columnNumber': 55}]}, 'exception': {'type': 'object', 'subtype': 'error', 'className': 'TypeError', 'description': "TypeError: Cannot read properties of null (reading 'outerHTML')\n    at <anonymous>:1:45\n    at <anonymous>:1:56", 'objectId': '-1163876626098699336.34.2'}}
+2026-10-02 14:27:38,734 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/113510 ayrıştırma 3.259 sn
+2026-10-02 14:27:39,815 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/33198 ayrıştırma 4.326 sn
+2026-10-02 14:27:40,010 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/368930 ayrıştırma 4.034 sn
+2026-10-02 14:27:40,309 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/14615 ayrıştırma 2.963 sn
+2026-10-02 14:27:40,584 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/22165 ayrıştırma 2.628 sn
+2026-10-02 14:27:40,912 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/120961 ayrıştırma 3.117 sn
+2026-10-02 14:27:41,177 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/155155 ayrıştırma 2.978 sn
+2026-10-02 14:27:42,225 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/342310 ayrıştırma 3.491 sn
+2026-10-02 14:27:43,027 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/15400 ayrıştırma 3.016 sn
+2026-10-02 14:27:43,105 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/427011 ayrıştırma 4.770 sn
+2026-10-02 14:27:43,195 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/354949 ayrıştırma 3.378 sn
+2026-10-02 14:27:43,374 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/305568 ayrıştırma 2.788 sn
+2026-10-02 14:27:44,141 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/115282 ayrıştırma 3.228 sn
+2026-10-02 14:27:44,789 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/7516 ayrıştırma 3.607 sn
+2026-10-02 14:27:44,904 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/195930 ayrıştırma 2.678 sn
+2026-10-02 14:27:45,420 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/22326 ayrıştırma 5.110 sn
+2026-10-02 14:27:46,230 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/150120 ayrıştırma 3.125 sn
+2026-10-02 14:27:46,771 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/193265 ayrıştırma 2.629 sn
+2026-10-02 14:27:46,927 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/204597 ayrıştırma 3.731 sn
+2026-10-02 14:27:47,228 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/176305 ayrıştırma 4.200 sn
+2026-10-02 14:27:48,092 ERROR Thread-10 (worker) Restaurant fetch failed: https://tgoyemek.com/restoranlar/376249
+Traceback (most recent call last):
+  File "C:\MyData\TexGo\Scripts\tgo_restaurant_dumper_2.py", line 927, in worker
+    record = parse_restaurant_page(client, url)
+  File "C:\MyData\TexGo\Scripts\tgo_restaurant_dumper_2.py", line 268, in parse_restaurant_page
+    WebDriverWait(driver, 30, poll_frequency=0.2).until(
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        lambda d: source_ready(d.page_source, url))
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\selenium\webdriver\support\wait.py", line 112, in until
+    value = method(self._driver)
+  File "C:\MyData\TexGo\Scripts\tgo_restaurant_dumper_2.py", line 269, in <lambda>
+    lambda d: source_ready(d.page_source, url))
+                           ^^^^^^^^^^^^^
+  File "C:\MyData\TexGo\Scripts\tgo_restaurant_dumper_2.py", line 795, in page_source
+    return self.execute_script('return document.documentElement.outerHTML') or ''
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\MyData\TexGo\Scripts\tgo_restaurant_dumper_2.py", line 789, in execute_script
+    raise RuntimeError(str(result['exceptionDetails']))
+RuntimeError: {'exceptionId': 2, 'text': 'Uncaught', 'lineNumber': 0, 'columnNumber': 44, 'scriptId': '61', 'exception': {'type': 'object', 'subtype': 'error', 'className': 'TypeError', 'description': "TypeError: Cannot read properties of null (reading 'outerHTML')\n    at <anonymous>:1:45\n    at <anonymous>:1:56", 'objectId': '4422321593853495833.19.2'}}
+2026-10-02 14:27:48,206 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/12109 ayrıştırma 2.785 sn
+2026-10-02 14:27:48,557 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/3502 ayrıştırma 5.183 sn
+2026-10-02 14:27:48,706 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/374832 ayrıştırma 3.917 sn
+2026-10-02 14:27:48,974 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/9023 ayrıştırma 4.069 sn
+2026-10-02 14:27:49,237 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/4992 ayrıştırma 3.006 sn
+2026-10-02 14:27:50,206 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/102410 ayrıştırma 3.278 sn
+2026-10-02 14:27:50,562 ERROR Thread-3 (worker) Restaurant fetch failed: https://tgoyemek.com/restoranlar/162527
+Traceback (most recent call last):
+  File "C:\MyData\TexGo\Scripts\tgo_restaurant_dumper_2.py", line 927, in worker
+    record = parse_restaurant_page(client, url)
+  File "C:\MyData\TexGo\Scripts\tgo_restaurant_dumper_2.py", line 268, in parse_restaurant_page
+    WebDriverWait(driver, 30, poll_frequency=0.2).until(
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        lambda d: source_ready(d.page_source, url))
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\selenium\webdriver\support\wait.py", line 112, in until
+    value = method(self._driver)
+  File "C:\MyData\TexGo\Scripts\tgo_restaurant_dumper_2.py", line 269, in <lambda>
+    lambda d: source_ready(d.page_source, url))
+                           ^^^^^^^^^^^^^
+  File "C:\MyData\TexGo\Scripts\tgo_restaurant_dumper_2.py", line 795, in page_source
+    return self.execute_script('return document.documentElement.outerHTML') or ''
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\MyData\TexGo\Scripts\tgo_restaurant_dumper_2.py", line 789, in execute_script
+    raise RuntimeError(str(result['exceptionDetails']))
+RuntimeError: {'exceptionId': 4, 'text': 'Uncaught', 'lineNumber': 0, 'columnNumber': 44, 'scriptId': '196', 'stackTrace': {'callFrames': [{'functionName': '', 'scriptId': '196', 'url': '', 'lineNumber': 0, 'columnNumber': 44}, {'functionName': '', 'scriptId': '196', 'url': '', 'lineNumber': 0, 'columnNumber': 55}]}, 'exception': {'type': 'object', 'subtype': 'error', 'className': 'TypeError', 'description': "TypeError: Cannot read properties of null (reading 'outerHTML')\n    at <anonymous>:1:45\n    at <anonymous>:1:56", 'objectId': '-1163876626098699336.50.2'}}
+2026-10-02 14:27:50,697 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/20896 ayrıştırma 2.490 sn
+2026-10-02 14:27:51,116 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/413189 ayrıştırma 2.558 sn
+2026-10-02 14:27:51,555 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/126765 ayrıştırma 4.326 sn
+2026-10-02 14:27:51,896 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/11086 ayrıştırma 3.188 sn
+2026-10-02 14:27:52,400 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/303899 ayrıştırma 3.425 sn
+2026-10-02 14:27:52,909 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/20615 ayrıştırma 2.212 sn
+2026-10-02 14:27:53,229 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/225030 ayrıştırma 2.113 sn
+2026-10-02 14:27:53,910 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/101195 ayrıştırma 3.342 sn
+2026-10-02 14:27:54,106 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/11163 ayrıştırma 2.551 sn
+2026-10-02 14:27:54,560 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/5487 ayrıştırma 2.160 sn
+2026-10-02 14:27:54,751 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/408495 ayrıştırma 6.656 sn
+2026-10-02 14:27:55,700 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/155477 ayrıştırma 5.494 sn
+2026-10-02 14:27:55,873 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/322054 ayrıştırma 3.976 sn
+2026-10-02 14:27:56,262 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/242161 ayrıştırma 3.353 sn
+2026-10-02 14:27:56,385 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/158906 ayrıştırma 3.155 sn
+2026-10-02 14:27:57,042 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/342457 ayrıştırma 2.286 sn
+2026-10-02 14:27:57,140 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/428904 ayrıştırma 3.229 sn
+2026-10-02 14:27:57,638 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/121412 ayrıştırma 3.078 sn
+2026-10-02 14:27:57,869 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/118223 ayrıştırma 3.763 sn
+2026-10-02 14:27:58,649 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/343440 ayrıştırma 2.949 sn
+2026-10-02 14:27:58,787 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/378286 ayrıştırma 2.913 sn
+2026-10-02 14:27:59,219 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/427446 ayrıştırma 2.956 sn
+2026-10-02 14:27:59,465 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/211399 ayrıştırma 3.079 sn
+2026-10-02 14:27:59,812 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/435965 ayrıştırma 2.672 sn
+2026-10-02 14:28:00,389 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/372495 ayrıştırma 2.519 sn
+2026-10-02 14:28:01,050 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/289867 ayrıştırma 2.400 sn
+2026-10-02 14:28:01,249 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/431775 ayrıştırma 2.030 sn
+2026-10-02 14:28:01,714 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/4272 ayrıştırma 4.672 sn
+2026-10-02 14:28:02,204 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/4854 ayrıştırma 2.738 sn
+2026-10-02 14:28:02,641 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/459683 ayrıştırma 2.829 sn
+2026-10-02 14:28:03,191 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/159445 ayrıştırma 5.552 sn
+2026-10-02 14:28:03,385 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/399288 ayrıştırma 4.590 sn
+2026-10-02 14:28:03,617 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/314918 ayrıştırma 3.227 sn
+2026-10-02 14:28:04,361 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/3432 ayrıştırma 2.646 sn
+2026-10-02 14:28:04,779 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/431837 ayrıştırma 3.729 sn
+2026-10-02 14:28:04,981 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/402313 ayrıştırma 2.339 sn
+2026-10-02 14:28:05,119 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/424787 ayrıştırma 2.914 sn
+2026-10-02 14:28:05,626 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/238072 ayrıştırma 2.431 sn
+2026-10-02 14:28:06,270 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/239162 ayrıştırma 5.021 sn
+2026-10-02 14:28:06,352 ERROR Thread-3 (worker) Restaurant fetch failed: https://tgoyemek.com/restoranlar/406009
+Traceback (most recent call last):
+  File "C:\MyData\TexGo\Scripts\tgo_restaurant_dumper_2.py", line 927, in worker
+    record = parse_restaurant_page(client, url)
+  File "C:\MyData\TexGo\Scripts\tgo_restaurant_dumper_2.py", line 268, in parse_restaurant_page
+    WebDriverWait(driver, 30, poll_frequency=0.2).until(
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        lambda d: source_ready(d.page_source, url))
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\selenium\webdriver\support\wait.py", line 112, in until
+    value = method(self._driver)
+  File "C:\MyData\TexGo\Scripts\tgo_restaurant_dumper_2.py", line 269, in <lambda>
+    lambda d: source_ready(d.page_source, url))
+                           ^^^^^^^^^^^^^
+  File "C:\MyData\TexGo\Scripts\tgo_restaurant_dumper_2.py", line 795, in page_source
+    return self.execute_script('return document.documentElement.outerHTML') or ''
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\MyData\TexGo\Scripts\tgo_restaurant_dumper_2.py", line 789, in execute_script
+    raise RuntimeError(str(result['exceptionDetails']))
+RuntimeError: {'exceptionId': 5, 'text': 'Uncaught', 'lineNumber': 0, 'columnNumber': 44, 'scriptId': '196', 'stackTrace': {'callFrames': [{'functionName': '', 'scriptId': '196', 'url': '', 'lineNumber': 0, 'columnNumber': 44}, {'functionName': '', 'scriptId': '196', 'url': '', 'lineNumber': 0, 'columnNumber': 55}]}, 'exception': {'type': 'object', 'subtype': 'error', 'className': 'TypeError', 'description': "TypeError: Cannot read properties of null (reading 'outerHTML')\n    at <anonymous>:1:45\n    at <anonymous>:1:56", 'objectId': '-1163876626098699336.74.2'}}
+2026-10-02 14:28:06,718 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/424676 ayrıştırma 3.101 sn
+2026-10-02 14:28:07,219 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/409993 ayrıştırma 3.834 sn
+2026-10-02 14:28:07,390 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/211591 ayrıştırma 3.029 sn
+2026-10-02 14:28:07,753 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/276955 ayrıştırma 2.973 sn
+2026-10-02 14:28:08,240 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/11330 ayrıştırma 3.121 sn
+2026-10-02 14:28:08,479 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/328901 ayrıştırma 2.852 sn
+2026-10-02 14:28:08,842 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/370927 ayrıştırma 2.123 sn
+2026-10-02 14:28:08,944 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/228976 ayrıştırma 2.673 sn
+2026-10-02 14:28:09,558 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/3731 ayrıştırma 2.167 sn
+2026-10-02 14:28:09,902 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/220996 ayrıştırma 2.148 sn
+2026-10-02 14:28:10,565 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/191006 ayrıştırma 3.345 sn
+2026-10-02 14:28:10,626 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/339524 ayrıştırma 2.147 sn
+2026-10-02 14:28:10,958 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/388827 ayrıştırma 2.717 sn
+2026-10-02 14:28:11,749 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/13820 ayrıştırma 5.396 sn
+2026-10-02 14:28:11,834 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/419658 ayrıştırma 2.991 sn
+2026-10-02 14:28:12,170 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/368480 ayrıştırma 3.224 sn
+2026-10-02 14:28:12,560 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/374867 ayrıştırma 3.002 sn
+2026-10-02 14:28:12,794 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/300216 ayrıştırma 2.179 sn
+2026-10-02 14:28:13,274 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/328159 ayrıştırma 2.648 sn
+2026-10-02 14:28:13,803 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/342837 ayrıştırma 2.054 sn
+2026-10-02 14:28:14,246 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/411397 ayrıştırma 3.284 sn
+2026-10-02 14:28:14,978 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/21325 ayrıştırma 5.075 sn
+2026-10-02 14:28:15,364 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/339619 ayrıştırma 2.803 sn
+2026-10-02 14:28:15,817 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/311962 ayrıştırma 3.982 sn
+2026-10-02 14:28:15,931 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/24207 ayrıştırma 3.760 sn
+2026-10-02 14:28:16,394 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/301844 ayrıştırma 2.591 sn
+2026-10-02 14:28:16,513 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/438004 ayrıştırma 3.718 sn
+2026-10-02 14:28:16,889 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/311963 ayrıştırma 3.615 sn
+2026-10-02 14:28:17,339 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/209767 ayrıştırma 3.093 sn
+2026-10-02 14:28:17,567 ERROR Thread-3 (worker) Restaurant fetch failed: https://tgoyemek.com/restoranlar/320204
+Traceback (most recent call last):
+  File "C:\MyData\TexGo\Scripts\tgo_restaurant_dumper_2.py", line 927, in worker
+    record = parse_restaurant_page(client, url)
+  File "C:\MyData\TexGo\Scripts\tgo_restaurant_dumper_2.py", line 268, in parse_restaurant_page
+    WebDriverWait(driver, 30, poll_frequency=0.2).until(
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        lambda d: source_ready(d.page_source, url))
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\selenium\webdriver\support\wait.py", line 112, in until
+    value = method(self._driver)
+  File "C:\MyData\TexGo\Scripts\tgo_restaurant_dumper_2.py", line 269, in <lambda>
+    lambda d: source_ready(d.page_source, url))
+                           ^^^^^^^^^^^^^
+  File "C:\MyData\TexGo\Scripts\tgo_restaurant_dumper_2.py", line 795, in page_source
+    return self.execute_script('return document.documentElement.outerHTML') or ''
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\MyData\TexGo\Scripts\tgo_restaurant_dumper_2.py", line 789, in execute_script
+    raise RuntimeError(str(result['exceptionDetails']))
+RuntimeError: {'exceptionId': 6, 'text': 'Uncaught', 'lineNumber': 0, 'columnNumber': 44, 'scriptId': '196', 'stackTrace': {'callFrames': [{'functionName': '', 'scriptId': '196', 'url': '', 'lineNumber': 0, 'columnNumber': 44}, {'functionName': '', 'scriptId': '196', 'url': '', 'lineNumber': 0, 'columnNumber': 55}]}, 'exception': {'type': 'object', 'subtype': 'error', 'className': 'TypeError', 'description': "TypeError: Cannot read properties of null (reading 'outerHTML')\n    at <anonymous>:1:45\n    at <anonymous>:1:56", 'objectId': '-1163876626098699336.90.2'}}
+2026-10-02 14:28:17,644 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/331729 ayrıştırma 2.665 sn
+2026-10-02 14:28:18,111 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/5233 ayrıştırma 2.293 sn
+2026-10-02 14:28:18,963 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/301849 ayrıştırma 3.031 sn
+2026-10-02 14:28:19,448 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/434665 ayrıştırma 4.083 sn
+2026-10-02 14:28:19,609 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/191907 ayrıştırma 3.095 sn
+2026-10-02 14:28:20,080 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/158631 ayrıştırma 2.740 sn
+2026-10-02 14:28:20,603 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/362161 ayrıştırma 2.492 sn
+2026-10-02 14:28:21,157 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/410426 ayrıştırma 3.511 sn
+2026-10-02 14:28:21,599 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/410791 ayrıştırma 2.151 sn
+2026-10-02 14:28:21,878 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/118508 ayrıştırma 4.310 sn
+2026-10-02 14:28:22,524 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/416736 ayrıştırma 5.634 sn
+2026-10-02 14:28:22,935 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/287309 ayrıştırma 3.325 sn
+2026-10-02 14:28:22,949 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/366771 ayrıştırma 2.868 sn
+2026-10-02 14:28:23,955 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/144668 ayrıştırma 3.351 sn
+2026-10-02 14:28:24,409 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/327461 ayrıştırma 5.445 sn
+2026-10-02 14:28:25,289 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/244499 ayrıştırma 3.690 sn
+2026-10-02 14:28:25,597 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/298657 ayrıştırma 4.440 sn
+2026-10-02 14:28:25,759 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/320048 ayrıştırma 3.879 sn
+2026-10-02 14:28:26,141 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/425117 ayrıştırma 3.616 sn
+2026-10-02 14:28:26,289 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/297409 ayrıştırma 3.340 sn
+2026-10-02 14:28:26,474 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/211001 ayrıştırma 2.518 sn
+2026-10-02 14:28:27,348 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/6055 ayrıştırma 4.413 sn
+2026-10-02 14:28:27,961 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/168912 ayrıştırma 3.552 sn
+2026-10-02 14:28:28,367 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/146473 ayrıştırma 3.077 sn
+2026-10-02 14:28:28,596 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/339499 ayrıştırma 2.837 sn
+2026-10-02 14:28:28,931 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/339920 ayrıştırma 3.330 sn
+2026-10-02 14:28:29,546 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/303401 ayrıştırma 3.405 sn
+2026-10-02 14:28:29,851 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/317361 ayrıştırma 3.376 sn
+2026-10-02 14:28:29,990 ERROR Thread-3 (worker) Restaurant fetch failed: https://tgoyemek.com/restoranlar/404488
+Traceback (most recent call last):
+  File "C:\MyData\TexGo\Scripts\tgo_restaurant_dumper_2.py", line 927, in worker
+    record = parse_restaurant_page(client, url)
+  File "C:\MyData\TexGo\Scripts\tgo_restaurant_dumper_2.py", line 268, in parse_restaurant_page
+    WebDriverWait(driver, 30, poll_frequency=0.2).until(
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        lambda d: source_ready(d.page_source, url))
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\selenium\webdriver\support\wait.py", line 112, in until
+    value = method(self._driver)
+  File "C:\MyData\TexGo\Scripts\tgo_restaurant_dumper_2.py", line 269, in <lambda>
+    lambda d: source_ready(d.page_source, url))
+                           ^^^^^^^^^^^^^
+  File "C:\MyData\TexGo\Scripts\tgo_restaurant_dumper_2.py", line 795, in page_source
+    return self.execute_script('return document.documentElement.outerHTML') or ''
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\MyData\TexGo\Scripts\tgo_restaurant_dumper_2.py", line 789, in execute_script
+    raise RuntimeError(str(result['exceptionDetails']))
+RuntimeError: {'exceptionId': 10, 'text': 'Uncaught', 'lineNumber': 0, 'columnNumber': 44, 'scriptId': '196', 'stackTrace': {'callFrames': [{'functionName': '', 'scriptId': '196', 'url': '', 'lineNumber': 0, 'columnNumber': 44}, {'functionName': '', 'scriptId': '196', 'url': '', 'lineNumber': 0, 'columnNumber': 55}]}, 'exception': {'type': 'object', 'subtype': 'error', 'className': 'TypeError', 'description': "TypeError: Cannot read properties of null (reading 'outerHTML')\n    at <anonymous>:1:45\n    at <anonymous>:1:56", 'objectId': '-1163876626098699336.106.2'}}
+2026-10-02 14:28:30,361 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/336154 ayrıştırma 4.072 sn
+2026-10-02 14:28:30,813 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/409896 ayrıştırma 3.464 sn
+2026-10-02 14:28:31,153 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/243915 ayrıştırma 3.191 sn
+2026-10-02 14:28:31,390 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/245362 ayrıştırma 3.022 sn
+2026-10-02 14:28:32,132 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/330592 ayrıştırma 2.586 sn
+2026-10-02 14:28:32,437 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/279318 ayrıştırma 2.076 sn
+2026-10-02 14:28:32,450 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/378568 ayrıştırma 3.519 sn
+2026-10-02 14:28:32,687 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/27587 ayrıştırma 2.835 sn
+2026-10-02 14:28:33,134 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/358509 ayrıştırma 3.141 sn
+2026-10-02 14:28:36,676 INFO MainThread Performans: kayıt=229 yeni_çekilen=185 hatalı_URL=7 eksik=7 toplam=90.820s ortalama_restoran=3.252s duvar_saati_ortalama=0.491s kesildi=False
