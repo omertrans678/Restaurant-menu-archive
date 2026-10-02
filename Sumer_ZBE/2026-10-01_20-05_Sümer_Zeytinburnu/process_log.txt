@@ -1,0 +1,1016 @@
+2026-10-01 20:05:51,483 INFO MainThread Seçilecek adres: 'Sümer, 34025 Zeytinburnu/İstanbul'
+2026-10-01 20:06:18,259 INFO MainThread Kampanya listeleme: 446 benzersiz URL, https://tgoyemek.com/arama?promotionIds=65910950,67806491,68999768,69518655,73980185&openRestaurants=false
+2026-10-01 20:06:25,860 INFO Thread-7 (worker) Seçilecek adres: 'Sümer, 34025 Zeytinburnu/İstanbul'
+2026-10-01 20:06:26,278 INFO Thread-8 (worker) Seçilecek adres: 'Sümer, 34025 Zeytinburnu/İstanbul'
+2026-10-01 20:06:26,364 INFO Thread-5 (worker) Seçilecek adres: 'Sümer, 34025 Zeytinburnu/İstanbul'
+2026-10-01 20:06:26,407 INFO Thread-10 (worker) Seçilecek adres: 'Sümer, 34025 Zeytinburnu/İstanbul'
+2026-10-01 20:06:26,426 INFO Thread-9 (worker) Seçilecek adres: 'Sümer, 34025 Zeytinburnu/İstanbul'
+2026-10-01 20:06:26,633 INFO Thread-4 (worker) Seçilecek adres: 'Sümer, 34025 Zeytinburnu/İstanbul'
+2026-10-01 20:06:26,803 INFO Thread-6 (worker) Seçilecek adres: 'Sümer, 34025 Zeytinburnu/İstanbul'
+2026-10-01 20:06:28,650 INFO Thread-11 (worker) Seçilecek adres: 'Sümer, 34025 Zeytinburnu/İstanbul'
+2026-10-01 20:06:29,914 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/122177 ayrıştırma 2.489 sn
+2026-10-01 20:06:30,166 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/401151 ayrıştırma 2.145 sn
+2026-10-01 20:06:30,246 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/8650 ayrıştırma 2.733 sn
+2026-10-01 20:06:30,902 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/312797 ayrıştırma 3.013 sn
+2026-10-01 20:06:32,159 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/405813 ayrıştırma 2.243 sn
+2026-10-01 20:06:32,293 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/324234 ayrıştırma 2.045 sn
+2026-10-01 20:06:32,404 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/5106 ayrıştırma 2.484 sn
+2026-10-01 20:06:32,659 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/166132 ayrıştırma 2.492 sn
+2026-10-01 20:06:33,174 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/17324 ayrıştırma 3.191 sn
+2026-10-01 20:06:33,207 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/7133 ayrıştırma 3.451 sn
+2026-10-01 20:06:33,287 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/298350 ayrıştırma 2.384 sn
+2026-10-01 20:06:33,697 INFO Thread-11 (worker) Restoran https://tgoyemek.com/restoranlar/172809 ayrıştırma 3.202 sn
+2026-10-01 20:06:34,190 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/105387 ayrıştırma 1.897 sn
+2026-10-01 20:06:34,497 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/5667 ayrıştırma 2.337 sn
+2026-10-01 20:06:34,520 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/108850 ayrıştırma 1.859 sn
+2026-10-01 20:06:34,628 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/177533 ayrıştırma 2.224 sn
+2026-10-01 20:06:34,761 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/389922 ayrıştırma 1.560 sn
+2026-10-01 20:06:34,855 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/395096 ayrıştırma 1.567 sn
+2026-10-01 20:06:35,207 INFO Thread-11 (worker) Restoran https://tgoyemek.com/restoranlar/4904 ayrıştırma 1.510 sn
+2026-10-01 20:06:35,590 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/226436 ayrıştırma 2.382 sn
+2026-10-01 20:06:36,647 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/217126 ayrıştırma 2.456 sn
+2026-10-01 20:06:36,677 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/395693 ayrıştırma 1.916 sn
+2026-10-01 20:06:36,775 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/433678 ayrıştırma 2.145 sn
+2026-10-01 20:06:36,858 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/24232 ayrıştırma 2.361 sn
+2026-10-01 20:06:36,886 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/411536 ayrıştırma 2.366 sn
+2026-10-01 20:06:36,932 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/407221 ayrıştırma 2.076 sn
+2026-10-01 20:06:37,039 INFO Thread-11 (worker) Restoran https://tgoyemek.com/restoranlar/413566 ayrıştırma 1.831 sn
+2026-10-01 20:06:37,534 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/432098 ayrıştırma 1.943 sn
+2026-10-01 20:06:38,755 INFO Thread-11 (worker) Restoran https://tgoyemek.com/restoranlar/416095 ayrıştırma 1.716 sn
+2026-10-01 20:06:38,989 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/28707 ayrıştırma 2.311 sn
+2026-10-01 20:06:39,028 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/374832 ayrıştırma 2.252 sn
+2026-10-01 20:06:39,105 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/194434 ayrıştırma 2.173 sn
+2026-10-01 20:06:39,185 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/21252 ayrıştırma 2.326 sn
+2026-10-01 20:06:39,287 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/143416 ayrıştırma 1.752 sn
+2026-10-01 20:06:39,322 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/5290 ayrıştırma 2.674 sn
+2026-10-01 20:06:39,475 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/6120 ayrıştırma 2.588 sn
+2026-10-01 20:06:40,507 INFO Thread-11 (worker) Restoran https://tgoyemek.com/restoranlar/144771 ayrıştırma 1.751 sn
+2026-10-01 20:06:40,711 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/147177 ayrıştırma 1.678 sn
+2026-10-01 20:06:40,869 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/8378 ayrıştırma 1.582 sn
+2026-10-01 20:06:41,052 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/383889 ayrıştırma 1.730 sn
+2026-10-01 20:06:41,145 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/100083 ayrıştırma 1.960 sn
+2026-10-01 20:06:41,300 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/467384 ayrıştırma 2.190 sn
+2026-10-01 20:06:41,338 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/129271 ayrıştırma 2.348 sn
+2026-10-01 20:06:41,493 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/5623 ayrıştırma 2.018 sn
+2026-10-01 20:06:42,368 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/224849 ayrıştırma 1.657 sn
+2026-10-01 20:06:42,667 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/427011 ayrıştırma 1.797 sn
+2026-10-01 20:06:42,833 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/306718 ayrıştırma 1.781 sn
+2026-10-01 20:06:43,050 INFO Thread-11 (worker) Restoran https://tgoyemek.com/restoranlar/15192 ayrıştırma 2.543 sn
+2026-10-01 20:06:43,080 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/435144 ayrıştırma 1.586 sn
+2026-10-01 20:06:43,260 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/206850 ayrıştırma 2.111 sn
+2026-10-01 20:06:43,790 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/6111 ayrıştırma 2.451 sn
+2026-10-01 20:06:43,809 WARNING MainThread Ctrl+C: tamamlanan veriler korunuyor
+2026-10-01 20:06:43,815 WARNING Thread-38 (close) Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(10054, 'Varolan bir bağlantı uzaktaki bir ana bilgisayar tarafından zorla kapatıldı', None, 10054, None)': /session/699494c403a42b93b5f3a7b712613c8c
+2026-10-01 20:06:43,816 WARNING Thread-36 (close) Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2026-10-01 20:06:43,817 WARNING Thread-36 (close) Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(10054, 'Varolan bir bağlantı uzaktaki bir ana bilgisayar tarafından zorla kapatıldı', None, 10054, None)': /session/906ad859afe1c1dcddfa36cb96633f42
+2026-10-01 20:06:43,816 ERROR Thread-5 (worker) Restoran okunamadı: https://tgoyemek.com/restoranlar/243915
+Traceback (most recent call last):
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\connectionpool.py", line 793, in urlopen
+    response = self._make_request(
+        conn,
+    ...<10 lines>...
+        **response_kw,
+    )
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\connectionpool.py", line 540, in _make_request
+    response = conn.getresponse()
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\connection.py", line 638, in getresponse
+    httplib_response = super().getresponse()
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 1478, in getresponse
+    response.begin()
+    ~~~~~~~~~~~~~~^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 343, in begin
+    version, status, reason = self._read_status()
+                              ~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 304, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+               ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\socket.py", line 729, in readinto
+    return self._sock.recv_into(b)
+           ~~~~~~~~~~~~~~~~~~~~^^^
+ConnectionResetError: [WinError 10054] Varolan bir bağlantı uzaktaki bir ana bilgisayar tarafından zorla kapatıldı
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\MyData\TexGo\Scripts\tgo_restaurant_dumper_2.py", line 806, in worker
+    record = parse_restaurant_page(driver, url)
+  File "C:\MyData\TexGo\Scripts\tgo_restaurant_dumper_2.py", line 248, in parse_restaurant_page
+    driver.get(url)
+    ~~~~~~~~~~^^^^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 526, in get
+    self.execute(Command.GET, {"url": url})
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 503, in execute
+    response = cast(RemoteConnection, self.command_executor).execute(driver_command, params)
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\selenium\webdriver\remote\remote_connection.py", line 407, in execute
+    return self._request(command_info[0], url, body=data)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\selenium\webdriver\remote\remote_connection.py", line 431, in _request
+    response = self._conn.request(method, url, body=body, headers=headers, timeout=self._client_config.timeout)
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\_request_methods.py", line 143, in request
+    return self.request_encode_body(
+           ~~~~~~~~~~~~~~~~~~~~~~~~^
+        method, url, fields=fields, headers=headers, **urlopen_kw
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\_request_methods.py", line 278, in request_encode_body
+    return self.urlopen(method, url, **extra_kw)
+           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\poolmanager.py", line 459, in urlopen
+    response = conn.urlopen(method, u.request_uri, **kw)
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\connectionpool.py", line 847, in urlopen
+    retries = retries.increment(
+        method, url, error=new_e, _pool=self, _stacktrace=sys.exc_info()[2]
+    )
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\util\retry.py", line 510, in increment
+    raise reraise(type(error), error, _stacktrace)
+          ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\util\util.py", line 38, in reraise
+    raise value.with_traceback(tb)
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\connectionpool.py", line 793, in urlopen
+    response = self._make_request(
+        conn,
+    ...<10 lines>...
+        **response_kw,
+    )
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\connectionpool.py", line 540, in _make_request
+    response = conn.getresponse()
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\connection.py", line 638, in getresponse
+    httplib_response = super().getresponse()
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 1478, in getresponse
+    response.begin()
+    ~~~~~~~~~~~~~~^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 343, in begin
+    version, status, reason = self._read_status()
+                              ~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 304, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+               ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\socket.py", line 729, in readinto
+    return self._sock.recv_into(b)
+           ~~~~~~~~~~~~~~~~~~~~^^^
+urllib3.exceptions.ProtocolError: ('Connection aborted.', ConnectionResetError(10054, 'Varolan bir bağlantı uzaktaki bir ana bilgisayar tarafından zorla kapatıldı', None, 10054, None))
+2026-10-01 20:06:43,817 ERROR Thread-9 (worker) Restoran okunamadı: https://tgoyemek.com/restoranlar/287270
+Traceback (most recent call last):
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\connectionpool.py", line 793, in urlopen
+    response = self._make_request(
+        conn,
+    ...<10 lines>...
+        **response_kw,
+    )
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\connectionpool.py", line 540, in _make_request
+    response = conn.getresponse()
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\connection.py", line 638, in getresponse
+    httplib_response = super().getresponse()
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 1478, in getresponse
+    response.begin()
+    ~~~~~~~~~~~~~~^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 343, in begin
+    version, status, reason = self._read_status()
+                              ~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 304, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+               ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\socket.py", line 729, in readinto
+    return self._sock.recv_into(b)
+           ~~~~~~~~~~~~~~~~~~~~^^^
+ConnectionResetError: [WinError 10054] Varolan bir bağlantı uzaktaki bir ana bilgisayar tarafından zorla kapatıldı
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\MyData\TexGo\Scripts\tgo_restaurant_dumper_2.py", line 806, in worker
+    record = parse_restaurant_page(driver, url)
+  File "C:\MyData\TexGo\Scripts\tgo_restaurant_dumper_2.py", line 248, in parse_restaurant_page
+    driver.get(url)
+    ~~~~~~~~~~^^^^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 526, in get
+    self.execute(Command.GET, {"url": url})
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 503, in execute
+    response = cast(RemoteConnection, self.command_executor).execute(driver_command, params)
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\selenium\webdriver\remote\remote_connection.py", line 407, in execute
+    return self._request(command_info[0], url, body=data)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\selenium\webdriver\remote\remote_connection.py", line 431, in _request
+    response = self._conn.request(method, url, body=body, headers=headers, timeout=self._client_config.timeout)
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\_request_methods.py", line 143, in request
+    return self.request_encode_body(
+           ~~~~~~~~~~~~~~~~~~~~~~~~^
+        method, url, fields=fields, headers=headers, **urlopen_kw
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\_request_methods.py", line 278, in request_encode_body
+    return self.urlopen(method, url, **extra_kw)
+           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\poolmanager.py", line 459, in urlopen
+    response = conn.urlopen(method, u.request_uri, **kw)
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\connectionpool.py", line 847, in urlopen
+    retries = retries.increment(
+        method, url, error=new_e, _pool=self, _stacktrace=sys.exc_info()[2]
+    )
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\util\retry.py", line 510, in increment
+    raise reraise(type(error), error, _stacktrace)
+          ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\util\util.py", line 38, in reraise
+    raise value.with_traceback(tb)
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\connectionpool.py", line 793, in urlopen
+    response = self._make_request(
+        conn,
+    ...<10 lines>...
+        **response_kw,
+    )
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\connectionpool.py", line 540, in _make_request
+    response = conn.getresponse()
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\connection.py", line 638, in getresponse
+    httplib_response = super().getresponse()
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 1478, in getresponse
+    response.begin()
+    ~~~~~~~~~~~~~~^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 343, in begin
+    version, status, reason = self._read_status()
+                              ~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 304, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+               ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\socket.py", line 729, in readinto
+    return self._sock.recv_into(b)
+           ~~~~~~~~~~~~~~~~~~~~^^^
+urllib3.exceptions.ProtocolError: ('Connection aborted.', ConnectionResetError(10054, 'Varolan bir bağlantı uzaktaki bir ana bilgisayar tarafından zorla kapatıldı', None, 10054, None))
+2026-10-01 20:06:43,817 WARNING Thread-39 (close) Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2026-10-01 20:06:43,817 WARNING Thread-6 (worker) Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(10054, 'Varolan bir bağlantı uzaktaki bir ana bilgisayar tarafından zorla kapatıldı', None, 10054, None)': /session/699494c403a42b93b5f3a7b712613c8c/source
+2026-10-01 20:06:43,818 WARNING Thread-37 (close) Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2026-10-01 20:06:43,818 WARNING Thread-41 (close) Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(10054, 'Varolan bir bağlantı uzaktaki bir ana bilgisayar tarafından zorla kapatıldı', None, 10054, None)': /session/5be9c66ab7cb86c23ab7fa7175080523
+2026-10-01 20:06:43,816 WARNING Thread-4 (worker) Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(10054, 'Varolan bir bağlantı uzaktaki bir ana bilgisayar tarafından zorla kapatıldı', None, 10054, None)': /session/4fd686a0b1fc7504917998cabefcd8f0/element/f.68031977E472D0A1FCD55D159C9D0D07.d.AB6C3B71AA6FFC8CF3E1D7043C2B893C.e.8223/text
+2026-10-01 20:06:43,819 ERROR Thread-7 (worker) Restoran okunamadı: https://tgoyemek.com/restoranlar/283370
+Traceback (most recent call last):
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\connectionpool.py", line 793, in urlopen
+    response = self._make_request(
+        conn,
+    ...<10 lines>...
+        **response_kw,
+    )
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\connectionpool.py", line 540, in _make_request
+    response = conn.getresponse()
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\connection.py", line 638, in getresponse
+    httplib_response = super().getresponse()
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 1478, in getresponse
+    response.begin()
+    ~~~~~~~~~~~~~~^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 343, in begin
+    version, status, reason = self._read_status()
+                              ~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 304, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+               ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\socket.py", line 729, in readinto
+    return self._sock.recv_into(b)
+           ~~~~~~~~~~~~~~~~~~~~^^^
+ConnectionResetError: [WinError 10054] Varolan bir bağlantı uzaktaki bir ana bilgisayar tarafından zorla kapatıldı
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\MyData\TexGo\Scripts\tgo_restaurant_dumper_2.py", line 806, in worker
+    record = parse_restaurant_page(driver, url)
+  File "C:\MyData\TexGo\Scripts\tgo_restaurant_dumper_2.py", line 252, in parse_restaurant_page
+    dismiss_cookies(driver)
+    ~~~~~~~~~~~~~~~^^^^^^^^
+  File "C:\MyData\TexGo\Scripts\tgo_restaurant_dumper_2.py", line 652, in dismiss_cookies
+    for button in driver.find_elements(By.CSS_SELECTOR, selector):
+                  ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 944, in find_elements
+    return self.execute(Command.FIND_ELEMENTS, {"using": by, "value": value})["value"] or []
+           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 503, in execute
+    response = cast(RemoteConnection, self.command_executor).execute(driver_command, params)
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\selenium\webdriver\remote\remote_connection.py", line 407, in execute
+    return self._request(command_info[0], url, body=data)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\selenium\webdriver\remote\remote_connection.py", line 431, in _request
+    response = self._conn.request(method, url, body=body, headers=headers, timeout=self._client_config.timeout)
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\_request_methods.py", line 143, in request
+    return self.request_encode_body(
+           ~~~~~~~~~~~~~~~~~~~~~~~~^
+        method, url, fields=fields, headers=headers, **urlopen_kw
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\_request_methods.py", line 278, in request_encode_body
+    return self.urlopen(method, url, **extra_kw)
+           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\poolmanager.py", line 459, in urlopen
+    response = conn.urlopen(method, u.request_uri, **kw)
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\connectionpool.py", line 847, in urlopen
+    retries = retries.increment(
+        method, url, error=new_e, _pool=self, _stacktrace=sys.exc_info()[2]
+    )
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\util\retry.py", line 510, in increment
+    raise reraise(type(error), error, _stacktrace)
+          ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\util\util.py", line 38, in reraise
+    raise value.with_traceback(tb)
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\connectionpool.py", line 793, in urlopen
+    response = self._make_request(
+        conn,
+    ...<10 lines>...
+        **response_kw,
+    )
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\connectionpool.py", line 540, in _make_request
+    response = conn.getresponse()
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\connection.py", line 638, in getresponse
+    httplib_response = super().getresponse()
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 1478, in getresponse
+    response.begin()
+    ~~~~~~~~~~~~~~^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 343, in begin
+    version, status, reason = self._read_status()
+                              ~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 304, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+               ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\socket.py", line 729, in readinto
+    return self._sock.recv_into(b)
+           ~~~~~~~~~~~~~~~~~~~~^^^
+urllib3.exceptions.ProtocolError: ('Connection aborted.', ConnectionResetError(10054, 'Varolan bir bağlantı uzaktaki bir ana bilgisayar tarafından zorla kapatıldı', None, 10054, None))
+2026-10-01 20:06:43,819 WARNING Thread-8 (worker) Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(10054, 'Varolan bir bağlantı uzaktaki bir ana bilgisayar tarafından zorla kapatıldı', None, 10054, None)': /session/151d1e247fc066a63095b60b8d535b10/element/f.C28AAFDC70992322DD11EA8292F76587.d.A30B94035F7EA3BEF81D9237B34D417A.e.7447/text
+2026-10-01 20:06:43,820 WARNING Thread-10 (worker) Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2026-10-01 20:06:43,821 WARNING Thread-40 (close) Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(10054, 'Varolan bir bağlantı uzaktaki bir ana bilgisayar tarafından zorla kapatıldı', None, 10054, None)': /session/650b066adc53ea53a6807092efcba85a
+2026-10-01 20:06:43,822 WARNING Thread-11 (worker) Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2026-10-01 20:06:43,824 WARNING Thread-42 (close) Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2026-10-01 20:06:43,992 ERROR Thread-5 (worker) Geçici klasör kilitli, silinemedi: C:\Users\OmerW11\AppData\Local\Temp\tgo-dumper-ngnxhx_l\worker-1
+Traceback (most recent call last):
+  File "C:\MyData\TexGo\Scripts\tgo_restaurant_dumper_2.py", line 711, in cleanup_owned
+    shutil.rmtree(target)
+    ~~~~~~~~~~~~~^^^^^^^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\shutil.py", line 852, in rmtree
+    _rmtree_impl(path, dir_fd, onexc)
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\shutil.py", line 705, in _rmtree_unsafe
+    onexc(os.unlink, fullname, err)
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\shutil.py", line 701, in _rmtree_unsafe
+    os.unlink(fullname)
+    ~~~~~~~~~^^^^^^^^^^
+PermissionError: [WinError 32] Dosya başka bir işlem tarafından kullanıldığından bu işlem dosyaya erişemiyor: 'C:\\Users\\OmerW11\\AppData\\Local\\Temp\\tgo-dumper-ngnxhx_l\\worker-1\\profile\\Default\\Cache\\Cache_Data\\sqldb0'
+2026-10-01 20:06:43,999 WARNING Thread-39 (close) Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(10054, 'Varolan bir bağlantı uzaktaki bir ana bilgisayar tarafından zorla kapatıldı', None, 10054, None)': /session/dce8478d9c5f5e391838f8b01cda1a5d
+2026-10-01 20:06:44,000 WARNING Thread-37 (close) Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(10054, 'Varolan bir bağlantı uzaktaki bir ana bilgisayar tarafından zorla kapatıldı', None, 10054, None)': /session/4fd686a0b1fc7504917998cabefcd8f0
+2026-10-01 20:06:44,015 ERROR Thread-10 (worker) Restoran okunamadı: https://tgoyemek.com/restoranlar/419683
+Traceback (most recent call last):
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\connectionpool.py", line 793, in urlopen
+    response = self._make_request(
+        conn,
+    ...<10 lines>...
+        **response_kw,
+    )
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\connectionpool.py", line 540, in _make_request
+    response = conn.getresponse()
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\connection.py", line 638, in getresponse
+    httplib_response = super().getresponse()
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 1478, in getresponse
+    response.begin()
+    ~~~~~~~~~~~~~~^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 343, in begin
+    version, status, reason = self._read_status()
+                              ~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 304, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+               ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\socket.py", line 729, in readinto
+    return self._sock.recv_into(b)
+           ~~~~~~~~~~~~~~~~~~~~^^^
+ConnectionResetError: [WinError 10054] Varolan bir bağlantı uzaktaki bir ana bilgisayar tarafından zorla kapatıldı
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\MyData\TexGo\Scripts\tgo_restaurant_dumper_2.py", line 806, in worker
+    record = parse_restaurant_page(driver, url)
+  File "C:\MyData\TexGo\Scripts\tgo_restaurant_dumper_2.py", line 248, in parse_restaurant_page
+    driver.get(url)
+    ~~~~~~~~~~^^^^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 526, in get
+    self.execute(Command.GET, {"url": url})
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 503, in execute
+    response = cast(RemoteConnection, self.command_executor).execute(driver_command, params)
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\selenium\webdriver\remote\remote_connection.py", line 407, in execute
+    return self._request(command_info[0], url, body=data)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\selenium\webdriver\remote\remote_connection.py", line 431, in _request
+    response = self._conn.request(method, url, body=body, headers=headers, timeout=self._client_config.timeout)
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\_request_methods.py", line 143, in request
+    return self.request_encode_body(
+           ~~~~~~~~~~~~~~~~~~~~~~~~^
+        method, url, fields=fields, headers=headers, **urlopen_kw
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\_request_methods.py", line 278, in request_encode_body
+    return self.urlopen(method, url, **extra_kw)
+           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\poolmanager.py", line 459, in urlopen
+    response = conn.urlopen(method, u.request_uri, **kw)
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\connectionpool.py", line 847, in urlopen
+    retries = retries.increment(
+        method, url, error=new_e, _pool=self, _stacktrace=sys.exc_info()[2]
+    )
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\util\retry.py", line 510, in increment
+    raise reraise(type(error), error, _stacktrace)
+          ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\util\util.py", line 38, in reraise
+    raise value.with_traceback(tb)
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\connectionpool.py", line 793, in urlopen
+    response = self._make_request(
+        conn,
+    ...<10 lines>...
+        **response_kw,
+    )
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\connectionpool.py", line 540, in _make_request
+    response = conn.getresponse()
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\connection.py", line 638, in getresponse
+    httplib_response = super().getresponse()
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 1478, in getresponse
+    response.begin()
+    ~~~~~~~~~~~~~~^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 343, in begin
+    version, status, reason = self._read_status()
+                              ~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 304, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+               ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\socket.py", line 729, in readinto
+    return self._sock.recv_into(b)
+           ~~~~~~~~~~~~~~~~~~~~^^^
+urllib3.exceptions.ProtocolError: ('Connection aborted.', ConnectionResetError(10054, 'Varolan bir bağlantı uzaktaki bir ana bilgisayar tarafından zorla kapatıldı', None, 10054, None))
+2026-10-01 20:06:44,015 ERROR Thread-11 (worker) Restoran okunamadı: https://tgoyemek.com/restoranlar/311838
+Traceback (most recent call last):
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\connectionpool.py", line 793, in urlopen
+    response = self._make_request(
+        conn,
+    ...<10 lines>...
+        **response_kw,
+    )
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\connectionpool.py", line 540, in _make_request
+    response = conn.getresponse()
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\connection.py", line 638, in getresponse
+    httplib_response = super().getresponse()
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 1478, in getresponse
+    response.begin()
+    ~~~~~~~~~~~~~~^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 343, in begin
+    version, status, reason = self._read_status()
+                              ~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 304, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+               ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\socket.py", line 729, in readinto
+    return self._sock.recv_into(b)
+           ~~~~~~~~~~~~~~~~~~~~^^^
+ConnectionResetError: [WinError 10054] Varolan bir bağlantı uzaktaki bir ana bilgisayar tarafından zorla kapatıldı
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\MyData\TexGo\Scripts\tgo_restaurant_dumper_2.py", line 806, in worker
+    record = parse_restaurant_page(driver, url)
+  File "C:\MyData\TexGo\Scripts\tgo_restaurant_dumper_2.py", line 248, in parse_restaurant_page
+    driver.get(url)
+    ~~~~~~~~~~^^^^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 526, in get
+    self.execute(Command.GET, {"url": url})
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 503, in execute
+    response = cast(RemoteConnection, self.command_executor).execute(driver_command, params)
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\selenium\webdriver\remote\remote_connection.py", line 407, in execute
+    return self._request(command_info[0], url, body=data)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\selenium\webdriver\remote\remote_connection.py", line 431, in _request
+    response = self._conn.request(method, url, body=body, headers=headers, timeout=self._client_config.timeout)
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\_request_methods.py", line 143, in request
+    return self.request_encode_body(
+           ~~~~~~~~~~~~~~~~~~~~~~~~^
+        method, url, fields=fields, headers=headers, **urlopen_kw
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\_request_methods.py", line 278, in request_encode_body
+    return self.urlopen(method, url, **extra_kw)
+           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\poolmanager.py", line 459, in urlopen
+    response = conn.urlopen(method, u.request_uri, **kw)
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\connectionpool.py", line 847, in urlopen
+    retries = retries.increment(
+        method, url, error=new_e, _pool=self, _stacktrace=sys.exc_info()[2]
+    )
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\util\retry.py", line 510, in increment
+    raise reraise(type(error), error, _stacktrace)
+          ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\util\util.py", line 38, in reraise
+    raise value.with_traceback(tb)
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\connectionpool.py", line 793, in urlopen
+    response = self._make_request(
+        conn,
+    ...<10 lines>...
+        **response_kw,
+    )
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\connectionpool.py", line 540, in _make_request
+    response = conn.getresponse()
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\connection.py", line 638, in getresponse
+    httplib_response = super().getresponse()
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 1478, in getresponse
+    response.begin()
+    ~~~~~~~~~~~~~~^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 343, in begin
+    version, status, reason = self._read_status()
+                              ~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 304, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+               ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\socket.py", line 729, in readinto
+    return self._sock.recv_into(b)
+           ~~~~~~~~~~~~~~~~~~~~^^^
+urllib3.exceptions.ProtocolError: ('Connection aborted.', ConnectionResetError(10054, 'Varolan bir bağlantı uzaktaki bir ana bilgisayar tarafından zorla kapatıldı', None, 10054, None))
+2026-10-01 20:06:44,015 WARNING Thread-42 (close) Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(10054, 'Varolan bir bağlantı uzaktaki bir ana bilgisayar tarafından zorla kapatıldı', None, 10054, None)': /session/242ba0e3b0474a1c02c7478bc8eef659
+2026-10-01 20:06:44,033 ERROR Thread-9 (worker) Geçici klasör kilitli, silinemedi: C:\Users\OmerW11\AppData\Local\Temp\tgo-dumper-ngnxhx_l\worker-5
+Traceback (most recent call last):
+  File "C:\MyData\TexGo\Scripts\tgo_restaurant_dumper_2.py", line 711, in cleanup_owned
+    shutil.rmtree(target)
+    ~~~~~~~~~~~~~^^^^^^^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\shutil.py", line 852, in rmtree
+    _rmtree_impl(path, dir_fd, onexc)
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\shutil.py", line 705, in _rmtree_unsafe
+    onexc(os.unlink, fullname, err)
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\shutil.py", line 701, in _rmtree_unsafe
+    os.unlink(fullname)
+    ~~~~~~~~~^^^^^^^^^^
+PermissionError: [WinError 32] Dosya başka bir işlem tarafından kullanıldığından bu işlem dosyaya erişemiyor: 'C:\\Users\\OmerW11\\AppData\\Local\\Temp\\tgo-dumper-ngnxhx_l\\worker-5\\profile\\Default\\Cache\\Cache_Data\\sqldb0'
+2026-10-01 20:06:44,034 ERROR Thread-7 (worker) Geçici klasör kilitli, silinemedi: C:\Users\OmerW11\AppData\Local\Temp\tgo-dumper-ngnxhx_l\worker-3
+Traceback (most recent call last):
+  File "C:\MyData\TexGo\Scripts\tgo_restaurant_dumper_2.py", line 711, in cleanup_owned
+    shutil.rmtree(target)
+    ~~~~~~~~~~~~~^^^^^^^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\shutil.py", line 852, in rmtree
+    _rmtree_impl(path, dir_fd, onexc)
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\shutil.py", line 705, in _rmtree_unsafe
+    onexc(os.unlink, fullname, err)
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\shutil.py", line 701, in _rmtree_unsafe
+    os.unlink(fullname)
+    ~~~~~~~~~^^^^^^^^^^
+PermissionError: [WinError 32] Dosya başka bir işlem tarafından kullanıldığından bu işlem dosyaya erişemiyor: 'C:\\Users\\OmerW11\\AppData\\Local\\Temp\\tgo-dumper-ngnxhx_l\\worker-3\\profile\\Default\\Cache\\Cache_Data\\sqldb0'
+2026-10-01 20:06:44,041 ERROR Thread-11 (worker) Geçici klasör kilitli, silinemedi: C:\Users\OmerW11\AppData\Local\Temp\tgo-dumper-ngnxhx_l\worker-7
+Traceback (most recent call last):
+  File "C:\MyData\TexGo\Scripts\tgo_restaurant_dumper_2.py", line 711, in cleanup_owned
+    shutil.rmtree(target)
+    ~~~~~~~~~~~~~^^^^^^^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\shutil.py", line 852, in rmtree
+    _rmtree_impl(path, dir_fd, onexc)
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\shutil.py", line 705, in _rmtree_unsafe
+    onexc(os.unlink, fullname, err)
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\shutil.py", line 701, in _rmtree_unsafe
+    os.unlink(fullname)
+    ~~~~~~~~~^^^^^^^^^^
+PermissionError: [WinError 32] Dosya başka bir işlem tarafından kullanıldığından bu işlem dosyaya erişemiyor: 'C:\\Users\\OmerW11\\AppData\\Local\\Temp\\tgo-dumper-ngnxhx_l\\worker-7\\profile\\Default\\Cache\\Cache_Data\\sqldb0'
+2026-10-01 20:06:44,043 ERROR Thread-10 (worker) Geçici klasör kilitli, silinemedi: C:\Users\OmerW11\AppData\Local\Temp\tgo-dumper-ngnxhx_l\worker-6
+Traceback (most recent call last):
+  File "C:\MyData\TexGo\Scripts\tgo_restaurant_dumper_2.py", line 711, in cleanup_owned
+    shutil.rmtree(target)
+    ~~~~~~~~~~~~~^^^^^^^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\shutil.py", line 852, in rmtree
+    _rmtree_impl(path, dir_fd, onexc)
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\shutil.py", line 705, in _rmtree_unsafe
+    onexc(os.unlink, fullname, err)
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\shutil.py", line 701, in _rmtree_unsafe
+    os.unlink(fullname)
+    ~~~~~~~~~^^^^^^^^^^
+PermissionError: [WinError 32] Dosya başka bir işlem tarafından kullanıldığından bu işlem dosyaya erişemiyor: 'C:\\Users\\OmerW11\\AppData\\Local\\Temp\\tgo-dumper-ngnxhx_l\\worker-6\\profile\\Default\\Cache\\Cache_Data\\sqldb0'
+2026-10-01 20:06:47,867 WARNING Thread-43 (close) Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=59026): Failed to establish a new connection: [WinError 10061] Hedef makine etkin olarak reddettiğinden bağlantı kurulamadı")': /session/151d1e247fc066a63095b60b8d535b10
+2026-10-01 20:06:47,898 WARNING Thread-38 (close) Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=59024): Failed to establish a new connection: [WinError 10061] Hedef makine etkin olarak reddettiğinden bağlantı kurulamadı")': /session/699494c403a42b93b5f3a7b712613c8c
+2026-10-01 20:06:47,898 WARNING Thread-36 (close) Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=59023): Failed to establish a new connection: [WinError 10061] Hedef makine etkin olarak reddettiğinden bağlantı kurulamadı")': /session/906ad859afe1c1dcddfa36cb96633f42
+2026-10-01 20:06:48,053 WARNING Thread-41 (close) Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=59028): Failed to establish a new connection: [WinError 10061] Hedef makine etkin olarak reddettiğinden bağlantı kurulamadı")': /session/5be9c66ab7cb86c23ab7fa7175080523
+2026-10-01 20:06:48,053 WARNING Thread-6 (worker) Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=59024): Failed to establish a new connection: [WinError 10061] Hedef makine etkin olarak reddettiğinden bağlantı kurulamadı")': /session/699494c403a42b93b5f3a7b712613c8c/source
+2026-10-01 20:06:48,053 WARNING Thread-4 (worker) Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=59022): Failed to establish a new connection: [WinError 10061] Hedef makine etkin olarak reddettiğinden bağlantı kurulamadı")': /session/4fd686a0b1fc7504917998cabefcd8f0/element/f.68031977E472D0A1FCD55D159C9D0D07.d.AB6C3B71AA6FFC8CF3E1D7043C2B893C.e.8223/text
+2026-10-01 20:06:48,084 WARNING Thread-8 (worker) Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=59026): Failed to establish a new connection: [WinError 10061] Hedef makine etkin olarak reddettiğinden bağlantı kurulamadı")': /session/151d1e247fc066a63095b60b8d535b10/element/f.C28AAFDC70992322DD11EA8292F76587.d.A30B94035F7EA3BEF81D9237B34D417A.e.7447/text
+2026-10-01 20:06:48,085 WARNING Thread-37 (close) Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=59022): Failed to establish a new connection: [WinError 10061] Hedef makine etkin olarak reddettiğinden bağlantı kurulamadı")': /session/4fd686a0b1fc7504917998cabefcd8f0
+2026-10-01 20:06:48,085 WARNING Thread-39 (close) Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=59027): Failed to establish a new connection: [WinError 10061] Hedef makine etkin olarak reddettiğinden bağlantı kurulamadı")': /session/dce8478d9c5f5e391838f8b01cda1a5d
+2026-10-01 20:06:48,085 WARNING Thread-40 (close) Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=59029): Failed to establish a new connection: [WinError 10061] Hedef makine etkin olarak reddettiğinden bağlantı kurulamadı")': /session/650b066adc53ea53a6807092efcba85a
+2026-10-01 20:06:48,101 WARNING Thread-42 (close) Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=59025): Failed to establish a new connection: [WinError 10061] Hedef makine etkin olarak reddettiğinden bağlantı kurulamadı")': /session/242ba0e3b0474a1c02c7478bc8eef659
+2026-10-01 20:06:51,927 WARNING MainThread Başlatma/kapanış sürüyor; etkin klasörler silinmedi: C:\Users\OmerW11\AppData\Local\Temp\tgo-dumper-ngnxhx_l
+2026-10-01 20:06:51,999 WARNING Thread-43 (close) Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=59026): Failed to establish a new connection: [WinError 10061] Hedef makine etkin olarak reddettiğinden bağlantı kurulamadı")': /session/151d1e247fc066a63095b60b8d535b10
+2026-10-01 20:06:51,999 WARNING Thread-38 (close) Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=59024): Failed to establish a new connection: [WinError 10061] Hedef makine etkin olarak reddettiğinden bağlantı kurulamadı")': /session/699494c403a42b93b5f3a7b712613c8c
+2026-10-01 20:06:52,003 WARNING Thread-36 (close) Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=59023): Failed to establish a new connection: [WinError 10061] Hedef makine etkin olarak reddettiğinden bağlantı kurulamadı")': /session/906ad859afe1c1dcddfa36cb96633f42
+2026-10-01 20:06:52,042 INFO MainThread Performans: kayıt=51 yeni_çekilen=51 hatalı_URL=5 eksik=395 toplam=64.200s ortalama_restoran=2.183s duvar_saati_ortalama=1.259s kesildi=True
+2026-10-01 20:10:02,147 INFO Thread-8 (worker) Seçilecek adres: 'Sümer, 34025 Zeytinburnu/İstanbul'
+2026-10-01 20:10:02,817 INFO Thread-7 (worker) Seçilecek adres: 'Sümer, 34025 Zeytinburnu/İstanbul'
+2026-10-01 20:10:03,426 INFO Thread-4 (worker) Seçilecek adres: 'Sümer, 34025 Zeytinburnu/İstanbul'
+2026-10-01 20:10:03,486 INFO Thread-6 (worker) Seçilecek adres: 'Sümer, 34025 Zeytinburnu/İstanbul'
+2026-10-01 20:10:03,718 INFO Thread-2 (worker) Seçilecek adres: 'Sümer, 34025 Zeytinburnu/İstanbul'
+2026-10-01 20:10:03,750 INFO Thread-1 (worker) Seçilecek adres: 'Sümer, 34025 Zeytinburnu/İstanbul'
+2026-10-01 20:10:03,750 INFO Thread-3 (worker) Seçilecek adres: 'Sümer, 34025 Zeytinburnu/İstanbul'
+2026-10-01 20:10:06,067 INFO Thread-5 (worker) Seçilecek adres: 'Sümer, 34025 Zeytinburnu/İstanbul'
+2026-10-01 20:10:07,287 INFO Thread-2 (worker) Restoran https://tgoyemek.com/restoranlar/283370 ayrıştırma 2.252 sn
+2026-10-01 20:10:07,695 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/165653 ayrıştırma 2.913 sn
+2026-10-01 20:10:07,841 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/292586 ayrıştırma 3.651 sn
+2026-10-01 20:10:08,067 INFO Thread-1 (worker) Restoran https://tgoyemek.com/restoranlar/287270 ayrıştırma 2.902 sn
+2026-10-01 20:10:08,312 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/311838 ayrıştırma 2.391 sn
+2026-10-01 20:10:10,044 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/185703 ayrıştırma 2.499 sn
+2026-10-01 20:10:10,121 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/227905 ayrıştırma 2.280 sn
+2026-10-01 20:10:10,201 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/102876 ayrıştırma 2.994 sn
+2026-10-01 20:10:10,224 INFO Thread-2 (worker) Restoran https://tgoyemek.com/restoranlar/243915 ayrıştırma 2.936 sn
+2026-10-01 20:10:10,292 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/419683 ayrıştırma 2.936 sn
+2026-10-01 20:10:10,333 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/377065 ayrıştırma 2.021 sn
+2026-10-01 20:10:10,517 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/238937 ayrıştırma 2.821 sn
+2026-10-01 20:10:10,551 INFO Thread-1 (worker) Restoran https://tgoyemek.com/restoranlar/8435 ayrıştırma 2.484 sn
+2026-10-01 20:10:11,986 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/160435 ayrıştırma 1.942 sn
+2026-10-01 20:10:12,156 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/305568 ayrıştırma 2.034 sn
+2026-10-01 20:10:12,188 INFO Thread-1 (worker) Restoran https://tgoyemek.com/restoranlar/237160 ayrıştırma 1.637 sn
+2026-10-01 20:10:12,252 INFO Thread-2 (worker) Restoran https://tgoyemek.com/restoranlar/132315 ayrıştırma 2.028 sn
+2026-10-01 20:10:12,456 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/439067 ayrıştırma 2.255 sn
+2026-10-01 20:10:12,521 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/342310 ayrıştırma 1.999 sn
+2026-10-01 20:10:12,608 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/4886 ayrıştırma 2.268 sn
+2026-10-01 20:10:13,003 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/380179 ayrıştırma 2.711 sn
+2026-10-01 20:10:14,182 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/5843 ayrıştırma 1.661 sn
+2026-10-01 20:10:14,241 INFO Thread-2 (worker) Restoran https://tgoyemek.com/restoranlar/117819 ayrıştırma 1.988 sn
+2026-10-01 20:10:14,261 INFO Thread-1 (worker) Restoran https://tgoyemek.com/restoranlar/33198 ayrıştırma 2.073 sn
+2026-10-01 20:10:14,307 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/317703 ayrıştırma 2.150 sn
+2026-10-01 20:10:14,385 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/4759 ayrıştırma 1.929 sn
+2026-10-01 20:10:14,432 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/126335 ayrıştırma 1.823 sn
+2026-10-01 20:10:14,416 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/336536 ayrıştırma 2.429 sn
+2026-10-01 20:10:14,440 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/4865 ayrıştırma 1.436 sn
+2026-10-01 20:10:15,708 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/300078 ayrıştırma 1.525 sn
+2026-10-01 20:10:16,335 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/209518 ayrıştırma 2.027 sn
+2026-10-01 20:10:16,363 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/31475 ayrıştırma 1.947 sn
+2026-10-01 20:10:16,439 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/354949 ayrıştırma 2.006 sn
+2026-10-01 20:10:16,644 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/17885 ayrıştırma 2.204 sn
+2026-10-01 20:10:16,685 INFO Thread-1 (worker) Restoran https://tgoyemek.com/restoranlar/220056 ayrıştırma 2.422 sn
+2026-10-01 20:10:16,947 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/333359 ayrıştırma 1.239 sn
+2026-10-01 20:10:17,476 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/312294 ayrıştırma 3.036 sn
+2026-10-01 20:10:18,032 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/22479 ayrıştırma 1.669 sn
+2026-10-01 20:10:18,081 INFO Thread-2 (worker) Restoran https://tgoyemek.com/restoranlar/358383 ayrıştırma 3.819 sn
+2026-10-01 20:10:18,098 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/4857 ayrıştırma 1.762 sn
+2026-10-01 20:10:18,461 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/431673 ayrıştırma 1.513 sn
+2026-10-01 20:10:18,473 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/162064 ayrıştırma 1.828 sn
+2026-10-01 20:10:18,544 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/190225 ayrıştırma 2.104 sn
+2026-10-01 20:10:18,600 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/384308 ayrıştırma 1.124 sn
+2026-10-01 20:10:18,645 INFO Thread-1 (worker) Restoran https://tgoyemek.com/restoranlar/109825 ayrıştırma 1.961 sn
+2026-10-01 20:10:19,754 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/282203 ayrıştırma 1.655 sn
+2026-10-01 20:10:19,918 INFO Thread-2 (worker) Restoran https://tgoyemek.com/restoranlar/428904 ayrıştırma 1.823 sn
+2026-10-01 20:10:20,151 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/389166 ayrıştırma 1.550 sn
+2026-10-01 20:10:20,174 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/291250 ayrıştırma 1.630 sn
+2026-10-01 20:10:20,198 INFO Thread-1 (worker) Restoran https://tgoyemek.com/restoranlar/289622 ayrıştırma 1.552 sn
+2026-10-01 20:10:20,428 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/342048 ayrıştırma 1.956 sn
+2026-10-01 20:10:20,830 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/357560 ayrıştırma 2.356 sn
+2026-10-01 20:10:21,512 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/169885 ayrıştırma 1.757 sn
+2026-10-01 20:10:21,717 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/158906 ayrıştırma 1.543 sn
+2026-10-01 20:10:21,821 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/324184 ayrıştırma 1.671 sn
+2026-10-01 20:10:22,013 INFO Thread-2 (worker) Restoran https://tgoyemek.com/restoranlar/427293 ayrıştırma 2.094 sn
+2026-10-01 20:10:22,153 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/361375 ayrıştırma 1.321 sn
+2026-10-01 20:10:22,185 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/4992 ayrıştırma 1.753 sn
+2026-10-01 20:10:22,371 INFO Thread-1 (worker) Restoran https://tgoyemek.com/restoranlar/363406 ayrıştırma 2.173 sn
+2026-10-01 20:10:22,587 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/358183 ayrıştırma 4.554 sn
+2026-10-01 20:10:22,954 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/399162 ayrıştırma 1.441 sn
+2026-10-01 20:10:23,787 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/378286 ayrıştırma 1.634 sn
+2026-10-01 20:10:23,812 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/115282 ayrıştırma 1.990 sn
+2026-10-01 20:10:23,888 INFO Thread-2 (worker) Restoran https://tgoyemek.com/restoranlar/408495 ayrıştırma 1.875 sn
+2026-10-01 20:10:24,000 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/4896 ayrıştırma 1.814 sn
+2026-10-01 20:10:24,116 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/306101 ayrıştırma 2.398 sn
+2026-10-01 20:10:24,144 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/101195 ayrıştırma 1.555 sn
+2026-10-01 20:10:24,290 INFO Thread-1 (worker) Restoran https://tgoyemek.com/restoranlar/5487 ayrıştırma 1.919 sn
+2026-10-01 20:10:24,745 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/132977 ayrıştırma 1.784 sn
+2026-10-01 20:10:25,567 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/112159 ayrıştırma 1.754 sn
+2026-10-01 20:10:25,597 INFO Thread-2 (worker) Restoran https://tgoyemek.com/restoranlar/360962 ayrıştırma 1.708 sn
+2026-10-01 20:10:25,711 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/149510 ayrıştırma 1.710 sn
+2026-10-01 20:10:26,079 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/9023 ayrıştırma 2.291 sn
+2026-10-01 20:10:26,146 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/357746 ayrıştırma 2.002 sn
+2026-10-01 20:10:26,158 INFO Thread-1 (worker) Restoran https://tgoyemek.com/restoranlar/242161 ayrıştırma 1.867 sn
+2026-10-01 20:10:26,211 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/118223 ayrıştırma 2.094 sn
+2026-10-01 20:10:26,433 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/175239 ayrıştırma 1.688 sn
+2026-10-01 20:10:27,469 INFO Thread-2 (worker) Restoran https://tgoyemek.com/restoranlar/5270 ayrıştırma 1.866 sn
+2026-10-01 20:10:27,533 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/303899 ayrıştırma 1.816 sn
+2026-10-01 20:10:27,595 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/365989 ayrıştırma 2.027 sn
+2026-10-01 20:10:27,678 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/225030 ayrıştırma 1.598 sn
+2026-10-01 20:10:28,124 INFO Thread-1 (worker) Restoran https://tgoyemek.com/restoranlar/238072 ayrıştırma 1.965 sn
+2026-10-01 20:10:28,299 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/4427 ayrıştırma 1.865 sn
+2026-10-01 20:10:28,397 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/343440 ayrıştırma 2.238 sn
+2026-10-01 20:10:29,021 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/6654 ayrıştırma 2.810 sn
+2026-10-01 20:10:29,094 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/3302 ayrıştırma 1.499 sn
+2026-10-01 20:10:29,188 INFO Thread-2 (worker) Restoran https://tgoyemek.com/restoranlar/342457 ayrıştırma 1.718 sn
+2026-10-01 20:10:29,479 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/324425 ayrıştırma 1.794 sn
+2026-10-01 20:10:29,606 INFO Thread-1 (worker) Restoran https://tgoyemek.com/restoranlar/106246 ayrıştırma 1.481 sn
+2026-10-01 20:10:29,747 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/25052 ayrıştırma 2.213 sn
+2026-10-01 20:10:29,878 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/18078 ayrıştırma 1.481 sn
+2026-10-01 20:10:29,924 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/4854 ayrıştırma 1.624 sn
+2026-10-01 20:10:30,393 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/217760 ayrıştırma 1.298 sn
+2026-10-01 20:10:30,572 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/422867 ayrıştırma 1.550 sn
+2026-10-01 20:10:31,247 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/388049 ayrıştırma 1.500 sn
+2026-10-01 20:10:31,556 INFO Thread-1 (worker) Restoran https://tgoyemek.com/restoranlar/332487 ayrıştırma 1.949 sn
+2026-10-01 20:10:31,595 INFO Thread-2 (worker) Restoran https://tgoyemek.com/restoranlar/419480 ayrıştırma 2.406 sn
+2026-10-01 20:10:31,610 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/427446 ayrıştırma 1.678 sn
+2026-10-01 20:10:31,700 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/230551 ayrıştırma 2.220 sn
+2026-10-01 20:10:31,859 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/156653 ayrıştırma 1.466 sn
+2026-10-01 20:10:32,072 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/7454 ayrıştırma 1.499 sn
+2026-10-01 20:10:32,127 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/293285 ayrıştırma 2.241 sn
+2026-10-01 20:10:32,773 INFO Thread-1 (worker) Restoran https://tgoyemek.com/restoranlar/436242 ayrıştırma 1.217 sn
+2026-10-01 20:10:33,202 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/173482 ayrıştırma 1.591 sn
+2026-10-01 20:10:33,502 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/108343 ayrıştırma 1.802 sn
+2026-10-01 20:10:33,705 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/357561 ayrıştırma 1.572 sn
+2026-10-01 20:10:33,910 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/477189 ayrıştırma 2.051 sn
+2026-10-01 20:10:33,973 INFO Thread-2 (worker) Restoran https://tgoyemek.com/restoranlar/325191 ayrıştırma 2.379 sn
+2026-10-01 20:10:34,392 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/427643 ayrıştırma 3.145 sn
+2026-10-01 20:10:34,574 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/224171 ayrıştırma 2.498 sn
+2026-10-01 20:10:34,639 INFO Thread-1 (worker) Restoran https://tgoyemek.com/restoranlar/103498 ayrıştırma 1.866 sn
+2026-10-01 20:10:34,704 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/328061 ayrıştırma 1.502 sn
+2026-10-01 20:10:34,827 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/294009 ayrıştırma 1.324 sn
+2026-10-01 20:10:35,088 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/418355 ayrıştırma 1.382 sn
+2026-10-01 20:10:35,299 INFO Thread-2 (worker) Restoran https://tgoyemek.com/restoranlar/220996 ayrıştırma 1.325 sn
+2026-10-01 20:10:35,916 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/477418 ayrıştırma 1.522 sn
+2026-10-01 20:10:36,178 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/326554 ayrıştırma 1.468 sn
+2026-10-01 20:10:36,401 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/357509 ayrıştırma 2.491 sn
+2026-10-01 20:10:36,651 INFO Thread-1 (worker) Restoran https://tgoyemek.com/restoranlar/170669 ayrıştırma 2.003 sn
+2026-10-01 20:10:36,673 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/364885 ayrıştırma 2.097 sn
+2026-10-01 20:10:36,888 INFO Thread-2 (worker) Restoran https://tgoyemek.com/restoranlar/385250 ayrıştırma 1.588 sn
+2026-10-01 20:10:36,976 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/154577 ayrıştırma 1.883 sn
+2026-10-01 20:10:37,567 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/379222 ayrıştırma 1.650 sn
+2026-10-01 20:10:38,029 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/284895 ayrıştırma 3.193 sn
+2026-10-01 20:10:38,099 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/368480 ayrıştırma 1.921 sn
+2026-10-01 20:10:38,138 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/301349 ayrıştırma 1.464 sn
+2026-10-01 20:10:38,235 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/135378 ayrıştırma 1.833 sn
+2026-10-01 20:10:38,371 INFO Thread-1 (worker) Restoran https://tgoyemek.com/restoranlar/6445 ayrıştırma 1.702 sn
+2026-10-01 20:10:38,390 INFO Thread-2 (worker) Restoran https://tgoyemek.com/restoranlar/163088 ayrıştırma 1.497 sn
+2026-10-01 20:10:38,521 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/278665 ayrıştırma 1.538 sn
+2026-10-01 20:10:39,005 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/357480 ayrıştırma 1.437 sn
+2026-10-01 20:10:39,645 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/6143 ayrıştırma 1.544 sn
+2026-10-01 20:10:39,768 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/14706 ayrıştırma 1.532 sn
+2026-10-01 20:10:39,862 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/357489 ayrıştırma 1.724 sn
+2026-10-01 20:10:39,909 INFO Thread-1 (worker) Restoran https://tgoyemek.com/restoranlar/156372 ayrıştırma 1.537 sn
+2026-10-01 20:10:39,944 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/357487 ayrıştırma 1.914 sn
+2026-10-01 20:10:40,003 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/5233 ayrıştırma 1.482 sn
+2026-10-01 20:10:40,163 INFO Thread-2 (worker) Restoran https://tgoyemek.com/restoranlar/311963 ayrıştırma 1.772 sn
+2026-10-01 20:10:40,981 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/209767 ayrıştırma 1.966 sn
+2026-10-01 20:10:41,404 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/146924 ayrıştırma 1.759 sn
+2026-10-01 20:10:41,666 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/417475 ayrıştırma 1.721 sn
+2026-10-01 20:10:41,843 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/133958 ayrıştırma 1.981 sn
+2026-10-01 20:10:41,895 INFO Thread-2 (worker) Restoran https://tgoyemek.com/restoranlar/4519 ayrıştırma 1.732 sn
+2026-10-01 20:10:41,932 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/135562 ayrıştırma 2.164 sn
+2026-10-01 20:10:42,174 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/131272 ayrıştırma 2.170 sn
+2026-10-01 20:10:42,532 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/328901 ayrıştırma 1.550 sn
+2026-10-01 20:10:42,643 INFO Thread-1 (worker) Restoran https://tgoyemek.com/restoranlar/20466 ayrıştırma 2.733 sn
+2026-10-01 20:10:42,865 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/328159 ayrıştırma 1.460 sn
+2026-10-01 20:10:43,597 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/286562 ayrıştırma 1.926 sn
+2026-10-01 20:10:43,878 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/194971 ayrıştırma 1.945 sn
+2026-10-01 20:10:44,125 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/4521 ayrıştırma 2.274 sn
+2026-10-01 20:10:44,385 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/170220 ayrıştırma 2.211 sn
+2026-10-01 20:10:44,590 INFO Thread-2 (worker) Restoran https://tgoyemek.com/restoranlar/3318 ayrıştırma 2.688 sn
+2026-10-01 20:10:44,832 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/102530 ayrıştırma 2.298 sn
+2026-10-01 20:10:44,904 INFO Thread-1 (worker) Restoran https://tgoyemek.com/restoranlar/333139 ayrıştırma 2.258 sn
+2026-10-01 20:10:45,297 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/368930 ayrıştırma 2.432 sn
+2026-10-01 20:10:45,347 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/130324 ayrıştırma 1.749 sn
+2026-10-01 20:10:46,157 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/411429 ayrıştırma 2.028 sn
+2026-10-01 20:10:46,267 INFO Thread-1 (worker) Restoran https://tgoyemek.com/restoranlar/144510 ayrıştırma 1.363 sn
+2026-10-01 20:10:46,513 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/114024 ayrıştırma 2.127 sn
+2026-10-01 20:10:46,557 INFO Thread-2 (worker) Restoran https://tgoyemek.com/restoranlar/347595 ayrıştırma 1.967 sn
+2026-10-01 20:10:46,665 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/101230 ayrıştırma 2.787 sn
+2026-10-01 20:10:46,860 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/12658 ayrıştırma 2.028 sn
+2026-10-01 20:10:47,468 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/374235 ayrıştırma 2.118 sn
+2026-10-01 20:10:47,690 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/4746 ayrıştırma 2.391 sn
+2026-10-01 20:10:48,018 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/150257 ayrıştırma 1.861 sn
+2026-10-01 20:10:48,313 INFO Thread-2 (worker) Restoran https://tgoyemek.com/restoranlar/379602 ayrıştırma 1.751 sn
+2026-10-01 20:10:48,393 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/171837 ayrıştırma 1.723 sn
+2026-10-01 20:10:48,603 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/340068 ayrıştırma 1.737 sn
+2026-10-01 20:10:48,812 INFO Thread-1 (worker) Restoran https://tgoyemek.com/restoranlar/436228 ayrıştırma 2.544 sn
+2026-10-01 20:10:49,361 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/126765 ayrıştırma 2.848 sn
+2026-10-01 20:10:49,739 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/152937 ayrıştırma 2.270 sn
+2026-10-01 20:10:49,818 INFO Thread-2 (worker) Restoran https://tgoyemek.com/restoranlar/431775 ayrıştırma 1.504 sn
+2026-10-01 20:10:49,925 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/326167 ayrıştırma 1.906 sn
+2026-10-01 20:10:49,948 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/399288 ayrıştırma 2.256 sn
+2026-10-01 20:10:50,002 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/443940 ayrıştırma 1.399 sn
+2026-10-01 20:10:50,105 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/364735 ayrıştırma 1.711 sn
+2026-10-01 20:10:50,451 INFO Thread-1 (worker) Restoran https://tgoyemek.com/restoranlar/409993 ayrıştırma 1.639 sn
+2026-10-01 20:10:50,608 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/297409 ayrıştırma 1.241 sn
+2026-10-01 20:10:51,819 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/214786 ayrıştırma 1.875 sn
+2026-10-01 20:10:52,036 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/4858 ayrıştırma 2.292 sn
+2026-10-01 20:10:52,074 INFO Thread-2 (worker) Restoran https://tgoyemek.com/restoranlar/420443 ayrıştırma 2.250 sn
+2026-10-01 20:10:52,259 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/24207 ayrıştırma 2.255 sn
+2026-10-01 20:10:52,305 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/411397 ayrıştırma 2.200 sn
+2026-10-01 20:10:52,434 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/215927 ayrıştırma 1.825 sn
+2026-10-01 20:10:52,483 INFO Thread-1 (worker) Restoran https://tgoyemek.com/restoranlar/3088 ayrıştırma 2.031 sn
+2026-10-01 20:10:52,574 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/21325 ayrıştırma 2.626 sn
+2026-10-01 20:10:53,002 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/420664 ayrıştırma 1.182 sn
+2026-10-01 20:10:53,506 INFO Thread-2 (worker) Restoran https://tgoyemek.com/restoranlar/320204 ayrıştırma 1.428 sn
+2026-10-01 20:10:53,961 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/438004 ayrıştırma 1.920 sn
+2026-10-01 20:10:55,392 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/356343 ayrıştırma 3.082 sn
+2026-10-01 20:10:55,857 INFO Thread-1 (worker) Restoran https://tgoyemek.com/restoranlar/153613 ayrıştırma 3.369 sn
+2026-10-01 20:10:55,954 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/291858 ayrıştırma 3.514 sn
+2026-10-01 20:10:56,011 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/296654 ayrıştırma 3.748 sn
+2026-10-01 20:10:56,236 INFO Thread-2 (worker) Restoran https://tgoyemek.com/restoranlar/412997 ayrıştırma 2.730 sn
+2026-10-01 20:10:56,253 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/158158 ayrıştırma 2.290 sn
+2026-10-01 20:10:56,287 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/135279 ayrıştırma 3.271 sn
+2026-10-01 20:10:57,205 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/359619 ayrıştırma 4.630 sn
+2026-10-01 20:10:58,800 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/241041 ayrıştırma 3.408 sn
+2026-10-01 20:10:58,812 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/401236 ayrıştırma 2.801 sn
+2026-10-01 20:10:58,853 INFO Thread-2 (worker) Restoran https://tgoyemek.com/restoranlar/393835 ayrıştırma 2.617 sn
+2026-10-01 20:10:59,159 INFO Thread-1 (worker) Restoran https://tgoyemek.com/restoranlar/319079 ayrıştırma 3.301 sn
+2026-10-01 20:10:59,477 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/284202 ayrıştırma 3.191 sn
+2026-10-01 20:10:59,960 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/5311 ayrıştırma 3.707 sn
+2026-10-01 20:11:00,020 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/4824 ayrıştırma 2.814 sn
+2026-10-01 20:11:01,516 INFO Thread-2 (worker) Restoran https://tgoyemek.com/restoranlar/411078 ayrıştırma 2.662 sn
+2026-10-01 20:11:01,738 INFO Thread-1 (worker) Restoran https://tgoyemek.com/restoranlar/440866 ayrıştırma 2.573 sn
+2026-10-01 20:11:01,962 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/103725 ayrıştırma 6.007 sn
+2026-10-01 20:11:02,022 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/407558 ayrıştırma 3.212 sn
+2026-10-01 20:11:02,288 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/342535 ayrıştırma 2.805 sn
+2026-10-01 20:11:02,996 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/284532 ayrıştırma 2.975 sn
+2026-10-01 20:11:03,178 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/295390 ayrıştırma 3.217 sn
+2026-10-01 20:11:04,228 INFO Thread-2 (worker) Restoran https://tgoyemek.com/restoranlar/298550 ayrıştırma 2.711 sn
+2026-10-01 20:11:04,559 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/335114 ayrıştırma 2.536 sn
+2026-10-01 20:11:04,709 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/16627 ayrıştırma 5.896 sn
+2026-10-01 20:11:05,173 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/10242 ayrıştırma 3.211 sn
+2026-10-01 20:11:05,636 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/340543 ayrıştırma 2.631 sn
+2026-10-01 20:11:06,856 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/380680 ayrıştırma 2.146 sn
+2026-10-01 20:11:06,994 INFO Thread-1 (worker) Restoran https://tgoyemek.com/restoranlar/8598 ayrıştırma 5.255 sn
+2026-10-01 20:11:07,043 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/7683 ayrıştırma 2.484 sn
+2026-10-01 20:11:07,169 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/14389 ayrıştırma 4.880 sn
+2026-10-01 20:11:07,446 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/239579 ayrıştırma 4.262 sn
+2026-10-01 20:11:07,538 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/10598 ayrıştırma 2.364 sn
+2026-10-01 20:11:08,513 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/331527 ayrıştırma 2.876 sn
+2026-10-01 20:11:09,883 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/109854 ayrıştırma 2.710 sn
+2026-10-01 20:11:09,913 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/385661 ayrıştırma 2.870 sn
+2026-10-01 20:11:10,211 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/413812 ayrıştırma 2.758 sn
+2026-10-01 20:11:10,305 INFO Thread-1 (worker) Restoran https://tgoyemek.com/restoranlar/7292 ayrıştırma 3.309 sn
+2026-10-01 20:11:10,486 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/241334 ayrıştırma 2.944 sn
+2026-10-01 20:11:10,680 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/4915 ayrıştırma 2.167 sn
+2026-10-01 20:11:10,806 INFO Thread-2 (worker) Restoran https://tgoyemek.com/restoranlar/431676 ayrıştırma 6.578 sn
+2026-10-01 20:11:10,961 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/115606 ayrıştırma 4.104 sn
+2026-10-01 20:11:12,875 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/327115 ayrıştırma 2.961 sn
+2026-10-01 20:11:13,382 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/433718 ayrıştırma 2.417 sn
+2026-10-01 20:11:13,397 INFO Thread-2 (worker) Restoran https://tgoyemek.com/restoranlar/22009 ayrıştırma 2.586 sn
+2026-10-01 20:11:13,443 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/426245 ayrıştırma 2.957 sn
+2026-10-01 20:11:13,593 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/241433 ayrıştırma 3.382 sn
+2026-10-01 20:11:13,799 INFO Thread-1 (worker) Restoran https://tgoyemek.com/restoranlar/424779 ayrıştırma 3.494 sn
+2026-10-01 20:11:14,465 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/27375 ayrıştırma 4.582 sn
+2026-10-01 20:11:14,587 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/395676 ayrıştırma 3.906 sn
+2026-10-01 20:11:15,467 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/373415 ayrıştırma 2.592 sn
+2026-10-01 20:11:16,272 INFO Thread-2 (worker) Restoran https://tgoyemek.com/restoranlar/291815 ayrıştırma 2.875 sn
+2026-10-01 20:11:16,295 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/364072 ayrıştırma 2.913 sn
+2026-10-01 20:11:16,678 INFO Thread-1 (worker) Restoran https://tgoyemek.com/restoranlar/140989 ayrıştırma 2.878 sn
+2026-10-01 20:11:17,052 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/434242 ayrıştırma 2.586 sn
+2026-10-01 20:11:18,059 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/165042 ayrıştırma 4.466 sn
+2026-10-01 20:11:18,587 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/402328 ayrıştırma 3.998 sn
+2026-10-01 20:11:18,674 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/171121 ayrıştırma 3.202 sn
+2026-10-01 20:11:19,384 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/317547 ayrıştırma 3.088 sn
+2026-10-01 20:11:19,404 INFO Thread-1 (worker) Restoran https://tgoyemek.com/restoranlar/304664 ayrıştırma 2.726 sn
+2026-10-01 20:11:19,670 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/303901 ayrıştırma 2.617 sn
+2026-10-01 20:11:20,274 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/4831 ayrıştırma 2.214 sn
+2026-10-01 20:11:20,284 INFO Thread-2 (worker) Restoran https://tgoyemek.com/restoranlar/329294 ayrıştırma 4.012 sn
+2026-10-01 20:11:20,738 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/215826 ayrıştırma 7.294 sn
+2026-10-01 20:11:21,759 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/4493 ayrıştırma 2.374 sn
+2026-10-01 20:11:22,119 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/375677 ayrıştırma 3.443 sn
+2026-10-01 20:11:22,171 INFO Thread-1 (worker) Restoran https://tgoyemek.com/restoranlar/376237 ayrıştırma 2.767 sn
+2026-10-01 20:11:22,266 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/214773 ayrıştırma 2.595 sn
+2026-10-01 20:11:22,318 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/418121 ayrıştırma 1.579 sn
+2026-10-01 20:11:22,589 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/100410 ayrıştırma 2.308 sn
+2026-10-01 20:11:22,754 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/135434 ayrıştırma 4.167 sn
+2026-10-01 20:11:23,022 INFO Thread-2 (worker) Restoran https://tgoyemek.com/restoranlar/280879 ayrıştırma 2.731 sn
+2026-10-01 20:11:24,490 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/423316 ayrıştırma 2.731 sn
+2026-10-01 20:11:24,902 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/276427 ayrıştırma 2.783 sn
+2026-10-01 20:11:25,027 INFO Thread-1 (worker) Restoran https://tgoyemek.com/restoranlar/286139 ayrıştırma 2.856 sn
+2026-10-01 20:11:25,489 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/142865 ayrıştırma 2.899 sn
+2026-10-01 20:11:25,761 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/234709 ayrıştırma 3.443 sn
+2026-10-01 20:11:26,141 INFO Thread-2 (worker) Restoran https://tgoyemek.com/restoranlar/3510 ayrıştırma 3.113 sn
+2026-10-01 20:11:26,393 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/412443 ayrıştırma 4.127 sn
+2026-10-01 20:11:27,268 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/155355 ayrıştırma 2.777 sn
+2026-10-01 20:11:27,519 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/331813 ayrıştırma 4.761 sn
+2026-10-01 20:11:27,661 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/280208 ayrıştırma 2.758 sn
+2026-10-01 20:11:28,365 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/418311 ayrıştırma 2.602 sn
+2026-10-01 20:11:28,630 INFO Thread-1 (worker) Restoran https://tgoyemek.com/restoranlar/169284 ayrıştırma 3.603 sn
+2026-10-01 20:11:28,654 INFO Thread-2 (worker) Restoran https://tgoyemek.com/restoranlar/233333 ayrıştırma 2.512 sn
+2026-10-01 20:11:29,413 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/463077 ayrıştırma 3.020 sn
+2026-10-01 20:11:30,132 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/137774 ayrıştırma 4.643 sn
+2026-10-01 20:11:30,853 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/314298 ayrıştırma 3.186 sn
+2026-10-01 20:11:31,472 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/298711 ayrıştırma 3.943 sn
+2026-10-01 20:11:31,760 INFO Thread-2 (worker) Restoran https://tgoyemek.com/restoranlar/323976 ayrıştırma 3.106 sn
+2026-10-01 20:11:31,957 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/32392 ayrıştırma 4.689 sn
+2026-10-01 20:11:31,980 INFO Thread-1 (worker) Restoran https://tgoyemek.com/restoranlar/184290 ayrıştırma 3.334 sn
+2026-10-01 20:11:32,615 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/7339 ayrıştırma 4.249 sn
+2026-10-01 20:11:33,256 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/358790 ayrıştırma 3.842 sn
+2026-10-01 20:11:33,851 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/22897 ayrıştırma 3.717 sn
+2026-10-01 20:11:34,149 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/356616 ayrıştırma 2.677 sn
+2026-10-01 20:11:34,463 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/18647 ayrıştırma 3.608 sn
+2026-10-01 20:11:34,668 INFO Thread-2 (worker) Restoran https://tgoyemek.com/restoranlar/104747 ayrıştırma 2.905 sn
+2026-10-01 20:11:35,062 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/123635 ayrıştırma 3.090 sn
+2026-10-01 20:11:35,526 INFO Thread-1 (worker) Restoran https://tgoyemek.com/restoranlar/230585 ayrıştırma 3.544 sn
+2026-10-01 20:11:35,767 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/236699 ayrıştırma 3.151 sn
+2026-10-01 20:11:37,811 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/406911 ayrıştırma 4.554 sn
+2026-10-01 20:11:38,115 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/390657 ayrıştırma 3.053 sn
+2026-10-01 20:11:38,356 INFO Thread-2 (worker) Restoran https://tgoyemek.com/restoranlar/185100 ayrıştırma 3.688 sn
+2026-10-01 20:11:38,445 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/365556 ayrıştırma 4.295 sn
+2026-10-01 20:11:38,454 INFO Thread-1 (worker) Restoran https://tgoyemek.com/restoranlar/4945 ayrıştırma 2.927 sn
+2026-10-01 20:11:38,632 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/30588 ayrıştırma 4.169 sn
+2026-10-01 20:11:39,144 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/375036 ayrıştırma 5.293 sn
+2026-10-01 20:11:40,957 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/129939 ayrıştırma 5.182 sn
+2026-10-01 20:11:41,224 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/334070 ayrıştırma 2.771 sn
+2026-10-01 20:11:41,452 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/285182 ayrıştırma 3.336 sn
+2026-10-01 20:11:41,627 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/177601 ayrıştırma 3.816 sn
+2026-10-01 20:11:41,711 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/229640 ayrıştırma 3.078 sn
+2026-10-01 20:11:42,205 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/419694 ayrıştırma 3.059 sn
+2026-10-01 20:11:43,659 INFO Thread-2 (worker) Restoran https://tgoyemek.com/restoranlar/184809 ayrıştırma 5.302 sn
+2026-10-01 20:11:43,683 INFO Thread-1 (worker) Restoran https://tgoyemek.com/restoranlar/10948 ayrıştırma 5.228 sn
+2026-10-01 20:11:43,731 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/315025 ayrıştırma 2.773 sn
+2026-10-01 20:11:43,990 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/193095 ayrıştırma 2.765 sn
+2026-10-01 20:11:44,590 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/121411 ayrıştırma 2.384 sn
+2026-10-01 20:11:44,639 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/441337 ayrıştırma 3.183 sn
+2026-10-01 20:11:44,917 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/234275 ayrıştırma 3.200 sn
+2026-10-01 20:11:44,955 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/433175 ayrıştırma 3.323 sn
+2026-10-01 20:11:46,535 INFO Thread-1 (worker) Restoran https://tgoyemek.com/restoranlar/286500 ayrıştırma 2.851 sn
+2026-10-01 20:11:47,234 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/338052 ayrıştırma 2.643 sn
+2026-10-01 20:11:47,262 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/382548 ayrıştırma 2.340 sn
+2026-10-01 20:11:47,559 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/232909 ayrıştırma 3.827 sn
+2026-10-01 20:11:47,717 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/426932 ayrıştırma 2.762 sn
+2026-10-01 20:11:47,753 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/366269 ayrıştırma 3.762 sn
+2026-10-01 20:11:48,048 INFO Thread-2 (worker) Restoran https://tgoyemek.com/restoranlar/306296 ayrıştırma 4.368 sn
+2026-10-01 20:11:49,853 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/192233 ayrıştırma 2.294 sn
+2026-10-01 20:11:49,961 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/401267 ayrıştırma 5.322 sn
+2026-10-01 20:11:50,043 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/379746 ayrıştırma 2.326 sn
+2026-10-01 20:11:50,171 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/357477 ayrıştırma 2.936 sn
+2026-10-01 20:11:50,393 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/278112 ayrıştırma 2.640 sn
+2026-10-01 20:11:50,410 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/343294 ayrıştırma 3.147 sn
+2026-10-01 20:11:50,645 INFO Thread-2 (worker) Restoran https://tgoyemek.com/restoranlar/310648 ayrıştırma 2.596 sn
+2026-10-01 20:11:50,879 INFO Thread-1 (worker) Restoran https://tgoyemek.com/restoranlar/406171 ayrıştırma 4.344 sn
+2026-10-01 20:11:52,740 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/381036 ayrıştırma 2.774 sn
+2026-10-01 20:11:52,803 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/376166 ayrıştırma 2.950 sn
+2026-10-01 20:11:52,993 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/355385 ayrıştırma 2.573 sn
+2026-10-01 20:11:53,132 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/177589 ayrıştırma 2.721 sn
+2026-10-01 20:11:53,325 INFO Thread-2 (worker) Restoran https://tgoyemek.com/restoranlar/172121 ayrıştırma 2.670 sn
+2026-10-01 20:11:53,953 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/112839 ayrıştırma 3.905 sn
+2026-10-01 20:11:54,162 INFO Thread-1 (worker) Restoran https://tgoyemek.com/restoranlar/330734 ayrıştırma 3.278 sn
+2026-10-01 20:11:54,921 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/374314 ayrıştırma 4.746 sn
+2026-10-01 20:11:55,428 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/388163 ayrıştırma 2.686 sn
+2026-10-01 20:11:55,705 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/318672 ayrıştırma 2.712 sn
+2026-10-01 20:11:55,727 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/172686 ayrıştırma 2.923 sn
+2026-10-01 20:11:55,841 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/341665 ayrıştırma 2.705 sn
+2026-10-01 20:11:56,142 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/381675 ayrıştırma 2.188 sn
+2026-10-01 20:11:56,204 INFO Thread-2 (worker) Restoran https://tgoyemek.com/restoranlar/380952 ayrıştırma 2.872 sn
+2026-10-01 20:11:56,984 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/173982 ayrıştırma 2.063 sn
+2026-10-01 20:11:57,193 INFO Thread-1 (worker) Restoran https://tgoyemek.com/restoranlar/220870 ayrıştırma 3.030 sn
+2026-10-01 20:11:58,028 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/191344 ayrıştırma 2.600 sn
+2026-10-01 20:11:58,301 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/356298 ayrıştırma 2.596 sn
+2026-10-01 20:11:58,845 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/361429 ayrıştırma 2.703 sn
+2026-10-01 20:11:59,278 INFO Thread-2 (worker) Restoran https://tgoyemek.com/restoranlar/233977 ayrıştırma 3.070 sn
+2026-10-01 20:11:59,393 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/325836 ayrıştırma 3.552 sn
+2026-10-01 20:11:59,628 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/276623 ayrıştırma 2.643 sn
+2026-10-01 20:11:59,775 INFO Thread-1 (worker) Restoran https://tgoyemek.com/restoranlar/117037 ayrıştırma 2.573 sn
+2026-10-01 20:12:00,251 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/7323 ayrıştırma 4.523 sn
+2026-10-01 20:12:00,590 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/195621 ayrıştırma 2.560 sn
+2026-10-01 20:12:01,049 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/299417 ayrıştırma 2.746 sn
+2026-10-01 20:12:01,888 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/244945 ayrıştırma 3.042 sn
+2026-10-01 20:12:02,757 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/202965 ayrıştırma 3.363 sn
+2026-10-01 20:12:02,931 INFO Thread-2 (worker) Restoran https://tgoyemek.com/restoranlar/427507 ayrıştırma 3.652 sn
+2026-10-01 20:12:02,961 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/314714 ayrıştırma 3.332 sn
+2026-10-01 20:12:03,006 INFO Thread-1 (worker) Restoran https://tgoyemek.com/restoranlar/196283 ayrıştırma 3.231 sn
+2026-10-01 20:12:03,626 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/421615 ayrıştırma 3.369 sn
+2026-10-01 20:12:03,893 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/314918 ayrıştırma 3.291 sn
+2026-10-01 20:12:04,770 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/342837 ayrıştırma 1.808 sn
+2026-10-01 20:12:05,311 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/304261 ayrıştırma 3.423 sn
+2026-10-01 20:12:05,382 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/363674 ayrıştırma 2.625 sn
+2026-10-01 20:12:05,581 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/296095 ayrıştırma 4.531 sn
+2026-10-01 20:12:05,616 INFO Thread-1 (worker) Restoran https://tgoyemek.com/restoranlar/325587 ayrıştırma 2.608 sn
+2026-10-01 20:12:05,814 INFO Thread-2 (worker) Restoran https://tgoyemek.com/restoranlar/26582 ayrıştırma 2.882 sn
+2026-10-01 20:12:06,832 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/26990 ayrıştırma 3.207 sn
+2026-10-01 20:12:06,846 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/392986 ayrıştırma 2.952 sn
+2026-10-01 20:12:08,093 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/6054 ayrıştırma 2.774 sn
+2026-10-01 20:12:08,124 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/192399 ayrıştırma 2.735 sn
+2026-10-01 20:12:08,267 INFO Thread-1 (worker) Restoran https://tgoyemek.com/restoranlar/300515 ayrıştırma 2.651 sn
+2026-10-01 20:12:08,312 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/314715 ayrıştırma 3.542 sn
+2026-10-01 20:12:08,562 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/419546 ayrıştırma 2.981 sn
+2026-10-01 20:12:09,476 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/407139 ayrıştırma 2.628 sn
+2026-10-01 20:12:09,608 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/4882 ayrıştırma 2.762 sn
+2026-10-01 20:12:10,378 INFO Thread-2 (worker) Restoran https://tgoyemek.com/restoranlar/421560 ayrıştırma 4.564 sn
+2026-10-01 20:12:10,871 INFO Thread-1 (worker) Restoran https://tgoyemek.com/restoranlar/382870 ayrıştırma 2.599 sn
+2026-10-01 20:12:11,502 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/402401 ayrıştırma 3.185 sn
+2026-10-01 20:12:11,747 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/376541 ayrıştırma 3.621 sn
+2026-10-01 20:12:12,367 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/4187 ayrıştırma 3.800 sn
+2026-10-01 20:12:12,742 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/373638 ayrıştırma 4.648 sn
+2026-10-01 20:12:13,112 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/213665 ayrıştırma 3.636 sn
+2026-10-01 20:12:13,442 INFO Thread-2 (worker) Restoran https://tgoyemek.com/restoranlar/193265 ayrıştırma 3.064 sn
+2026-10-01 20:12:14,412 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/317361 ayrıştırma 2.910 sn
+2026-10-01 20:12:14,852 INFO Thread-1 (worker) Restoran https://tgoyemek.com/restoranlar/19416 ayrıştırma 3.981 sn
+2026-10-01 20:12:14,987 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/184210 ayrıştırma 3.239 sn
+2026-10-01 20:12:15,849 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/211399 ayrıştırma 3.481 sn
+2026-10-01 20:12:16,171 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/289867 ayrıştırma 3.422 sn
+2026-10-01 20:12:16,500 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/211591 ayrıştırma 3.387 sn
+2026-10-01 20:12:16,946 INFO Thread-2 (worker) Restoran https://tgoyemek.com/restoranlar/245362 ayrıştırma 3.499 sn
+2026-10-01 20:12:16,947 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/427691 ayrıştırma 7.325 sn
+2026-10-01 20:12:17,529 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/27587 ayrıştırma 3.104 sn
+2026-10-01 20:12:17,780 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/339499 ayrıştırma 2.792 sn
+2026-10-01 20:12:18,133 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/279318 ayrıştırma 2.284 sn
+2026-10-01 20:12:18,649 INFO Thread-1 (worker) Restoran https://tgoyemek.com/restoranlar/438007 ayrıştırma 3.796 sn
+2026-10-01 20:12:22,576 INFO MainThread Performans: kayıt=446 yeni_çekilen=395 hatalı_URL=0 eksik=0 toplam=144.867s ortalama_restoran=2.662s duvar_saati_ortalama=0.367s kesildi=False
