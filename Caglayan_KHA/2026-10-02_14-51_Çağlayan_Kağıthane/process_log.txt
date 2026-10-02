@@ -1,0 +1,1536 @@
+2026-10-02 14:51:38,814 INFO MainThread Seçilecek adres: 'Çağlayan, Kağıthane/İstanbul'
+2026-10-02 14:52:42,803 INFO MainThread Kampanya listeleme: 1210 benzersiz URL, https://tgoyemek.com/arama?promotionIds=65910950,67806491,68999768,69518655,73980185&openRestaurants=false
+2026-10-02 14:52:50,862 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/378 ayrıştırma 3.270 sn
+2026-10-02 14:52:50,958 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/104379 ayrıştırma 3.366 sn
+2026-10-02 14:52:51,081 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/243797 ayrıştırma 3.489 sn
+2026-10-02 14:52:51,321 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/13066 ayrıştırma 3.728 sn
+2026-10-02 14:52:51,576 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/28191 ayrıştırma 3.984 sn
+2026-10-02 14:52:52,212 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/316285 ayrıştırma 4.619 sn
+2026-10-02 14:52:52,848 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/385484 ayrıştırma 5.256 sn
+2026-10-02 14:52:53,505 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/4771 ayrıştırma 5.913 sn
+2026-10-02 14:52:54,150 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/156336 ayrıştırma 3.068 sn
+2026-10-02 14:52:54,240 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/101640 ayrıştırma 3.281 sn
+2026-10-02 14:52:54,493 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/210600 ayrıştırma 3.172 sn
+2026-10-02 14:52:55,163 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/19970 ayrıştırma 2.315 sn
+2026-10-02 14:52:55,564 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/391984 ayrıştırma 4.701 sn
+2026-10-02 14:52:56,471 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/244744 ayrıştırma 4.259 sn
+2026-10-02 14:52:57,279 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/123241 ayrıştırma 5.703 sn
+2026-10-02 14:52:57,486 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/175599 ayrıştırma 3.980 sn
+2026-10-02 14:52:57,807 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/396510 ayrıştırma 3.567 sn
+2026-10-02 14:52:58,163 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/3087 ayrıştırma 2.598 sn
+2026-10-02 14:52:58,277 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/368794 ayrıştırma 3.111 sn
+2026-10-02 14:52:58,841 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/316244 ayrıştırma 4.690 sn
+2026-10-02 14:52:59,420 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/477258 ayrıştırma 4.926 sn
+2026-10-02 14:52:59,898 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/170942 ayrıştırma 2.619 sn
+2026-10-02 14:53:00,736 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/6768 ayrıştırma 4.265 sn
+2026-10-02 14:53:01,103 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/340828 ayrıştırma 2.940 sn
+2026-10-02 14:53:01,344 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/432420 ayrıştırma 2.503 sn
+2026-10-02 14:53:01,908 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/334933 ayrıştırma 4.422 sn
+2026-10-02 14:53:02,590 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/30122 ayrıştırma 4.782 sn
+2026-10-02 14:53:02,744 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/405124 ayrıştırma 4.466 sn
+2026-10-02 14:53:03,096 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/289430 ayrıştırma 3.196 sn
+2026-10-02 14:53:03,405 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/238992 ayrıştırma 3.985 sn
+2026-10-02 14:53:03,849 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/312707 ayrıştırma 2.746 sn
+2026-10-02 14:53:05,033 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/228737 ayrıştırma 4.296 sn
+2026-10-02 14:53:05,153 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/419113 ayrıştırma 3.245 sn
+2026-10-02 14:53:05,225 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/446951 ayrıştırma 2.480 sn
+2026-10-02 14:53:05,691 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/453199 ayrıştırma 2.285 sn
+2026-10-02 14:53:06,298 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/2892 ayrıştırma 4.953 sn
+2026-10-02 14:53:06,620 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/283667 ayrıştırma 4.030 sn
+2026-10-02 14:53:07,106 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/17344 ayrıştırma 4.010 sn
+2026-10-02 14:53:07,797 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/15017 ayrıştırma 2.571 sn
+2026-10-02 14:53:07,851 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/214776 ayrıştırma 4.001 sn
+2026-10-02 14:53:08,185 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/2349 ayrıştırma 2.493 sn
+2026-10-02 14:53:08,384 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/232504 ayrıştırma 3.230 sn
+2026-10-02 14:53:08,745 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/233764 ayrıştırma 3.712 sn
+2026-10-02 14:53:09,332 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/181504 ayrıştırma 3.033 sn
+2026-10-02 14:53:09,714 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/393957 ayrıştırma 2.607 sn
+2026-10-02 14:53:10,128 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/445920 ayrıştırma 2.277 sn
+2026-10-02 14:53:10,420 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/421412 ayrıştırma 3.799 sn
+2026-10-02 14:53:10,465 ERROR Thread-3 (worker) Restaurant fetch failed: https://tgoyemek.com/restoranlar/13001
+Traceback (most recent call last):
+  File "C:\MyData\TexGo\Scripts\tgo_restaurant_dumper_2.py", line 927, in worker
+    record = parse_restaurant_page(client, url)
+  File "C:\MyData\TexGo\Scripts\tgo_restaurant_dumper_2.py", line 268, in parse_restaurant_page
+    WebDriverWait(driver, 30, poll_frequency=0.2).until(
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        lambda d: source_ready(d.page_source, url))
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\selenium\webdriver\support\wait.py", line 112, in until
+    value = method(self._driver)
+  File "C:\MyData\TexGo\Scripts\tgo_restaurant_dumper_2.py", line 269, in <lambda>
+    lambda d: source_ready(d.page_source, url))
+                           ^^^^^^^^^^^^^
+  File "C:\MyData\TexGo\Scripts\tgo_restaurant_dumper_2.py", line 795, in page_source
+    return self.execute_script('return document.documentElement.outerHTML') or ''
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\MyData\TexGo\Scripts\tgo_restaurant_dumper_2.py", line 789, in execute_script
+    raise RuntimeError(str(result['exceptionDetails']))
+RuntimeError: {'exceptionId': 2, 'text': 'Uncaught', 'lineNumber': 0, 'columnNumber': 44, 'scriptId': '227', 'stackTrace': {'callFrames': [{'functionName': '', 'scriptId': '227', 'url': '', 'lineNumber': 0, 'columnNumber': 44}, {'functionName': '', 'scriptId': '227', 'url': '', 'lineNumber': 0, 'columnNumber': 55}]}, 'exception': {'type': 'object', 'subtype': 'error', 'className': 'TypeError', 'description': "TypeError: Cannot read properties of null (reading 'outerHTML')\n    at <anonymous>:1:45\n    at <anonymous>:1:56", 'objectId': '-6892182916449098769.36.2'}}
+2026-10-02 14:53:10,807 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/318744 ayrıştırma 2.422 sn
+2026-10-02 14:53:11,094 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/360613 ayrıştırma 3.290 sn
+2026-10-02 14:53:11,825 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/235455 ayrıştırma 3.619 sn
+2026-10-02 14:53:11,837 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/118304 ayrıştırma 2.122 sn
+2026-10-02 14:53:12,725 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/217532 ayrıştırma 3.979 sn
+2026-10-02 14:53:13,122 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/243352 ayrıştırma 2.701 sn
+2026-10-02 14:53:13,415 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/16443 ayrıştırma 2.320 sn
+2026-10-02 14:53:13,663 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/339898 ayrıştırma 3.534 sn
+2026-10-02 14:53:14,110 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/229118 ayrıştırma 3.641 sn
+2026-10-02 14:53:14,427 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/152715 ayrıştırma 2.601 sn
+2026-10-02 14:53:14,559 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/412616 ayrıştırma 3.751 sn
+2026-10-02 14:53:14,866 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/210925 ayrıştırma 3.028 sn
+2026-10-02 14:53:15,032 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/1711 ayrıştırma 2.307 sn
+2026-10-02 14:53:15,678 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/295461 ayrıştırma 2.556 sn
+2026-10-02 14:53:16,125 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/224183 ayrıştırma 2.461 sn
+2026-10-02 14:53:16,952 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/295565 ayrıştırma 3.537 sn
+2026-10-02 14:53:17,177 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/406032 ayrıştırma 2.750 sn
+2026-10-02 14:53:17,450 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/20813 ayrıştırma 3.339 sn
+2026-10-02 14:53:17,734 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/439875 ayrıştırma 3.174 sn
+2026-10-02 14:53:17,990 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/185204 ayrıştırma 2.311 sn
+2026-10-02 14:53:18,341 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/173547 ayrıştırma 3.474 sn
+2026-10-02 14:53:18,495 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/280995 ayrıştırma 3.462 sn
+2026-10-02 14:53:18,763 ERROR Thread-3 (worker) Restaurant fetch failed: https://tgoyemek.com/restoranlar/300955
+Traceback (most recent call last):
+  File "C:\MyData\TexGo\Scripts\tgo_restaurant_dumper_2.py", line 927, in worker
+    record = parse_restaurant_page(client, url)
+  File "C:\MyData\TexGo\Scripts\tgo_restaurant_dumper_2.py", line 268, in parse_restaurant_page
+    WebDriverWait(driver, 30, poll_frequency=0.2).until(
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        lambda d: source_ready(d.page_source, url))
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\selenium\webdriver\support\wait.py", line 112, in until
+    value = method(self._driver)
+  File "C:\MyData\TexGo\Scripts\tgo_restaurant_dumper_2.py", line 269, in <lambda>
+    lambda d: source_ready(d.page_source, url))
+                           ^^^^^^^^^^^^^
+  File "C:\MyData\TexGo\Scripts\tgo_restaurant_dumper_2.py", line 795, in page_source
+    return self.execute_script('return document.documentElement.outerHTML') or ''
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\MyData\TexGo\Scripts\tgo_restaurant_dumper_2.py", line 789, in execute_script
+    raise RuntimeError(str(result['exceptionDetails']))
+RuntimeError: {'exceptionId': 3, 'text': 'Uncaught', 'lineNumber': 0, 'columnNumber': 44, 'scriptId': '227', 'stackTrace': {'callFrames': [{'functionName': '', 'scriptId': '227', 'url': '', 'lineNumber': 0, 'columnNumber': 44}, {'functionName': '', 'scriptId': '227', 'url': '', 'lineNumber': 0, 'columnNumber': 55}]}, 'exception': {'type': 'object', 'subtype': 'error', 'className': 'TypeError', 'description': "TypeError: Cannot read properties of null (reading 'outerHTML')\n    at <anonymous>:1:45\n    at <anonymous>:1:56", 'objectId': '-6892182916449098769.48.2'}}
+2026-10-02 14:53:19,216 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/831 ayrıştırma 2.037 sn
+2026-10-02 14:53:19,334 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/284037 ayrıştırma 2.382 sn
+2026-10-02 14:53:20,338 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/371615 ayrıştırma 4.213 sn
+2026-10-02 14:53:20,765 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/393016 ayrıştırma 3.030 sn
+2026-10-02 14:53:21,541 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/9901 ayrıştırma 3.200 sn
+2026-10-02 14:53:21,902 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/187548 ayrıştırma 3.911 sn
+2026-10-02 14:53:22,111 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/314310 ayrıştırma 2.894 sn
+2026-10-02 14:53:22,455 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/427609 ayrıştırma 3.120 sn
+2026-10-02 14:53:22,596 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/398252 ayrıştırma 4.101 sn
+2026-10-02 14:53:22,822 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/430369 ayrıştırma 4.056 sn
+2026-10-02 14:53:23,196 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/217433 ayrıştırma 2.431 sn
+2026-10-02 14:53:23,707 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/431416 ayrıştırma 3.369 sn
+2026-10-02 14:53:24,716 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/243918 ayrıştırma 2.260 sn
+2026-10-02 14:53:25,024 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/377712 ayrıştırma 2.913 sn
+2026-10-02 14:53:25,376 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/426208 ayrıştırma 3.474 sn
+2026-10-02 14:53:25,405 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/299399 ayrıştırma 3.863 sn
+2026-10-02 14:53:26,431 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/235935 ayrıştırma 3.834 sn
+2026-10-02 14:53:26,660 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/100661 ayrıştırma 3.464 sn
+2026-10-02 14:53:27,008 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/422532 ayrıştırma 4.186 sn
+2026-10-02 14:53:27,212 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/206377 ayrıştırma 2.496 sn
+2026-10-02 14:53:27,801 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/28007 ayrıştırma 4.093 sn
+2026-10-02 14:53:28,919 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/322430 ayrıştırma 3.514 sn
+2026-10-02 14:53:28,932 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/337281 ayrıştırma 2.500 sn
+2026-10-02 14:53:29,093 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/207595 ayrıştırma 3.716 sn
+2026-10-02 14:53:29,359 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/467 ayrıştırma 4.321 sn
+2026-10-02 14:53:29,440 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/282996 ayrıştırma 2.779 sn
+2026-10-02 14:53:30,024 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/5770 ayrıştırma 2.215 sn
+2026-10-02 14:53:30,338 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/326769 ayrıştırma 3.329 sn
+2026-10-02 14:53:31,291 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/341816 ayrıştırma 2.371 sn
+2026-10-02 14:53:31,371 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/418164 ayrıştırma 2.439 sn
+2026-10-02 14:53:31,659 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/379127 ayrıştırma 2.299 sn
+2026-10-02 14:53:32,621 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/10246 ayrıştırma 5.408 sn
+2026-10-02 14:53:32,762 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/8654 ayrıştırma 3.321 sn
+2026-10-02 14:53:33,049 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/411297 ayrıştırma 3.024 sn
+2026-10-02 14:53:33,178 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/377450 ayrıştırma 4.085 sn
+2026-10-02 14:53:34,028 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/20985 ayrıştırma 3.690 sn
+2026-10-02 14:53:34,424 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/222677 ayrıştırma 2.765 sn
+2026-10-02 14:53:34,604 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/18662 ayrıştırma 3.312 sn
+2026-10-02 14:53:34,952 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/193149 ayrıştırma 3.581 sn
+2026-10-02 14:53:35,465 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/195836 ayrıştırma 2.415 sn
+2026-10-02 14:53:35,948 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/466 ayrıştırma 3.186 sn
+2026-10-02 14:53:36,784 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/179635 ayrıştırma 4.161 sn
+2026-10-02 14:53:36,880 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/12593 ayrıştırma 2.848 sn
+2026-10-02 14:53:37,334 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/26648 ayrıştırma 4.154 sn
+2026-10-02 14:53:37,492 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/312572 ayrıştırma 3.068 sn
+2026-10-02 14:53:37,859 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/12366 ayrıştırma 3.254 sn
+2026-10-02 14:53:38,893 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/107093 ayrıştırma 3.427 sn
+2026-10-02 14:53:39,121 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/151693 ayrıştırma 2.337 sn
+2026-10-02 14:53:39,371 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/118864 ayrıştırma 4.418 sn
+2026-10-02 14:53:39,571 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/381715 ayrıştırma 2.691 sn
+2026-10-02 14:53:39,697 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/113742 ayrıştırma 2.204 sn
+2026-10-02 14:53:40,357 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/29446 ayrıştırma 4.408 sn
+2026-10-02 14:53:40,447 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/21259 ayrıştırma 3.112 sn
+2026-10-02 14:53:41,297 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/402350 ayrıştırma 2.403 sn
+2026-10-02 14:53:41,558 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/166857 ayrıştırma 2.185 sn
+2026-10-02 14:53:41,672 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/362960 ayrıştırma 2.100 sn
+2026-10-02 14:53:41,980 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/242116 ayrıştırma 4.120 sn
+2026-10-02 14:53:42,316 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/427070 ayrıştırma 2.618 sn
+2026-10-02 14:53:42,450 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/2168 ayrıştırma 3.328 sn
+2026-10-02 14:53:42,778 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/297540 ayrıştırma 2.331 sn
+2026-10-02 14:53:43,758 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/3491 ayrıştırma 2.461 sn
+2026-10-02 14:53:44,197 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/366199 ayrıştırma 2.525 sn
+2026-10-02 14:53:44,320 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/282086 ayrıştırma 2.762 sn
+2026-10-02 14:53:44,795 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/320899 ayrıştırma 2.479 sn
+2026-10-02 14:53:45,177 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/29678 ayrıştırma 3.197 sn
+2026-10-02 14:53:45,279 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/406096 ayrıştırma 2.829 sn
+2026-10-02 14:53:46,006 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/150618 ayrıştırma 5.648 sn
+2026-10-02 14:53:46,611 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/393302 ayrıştırma 3.831 sn
+2026-10-02 14:53:46,968 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/367159 ayrıştırma 3.209 sn
+2026-10-02 14:53:47,298 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/435453 ayrıştırma 2.977 sn
+2026-10-02 14:53:47,365 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/236998 ayrıştırma 2.570 sn
+2026-10-02 14:53:48,200 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/338108 ayrıştırma 4.002 sn
+2026-10-02 14:53:48,357 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/15632 ayrıştırma 3.077 sn
+2026-10-02 14:53:48,555 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/434898 ayrıştırma 3.377 sn
+2026-10-02 14:53:48,949 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/424333 ayrıştırma 2.943 sn
+2026-10-02 14:53:49,228 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/30781 ayrıştırma 2.616 sn
+2026-10-02 14:53:49,716 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/243114 ayrıştırma 2.349 sn
+2026-10-02 14:53:49,807 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/13255 ayrıştırma 2.508 sn
+2026-10-02 14:53:49,931 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/126067 ayrıştırma 2.962 sn
+2026-10-02 14:53:50,455 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/30083 ayrıştırma 2.253 sn
+2026-10-02 14:53:51,299 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/397611 ayrıştırma 2.350 sn
+2026-10-02 14:53:52,282 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/15193 ayrıştırma 2.474 sn
+2026-10-02 14:53:52,799 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/331586 ayrıştırma 2.867 sn
+2026-10-02 14:53:53,357 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/2051 ayrıştırma 2.902 sn
+2026-10-02 14:53:53,393 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/135757 ayrıştırma 5.036 sn
+2026-10-02 14:53:54,041 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/6112 ayrıştırma 4.325 sn
+2026-10-02 14:53:54,283 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/327435 ayrıştırma 5.054 sn
+2026-10-02 14:53:54,818 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/152696 ayrıştırma 6.263 sn
+2026-10-02 14:53:55,436 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/17401 ayrıştırma 4.136 sn
+2026-10-02 14:53:55,558 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/2587 ayrıştırma 3.276 sn
+2026-10-02 14:53:55,573 ERROR Thread-6 (worker) Restaurant fetch failed: https://tgoyemek.com/restoranlar/217565
+Traceback (most recent call last):
+  File "C:\MyData\TexGo\Scripts\tgo_restaurant_dumper_2.py", line 927, in worker
+    record = parse_restaurant_page(client, url)
+  File "C:\MyData\TexGo\Scripts\tgo_restaurant_dumper_2.py", line 268, in parse_restaurant_page
+    WebDriverWait(driver, 30, poll_frequency=0.2).until(
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        lambda d: source_ready(d.page_source, url))
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\selenium\webdriver\support\wait.py", line 112, in until
+    value = method(self._driver)
+  File "C:\MyData\TexGo\Scripts\tgo_restaurant_dumper_2.py", line 269, in <lambda>
+    lambda d: source_ready(d.page_source, url))
+                           ^^^^^^^^^^^^^
+  File "C:\MyData\TexGo\Scripts\tgo_restaurant_dumper_2.py", line 795, in page_source
+    return self.execute_script('return document.documentElement.outerHTML') or ''
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\MyData\TexGo\Scripts\tgo_restaurant_dumper_2.py", line 789, in execute_script
+    raise RuntimeError(str(result['exceptionDetails']))
+RuntimeError: {'exceptionId': 1, 'text': 'Uncaught', 'lineNumber': 0, 'columnNumber': 44, 'scriptId': '71', 'exception': {'type': 'object', 'subtype': 'error', 'className': 'TypeError', 'description': "TypeError: Cannot read properties of null (reading 'outerHTML')\n    at <anonymous>:1:45\n    at <anonymous>:1:56", 'objectId': '-1692880356183696582.40.2'}}
+2026-10-02 14:53:56,012 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/327481 ayrıştırma 3.213 sn
+2026-10-02 14:53:57,521 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/129263 ayrıştırma 4.163 sn
+2026-10-02 14:53:57,704 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/339958 ayrıştırma 3.662 sn
+2026-10-02 14:53:57,920 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/182448 ayrıştırma 3.102 sn
+2026-10-02 14:53:58,178 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/165257 ayrıştırma 2.742 sn
+2026-10-02 14:53:58,572 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/339816 ayrıştırma 5.178 sn
+2026-10-02 14:53:59,659 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/422489 ayrıştırma 4.101 sn
+2026-10-02 14:53:59,903 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/203519 ayrıştırma 2.381 sn
+2026-10-02 14:54:00,081 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/10446 ayrıştırma 4.068 sn
+2026-10-02 14:54:00,333 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/147210 ayrıştırma 4.757 sn
+2026-10-02 14:54:00,455 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/419323 ayrıştırma 2.277 sn
+2026-10-02 14:54:01,093 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/1378 ayrıştırma 3.387 sn
+2026-10-02 14:54:01,507 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/425988 ayrıştırma 3.585 sn
+2026-10-02 14:54:02,079 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/371307 ayrıştırma 3.506 sn
+2026-10-02 14:54:02,674 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/342237 ayrıştırma 2.341 sn
+2026-10-02 14:54:02,831 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/293 ayrıştırma 2.750 sn
+2026-10-02 14:54:03,239 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/306727 ayrıştırma 2.145 sn
+2026-10-02 14:54:03,828 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/430662 ayrıştırma 3.925 sn
+2026-10-02 14:54:04,257 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/144796 ayrıştırma 4.580 sn
+2026-10-02 14:54:04,481 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/147675 ayrıştırma 2.973 sn
+2026-10-02 14:54:04,846 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/18306 ayrıştırma 2.767 sn
+2026-10-02 14:54:06,104 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/351 ayrıştırma 3.429 sn
+2026-10-02 14:54:06,292 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/187866 ayrıştırma 5.837 sn
+2026-10-02 14:54:06,742 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/637 ayrıştırma 3.503 sn
+2026-10-02 14:54:07,093 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/436903 ayrıştırma 4.262 sn
+2026-10-02 14:54:07,433 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/438316 ayrıştırma 3.175 sn
+2026-10-02 14:54:07,716 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/23854 ayrıştırma 2.870 sn
+2026-10-02 14:54:08,336 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/215213 ayrıştırma 3.855 sn
+2026-10-02 14:54:08,640 ERROR Thread-8 (worker) Restaurant fetch failed: https://tgoyemek.com/restoranlar/209306
+Traceback (most recent call last):
+  File "C:\MyData\TexGo\Scripts\tgo_restaurant_dumper_2.py", line 927, in worker
+    record = parse_restaurant_page(client, url)
+  File "C:\MyData\TexGo\Scripts\tgo_restaurant_dumper_2.py", line 268, in parse_restaurant_page
+    WebDriverWait(driver, 30, poll_frequency=0.2).until(
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        lambda d: source_ready(d.page_source, url))
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\selenium\webdriver\support\wait.py", line 112, in until
+    value = method(self._driver)
+  File "C:\MyData\TexGo\Scripts\tgo_restaurant_dumper_2.py", line 269, in <lambda>
+    lambda d: source_ready(d.page_source, url))
+                           ^^^^^^^^^^^^^
+  File "C:\MyData\TexGo\Scripts\tgo_restaurant_dumper_2.py", line 795, in page_source
+    return self.execute_script('return document.documentElement.outerHTML') or ''
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\MyData\TexGo\Scripts\tgo_restaurant_dumper_2.py", line 789, in execute_script
+    raise RuntimeError(str(result['exceptionDetails']))
+RuntimeError: {'exceptionId': 1, 'text': 'Uncaught', 'lineNumber': 0, 'columnNumber': 44, 'scriptId': '86', 'exception': {'type': 'object', 'subtype': 'error', 'className': 'TypeError', 'description': "TypeError: Cannot read properties of null (reading 'outerHTML')\n    at <anonymous>:1:45\n    at <anonymous>:1:56", 'objectId': '-2654751641642533642.52.2'}}
+2026-10-02 14:54:08,667 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/300568 ayrıştırma 4.838 sn
+2026-10-02 14:54:08,944 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/319855 ayrıştırma 2.650 sn
+2026-10-02 14:54:09,026 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/359658 ayrıştırma 2.283 sn
+2026-10-02 14:54:09,883 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/428299 ayrıştırma 3.778 sn
+2026-10-02 14:54:10,376 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/3649 ayrıştırma 2.943 sn
+2026-10-02 14:54:10,700 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/315698 ayrıştırma 2.362 sn
+2026-10-02 14:54:10,879 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/400093 ayrıştırma 3.162 sn
+2026-10-02 14:54:10,989 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/245963 ayrıştırma 1.962 sn
+2026-10-02 14:54:11,320 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/409281 ayrıştırma 2.653 sn
+2026-10-02 14:54:12,149 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/383663 ayrıştırma 3.205 sn
+2026-10-02 14:54:12,558 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/368646 ayrıştırma 2.674 sn
+2026-10-02 14:54:13,113 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/161311 ayrıştırma 2.737 sn
+2026-10-02 14:54:13,589 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/322781 ayrıştırma 4.946 sn
+2026-10-02 14:54:14,200 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/318071 ayrıştırma 3.211 sn
+2026-10-02 14:54:14,588 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/159589 ayrıştırma 3.888 sn
+2026-10-02 14:54:14,864 ERROR Thread-5 (worker) Restaurant fetch failed: https://tgoyemek.com/restoranlar/415
+Traceback (most recent call last):
+  File "C:\MyData\TexGo\Scripts\tgo_restaurant_dumper_2.py", line 927, in worker
+    record = parse_restaurant_page(client, url)
+  File "C:\MyData\TexGo\Scripts\tgo_restaurant_dumper_2.py", line 268, in parse_restaurant_page
+    WebDriverWait(driver, 30, poll_frequency=0.2).until(
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        lambda d: source_ready(d.page_source, url))
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\selenium\webdriver\support\wait.py", line 112, in until
+    value = method(self._driver)
+  File "C:\MyData\TexGo\Scripts\tgo_restaurant_dumper_2.py", line 269, in <lambda>
+    lambda d: source_ready(d.page_source, url))
+                           ^^^^^^^^^^^^^
+  File "C:\MyData\TexGo\Scripts\tgo_restaurant_dumper_2.py", line 795, in page_source
+    return self.execute_script('return document.documentElement.outerHTML') or ''
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\MyData\TexGo\Scripts\tgo_restaurant_dumper_2.py", line 789, in execute_script
+    raise RuntimeError(str(result['exceptionDetails']))
+RuntimeError: {'exceptionId': 1, 'text': 'Uncaught', 'lineNumber': 0, 'columnNumber': 44, 'scriptId': '51', 'exception': {'type': 'object', 'subtype': 'error', 'className': 'TypeError', 'description': "TypeError: Cannot read properties of null (reading 'outerHTML')\n    at <anonymous>:1:45\n    at <anonymous>:1:56", 'objectId': '8634368787754224448.52.2'}}
+2026-10-02 14:54:14,995 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/219752 ayrıştırma 3.674 sn
+2026-10-02 14:54:15,690 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/372643 ayrıştırma 3.541 sn
+2026-10-02 14:54:15,844 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/301531 ayrıştırma 3.285 sn
+2026-10-02 14:54:15,992 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/377791 ayrıştırma 2.403 sn
+2026-10-02 14:54:16,957 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/1164 ayrıştırma 6.078 sn
+2026-10-02 14:54:17,212 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/435471 ayrıştırma 2.216 sn
+2026-10-02 14:54:17,452 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/438527 ayrıştırma 2.863 sn
+2026-10-02 14:54:17,650 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/340547 ayrıştırma 3.450 sn
+2026-10-02 14:54:18,746 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/100003 ayrıştırma 3.055 sn
+2026-10-02 14:54:19,169 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/15308 ayrıştırma 3.324 sn
+2026-10-02 14:54:19,461 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/184160 ayrıştırma 3.469 sn
+2026-10-02 14:54:19,691 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/290971 ayrıştırma 2.479 sn
+2026-10-02 14:54:19,920 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/169174 ayrıştırma 2.962 sn
+2026-10-02 14:54:20,409 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/376684 ayrıştırma 2.956 sn
+2026-10-02 14:54:20,671 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/228781 ayrıştırma 3.020 sn
+2026-10-02 14:54:21,132 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/372803 ayrıştırma 1.962 sn
+2026-10-02 14:54:21,348 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/369094 ayrıştırma 2.600 sn
+2026-10-02 14:54:22,558 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/30987 ayrıştırma 2.867 sn
+2026-10-02 14:54:22,968 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/377898 ayrıştırma 3.047 sn
+2026-10-02 14:54:23,391 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/392831 ayrıştırma 3.930 sn
+2026-10-02 14:54:23,701 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/371785 ayrıştırma 3.029 sn
+2026-10-02 14:54:23,896 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/390576 ayrıştırma 2.763 sn
+2026-10-02 14:54:24,249 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/185682 ayrıştırma 3.840 sn
+2026-10-02 14:54:25,202 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/402759 ayrıştırma 1.810 sn
+2026-10-02 14:54:25,896 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/242188 ayrıştırma 3.337 sn
+2026-10-02 14:54:26,230 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/430624 ayrıştırma 2.334 sn
+2026-10-02 14:54:26,377 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/382159 ayrıştırma 2.676 sn
+2026-10-02 14:54:26,597 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/3403 ayrıştırma 2.348 sn
+2026-10-02 14:54:26,675 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/221149 ayrıştırma 11.810 sn
+2026-10-02 14:54:27,519 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/138729 ayrıştırma 4.513 sn
+2026-10-02 14:54:28,794 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/395537 ayrıştırma 7.446 sn
+2026-10-02 14:54:29,468 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/385685 ayrıştırma 2.792 sn
+2026-10-02 14:54:29,722 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/312507 ayrıştırma 3.125 sn
+2026-10-02 14:54:29,881 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/222489 ayrıştırma 3.650 sn
+2026-10-02 14:54:30,041 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/399200 ayrıştırma 3.663 sn
+2026-10-02 14:54:30,375 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/237850 ayrıştırma 5.172 sn
+2026-10-02 14:54:30,868 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/134579 ayrıştırma 4.972 sn
+2026-10-02 14:54:31,371 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/307518 ayrıştırma 2.577 sn
+2026-10-02 14:54:32,664 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/379134 ayrıştırma 5.143 sn
+2026-10-02 14:54:32,882 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/163290 ayrıştırma 3.001 sn
+2026-10-02 14:54:33,075 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/224125 ayrıştırma 3.032 sn
+2026-10-02 14:54:33,368 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/289031 ayrıştırma 2.992 sn
+2026-10-02 14:54:33,880 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/359299 ayrıştırma 4.157 sn
+2026-10-02 14:54:34,586 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/289007 ayrıştırma 5.118 sn
+2026-10-02 14:54:34,781 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/428071 ayrıştırma 3.408 sn
+2026-10-02 14:54:34,798 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/233911 ayrıştırma 3.928 sn
+2026-10-02 14:54:35,170 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/412103 ayrıştırma 2.507 sn
+2026-10-02 14:54:35,523 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/302512 ayrıştırma 2.640 sn
+2026-10-02 14:54:36,746 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/387598 ayrıştırma 3.671 sn
+2026-10-02 14:54:37,345 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/338602 ayrıştırma 3.463 sn
+2026-10-02 14:54:37,485 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/297911 ayrıştırma 4.118 sn
+2026-10-02 14:54:37,977 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/341795 ayrıştırma 2.806 sn
+2026-10-02 14:54:38,393 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/8735 ayrıştırma 2.869 sn
+2026-10-02 14:54:38,506 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/176915 ayrıştırma 3.708 sn
+2026-10-02 14:54:38,788 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/214489 ayrıştırma 4.007 sn
+2026-10-02 14:54:39,119 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/211814 ayrıştırma 2.372 sn
+2026-10-02 14:54:39,220 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/333557 ayrıştırma 4.632 sn
+2026-10-02 14:54:40,031 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/342229 ayrıştırma 2.685 sn
+2026-10-02 14:54:40,131 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/337239 ayrıştırma 2.645 sn
+2026-10-02 14:54:41,191 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/306419 ayrıştırma 2.797 sn
+2026-10-02 14:54:41,766 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/326436 ayrıştırma 2.977 sn
+2026-10-02 14:54:41,918 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/206465 ayrıştırma 3.411 sn
+2026-10-02 14:54:42,300 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/435675 ayrıştırma 2.268 sn
+2026-10-02 14:54:42,492 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/313320 ayrıştırma 2.356 sn
+2026-10-02 14:54:42,612 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/191699 ayrıştırma 3.472 sn
+2026-10-02 14:54:43,035 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/13720 ayrıştırma 5.057 sn
+2026-10-02 14:54:43,322 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/339562 ayrıştırma 4.100 sn
+2026-10-02 14:54:44,309 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/574 ayrıştırma 2.542 sn
+2026-10-02 14:54:44,856 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/147216 ayrıştırma 3.664 sn
+2026-10-02 14:54:45,283 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/322371 ayrıştırma 3.365 sn
+2026-10-02 14:54:45,529 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/412641 ayrıştırma 3.229 sn
+2026-10-02 14:54:45,868 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/454272 ayrıştırma 3.376 sn
+2026-10-02 14:54:46,047 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/12355 ayrıştırma 3.435 sn
+2026-10-02 14:54:46,346 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/443661 ayrıştırma 3.310 sn
+2026-10-02 14:54:46,741 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/357558 ayrıştırma 2.431 sn
+2026-10-02 14:54:47,198 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/151448 ayrıştırma 2.342 sn
+2026-10-02 14:54:47,520 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/421383 ayrıştırma 2.236 sn
+2026-10-02 14:54:48,000 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/332201 ayrıştırma 2.471 sn
+2026-10-02 14:54:48,965 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/225776 ayrıştırma 5.642 sn
+2026-10-02 14:54:49,342 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/115846 ayrıştırma 3.295 sn
+2026-10-02 14:54:49,871 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/356501 ayrıştırma 4.002 sn
+2026-10-02 14:54:49,886 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/281570 ayrıştırma 3.539 sn
+2026-10-02 14:54:50,730 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/170268 ayrıştırma 3.210 sn
+2026-10-02 14:54:50,855 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/10806 ayrıştırma 2.855 sn
+2026-10-02 14:54:51,279 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/134188 ayrıştırma 4.079 sn
+2026-10-02 14:54:51,395 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/324410 ayrıştırma 4.653 sn
+2026-10-02 14:54:51,794 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/429233 ayrıştırma 2.828 sn
+2026-10-02 14:54:52,075 ERROR Thread-3 (worker) Restaurant fetch failed: https://tgoyemek.com/restoranlar/12429
+Traceback (most recent call last):
+  File "C:\MyData\TexGo\Scripts\tgo_restaurant_dumper_2.py", line 927, in worker
+    record = parse_restaurant_page(client, url)
+  File "C:\MyData\TexGo\Scripts\tgo_restaurant_dumper_2.py", line 268, in parse_restaurant_page
+    WebDriverWait(driver, 30, poll_frequency=0.2).until(
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        lambda d: source_ready(d.page_source, url))
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\selenium\webdriver\support\wait.py", line 112, in until
+    value = method(self._driver)
+  File "C:\MyData\TexGo\Scripts\tgo_restaurant_dumper_2.py", line 269, in <lambda>
+    lambda d: source_ready(d.page_source, url))
+                           ^^^^^^^^^^^^^
+  File "C:\MyData\TexGo\Scripts\tgo_restaurant_dumper_2.py", line 795, in page_source
+    return self.execute_script('return document.documentElement.outerHTML') or ''
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\MyData\TexGo\Scripts\tgo_restaurant_dumper_2.py", line 789, in execute_script
+    raise RuntimeError(str(result['exceptionDetails']))
+RuntimeError: {'exceptionId': 4, 'text': 'Uncaught', 'lineNumber': 0, 'columnNumber': 44, 'scriptId': '227', 'stackTrace': {'callFrames': [{'functionName': '', 'scriptId': '227', 'url': '', 'lineNumber': 0, 'columnNumber': 44}, {'functionName': '', 'scriptId': '227', 'url': '', 'lineNumber': 0, 'columnNumber': 55}]}, 'exception': {'type': 'object', 'subtype': 'error', 'className': 'TypeError', 'description': "TypeError: Cannot read properties of null (reading 'outerHTML')\n    at <anonymous>:1:45\n    at <anonymous>:1:56", 'objectId': '-6892182916449098769.164.2'}}
+2026-10-02 14:54:52,091 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/8662 ayrıştırma 2.748 sn
+2026-10-02 14:54:53,108 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/228094 ayrıştırma 3.237 sn
+2026-10-02 14:54:53,560 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/363818 ayrıştırma 3.674 sn
+2026-10-02 14:54:54,126 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/402242 ayrıştırma 2.847 sn
+2026-10-02 14:54:54,234 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/22409 ayrıştırma 3.377 sn
+2026-10-02 14:54:54,380 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/1632 ayrıştırma 2.288 sn
+2026-10-02 14:54:54,679 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/391960 ayrıştırma 2.884 sn
+2026-10-02 14:54:55,039 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/338973 ayrıştırma 1.929 sn
+2026-10-02 14:54:55,461 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/319591 ayrıştırma 4.065 sn
+2026-10-02 14:54:55,982 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/224188 ayrıştırma 3.905 sn
+2026-10-02 14:54:56,368 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/384787 ayrıştırma 2.807 sn
+2026-10-02 14:54:57,453 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/245709 ayrıştırma 3.326 sn
+2026-10-02 14:54:57,655 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/5849 ayrıştırma 3.421 sn
+2026-10-02 14:54:58,033 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/203831 ayrıştırma 3.651 sn
+2026-10-02 14:54:58,447 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/397594 ayrıştırma 3.408 sn
+2026-10-02 14:54:58,706 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/390641 ayrıştırma 3.244 sn
+2026-10-02 14:54:58,869 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/187265 ayrıştırma 4.190 sn
+2026-10-02 14:54:59,015 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/322733 ayrıştırma 3.033 sn
+2026-10-02 14:54:59,225 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/285258 ayrıştırma 2.856 sn
+2026-10-02 14:54:59,514 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/18603 ayrıştırma 2.059 sn
+2026-10-02 14:55:00,147 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/380624 ayrıştırma 2.113 sn
+2026-10-02 14:55:00,912 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/130414 ayrıştırma 2.464 sn
+2026-10-02 14:55:01,842 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/173163 ayrıştırma 4.186 sn
+2026-10-02 14:55:02,048 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/384748 ayrıştırma 3.032 sn
+2026-10-02 14:55:02,218 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/181823 ayrıştırma 3.512 sn
+2026-10-02 14:55:02,384 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/221183 ayrıştırma 3.514 sn
+2026-10-02 14:55:02,640 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/847 ayrıştırma 3.415 sn
+2026-10-02 14:55:02,979 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/435284 ayrıştırma 3.465 sn
+2026-10-02 14:55:03,093 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/138338 ayrıştırma 2.945 sn
+2026-10-02 14:55:03,874 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/841 ayrıştırma 2.961 sn
+2026-10-02 14:55:04,639 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/454046 ayrıştırma 2.590 sn
+2026-10-02 14:55:05,202 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/671 ayrıştırma 2.818 sn
+2026-10-02 14:55:05,630 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/381655 ayrıştırma 3.787 sn
+2026-10-02 14:55:05,982 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/451966 ayrıştırma 2.889 sn
+2026-10-02 14:55:06,504 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/168820 ayrıştırma 4.285 sn
+2026-10-02 14:55:06,885 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/108689 ayrıştırma 3.905 sn
+2026-10-02 14:55:07,397 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/322995 ayrıştırma 2.757 sn
+2026-10-02 14:55:07,512 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/369283 ayrıştırma 4.872 sn
+2026-10-02 14:55:07,739 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/244911 ayrıştırma 3.864 sn
+2026-10-02 14:55:08,189 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/1375 ayrıştırma 2.978 sn
+2026-10-02 14:55:08,767 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/340392 ayrıştırma 2.785 sn
+2026-10-02 14:55:09,598 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/366936 ayrıştırma 3.967 sn
+2026-10-02 14:55:09,884 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/634 ayrıştırma 3.379 sn
+2026-10-02 14:55:10,174 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/358032 ayrıştırma 3.289 sn
+2026-10-02 14:55:10,680 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/235932 ayrıştırma 3.282 sn
+2026-10-02 14:55:11,224 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/400819 ayrıştırma 3.034 sn
+2026-10-02 14:55:11,235 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/27976 ayrıştırma 3.496 sn
+2026-10-02 14:55:11,560 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/116021 ayrıştırma 2.792 sn
+2026-10-02 14:55:11,895 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/378425 ayrıştırma 4.382 sn
+2026-10-02 14:55:12,100 ERROR Thread-3 (worker) Restaurant fetch failed: https://tgoyemek.com/restoranlar/149985
+Traceback (most recent call last):
+  File "C:\MyData\TexGo\Scripts\tgo_restaurant_dumper_2.py", line 927, in worker
+    record = parse_restaurant_page(client, url)
+  File "C:\MyData\TexGo\Scripts\tgo_restaurant_dumper_2.py", line 268, in parse_restaurant_page
+    WebDriverWait(driver, 30, poll_frequency=0.2).until(
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        lambda d: source_ready(d.page_source, url))
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\selenium\webdriver\support\wait.py", line 112, in until
+    value = method(self._driver)
+  File "C:\MyData\TexGo\Scripts\tgo_restaurant_dumper_2.py", line 269, in <lambda>
+    lambda d: source_ready(d.page_source, url))
+                           ^^^^^^^^^^^^^
+  File "C:\MyData\TexGo\Scripts\tgo_restaurant_dumper_2.py", line 795, in page_source
+    return self.execute_script('return document.documentElement.outerHTML') or ''
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\MyData\TexGo\Scripts\tgo_restaurant_dumper_2.py", line 789, in execute_script
+    raise RuntimeError(str(result['exceptionDetails']))
+RuntimeError: {'exceptionId': 5, 'text': 'Uncaught', 'lineNumber': 0, 'columnNumber': 44, 'scriptId': '227', 'stackTrace': {'callFrames': [{'functionName': '', 'scriptId': '227', 'url': '', 'lineNumber': 0, 'columnNumber': 44}, {'functionName': '', 'scriptId': '227', 'url': '', 'lineNumber': 0, 'columnNumber': 55}]}, 'exception': {'type': 'object', 'subtype': 'error', 'className': 'TypeError', 'description': "TypeError: Cannot read properties of null (reading 'outerHTML')\n    at <anonymous>:1:45\n    at <anonymous>:1:56", 'objectId': '-6892182916449098769.192.2'}}
+2026-10-02 14:55:12,548 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/319419 ayrıştırma 2.949 sn
+2026-10-02 14:55:12,839 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/438951 ayrıştırma 2.664 sn
+2026-10-02 14:55:13,964 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/231430 ayrıştırma 4.080 sn
+2026-10-02 14:55:14,570 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/167318 ayrıştırma 3.346 sn
+2026-10-02 14:55:14,918 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/15697 ayrıştırma 3.022 sn
+2026-10-02 14:55:15,348 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/19446 ayrıştırma 4.112 sn
+2026-10-02 14:55:15,469 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/342043 ayrıştırma 3.908 sn
+2026-10-02 14:55:15,721 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/321943 ayrıştırma 3.172 sn
+2026-10-02 14:55:16,112 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/243468 ayrıştırma 3.272 sn
+2026-10-02 14:55:16,401 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/288751 ayrıştırma 4.299 sn
+2026-10-02 14:55:16,713 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/14315 ayrıştırma 2.143 sn
+2026-10-02 14:55:16,995 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/21910 ayrıştırma 3.030 sn
+2026-10-02 14:55:18,409 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/154806 ayrıştırma 2.939 sn
+2026-10-02 14:55:18,672 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/115911 ayrıştırma 3.754 sn
+2026-10-02 14:55:19,268 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/15005 ayrıştırma 2.866 sn
+2026-10-02 14:55:19,611 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/17735 ayrıştırma 4.263 sn
+2026-10-02 14:55:19,717 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/202327 ayrıştırma 3.996 sn
+2026-10-02 14:55:20,606 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/386599 ayrıştırma 1.933 sn
+2026-10-02 14:55:20,733 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/331618 ayrıştırma 4.621 sn
+2026-10-02 14:55:20,841 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/173460 ayrıştırma 4.127 sn
+2026-10-02 14:55:21,577 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/422494 ayrıştırma 3.168 sn
+2026-10-02 14:55:21,914 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/323843 ayrıştırma 2.646 sn
+2026-10-02 14:55:22,657 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/335414 ayrıştırma 5.661 sn
+2026-10-02 14:55:22,919 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/217357 ayrıştırma 3.307 sn
+2026-10-02 14:55:23,291 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/318106 ayrıştırma 3.572 sn
+2026-10-02 14:55:23,955 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/306810 ayrıştırma 3.349 sn
+2026-10-02 14:55:24,043 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/403788 ayrıştırma 2.465 sn
+2026-10-02 14:55:24,210 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/372044 ayrıştırma 3.368 sn
+2026-10-02 14:55:25,252 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/313729 ayrıştırma 2.333 sn
+2026-10-02 14:55:25,325 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/470 ayrıştırma 2.667 sn
+2026-10-02 14:55:25,453 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/674 ayrıştırma 4.710 sn
+2026-10-02 14:55:25,945 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/395659 ayrıştırma 4.029 sn
+2026-10-02 14:55:26,891 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/339347 ayrıştırma 2.936 sn
+2026-10-02 14:55:27,379 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/383365 ayrıştırma 4.087 sn
+2026-10-02 14:55:27,573 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/280556 ayrıştırma 3.530 sn
+2026-10-02 14:55:28,259 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/360153 ayrıştırma 2.314 sn
+2026-10-02 14:55:28,296 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/244891 ayrıştırma 4.085 sn
+2026-10-02 14:55:28,560 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/24507 ayrıştırma 3.308 sn
+2026-10-02 14:55:28,874 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/391486 ayrıştırma 3.549 sn
+2026-10-02 14:55:29,017 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/202022 ayrıştırma 2.126 sn
+2026-10-02 14:55:29,531 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/403655 ayrıştırma 4.077 sn
+2026-10-02 14:55:30,076 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/169594 ayrıştırma 2.502 sn
+2026-10-02 14:55:31,322 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/436427 ayrıştırma 3.063 sn
+2026-10-02 14:55:31,867 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/244992 ayrıştırma 3.306 sn
+2026-10-02 14:55:32,063 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/243371 ayrıştırma 3.188 sn
+2026-10-02 14:55:32,190 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/380989 ayrıştırma 3.171 sn
+2026-10-02 14:55:32,456 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/2535 ayrıştırma 2.924 sn
+2026-10-02 14:55:32,619 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/337620 ayrıştırma 5.240 sn
+2026-10-02 14:55:33,534 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/5397 ayrıştırma 3.458 sn
+2026-10-02 14:55:33,726 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/240056 ayrıştırma 5.430 sn
+2026-10-02 14:55:33,828 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/148171 ayrıştırma 2.506 sn
+2026-10-02 14:55:34,188 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/372728 ayrıştırma 2.319 sn
+2026-10-02 14:55:35,588 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/362167 ayrıştırma 3.398 sn
+2026-10-02 14:55:35,915 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/423646 ayrıştırma 3.851 sn
+2026-10-02 14:55:36,300 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/8338 ayrıştırma 3.844 sn
+2026-10-02 14:55:36,452 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/194270 ayrıştırma 3.832 sn
+2026-10-02 14:55:36,649 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/16222 ayrıştırma 3.115 sn
+2026-10-02 14:55:37,130 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/284725 ayrıştırma 2.941 sn
+2026-10-02 14:55:37,297 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/194775 ayrıştırma 3.467 sn
+2026-10-02 14:55:37,316 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/423203 ayrıştırma 3.590 sn
+2026-10-02 14:55:37,891 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/301556 ayrıştırma 1.973 sn
+2026-10-02 14:55:38,003 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/377822 ayrıştırma 2.415 sn
+2026-10-02 14:55:39,426 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/388479 ayrıştırma 3.125 sn
+2026-10-02 14:55:39,622 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/18923 ayrıştırma 3.170 sn
+2026-10-02 14:55:40,262 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/366778 ayrıştırma 2.945 sn
+2026-10-02 14:55:40,454 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/184677 ayrıştırma 3.323 sn
+2026-10-02 14:55:40,798 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/222705 ayrıştırma 2.795 sn
+2026-10-02 14:55:40,963 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/322796 ayrıştırma 3.665 sn
+2026-10-02 14:55:41,168 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/102492 ayrıştırma 3.276 sn
+2026-10-02 14:55:41,584 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/429534 ayrıştırma 1.962 sn
+2026-10-02 14:55:42,170 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/2434 ayrıştırma 5.520 sn
+2026-10-02 14:55:42,245 ERROR Thread-3 (worker) Restaurant fetch failed: https://tgoyemek.com/restoranlar/388513
+Traceback (most recent call last):
+  File "C:\MyData\TexGo\Scripts\tgo_restaurant_dumper_2.py", line 927, in worker
+    record = parse_restaurant_page(client, url)
+  File "C:\MyData\TexGo\Scripts\tgo_restaurant_dumper_2.py", line 268, in parse_restaurant_page
+    WebDriverWait(driver, 30, poll_frequency=0.2).until(
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        lambda d: source_ready(d.page_source, url))
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\selenium\webdriver\support\wait.py", line 112, in until
+    value = method(self._driver)
+  File "C:\MyData\TexGo\Scripts\tgo_restaurant_dumper_2.py", line 269, in <lambda>
+    lambda d: source_ready(d.page_source, url))
+                           ^^^^^^^^^^^^^
+  File "C:\MyData\TexGo\Scripts\tgo_restaurant_dumper_2.py", line 795, in page_source
+    return self.execute_script('return document.documentElement.outerHTML') or ''
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\MyData\TexGo\Scripts\tgo_restaurant_dumper_2.py", line 789, in execute_script
+    raise RuntimeError(str(result['exceptionDetails']))
+RuntimeError: {'exceptionId': 6, 'text': 'Uncaught', 'lineNumber': 0, 'columnNumber': 44, 'scriptId': '227', 'stackTrace': {'callFrames': [{'functionName': '', 'scriptId': '227', 'url': '', 'lineNumber': 0, 'columnNumber': 44}, {'functionName': '', 'scriptId': '227', 'url': '', 'lineNumber': 0, 'columnNumber': 55}]}, 'exception': {'type': 'object', 'subtype': 'error', 'className': 'TypeError', 'description': "TypeError: Cannot read properties of null (reading 'outerHTML')\n    at <anonymous>:1:45\n    at <anonymous>:1:56", 'objectId': '-6892182916449098769.232.2'}}
+2026-10-02 14:55:42,683 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/148123 ayrıştırma 2.420 sn
+2026-10-02 14:55:43,957 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/213242 ayrıştırma 4.530 sn
+2026-10-02 14:55:44,192 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/358310 ayrıştırma 3.738 sn
+2026-10-02 14:55:44,722 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/242927 ayrıştırma 3.553 sn
+2026-10-02 14:55:45,100 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/7934 ayrıştırma 3.515 sn
+2026-10-02 14:55:45,262 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/305371 ayrıştırma 3.091 sn
+2026-10-02 14:55:45,385 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/5614 ayrıştırma 4.587 sn
+2026-10-02 14:55:45,477 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/446004 ayrıştırma 2.793 sn
+2026-10-02 14:55:46,029 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/323893 ayrıştırma 2.071 sn
+2026-10-02 14:55:46,588 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/234998 ayrıştırma 4.340 sn
+2026-10-02 14:55:46,786 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/209278 ayrıştırma 2.593 sn
+2026-10-02 14:55:48,029 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/385814 ayrıştırma 3.307 sn
+2026-10-02 14:55:48,143 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/235140 ayrıştırma 3.042 sn
+2026-10-02 14:55:49,048 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/379097 ayrıştırma 3.018 sn
+2026-10-02 14:55:49,267 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/425739 ayrıştırma 3.790 sn
+2026-10-02 14:55:49,355 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/286928 ayrıştırma 3.969 sn
+2026-10-02 14:55:49,425 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/381277 ayrıştırma 2.836 sn
+2026-10-02 14:55:49,558 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/364248 ayrıştırma 2.771 sn
+2026-10-02 14:55:50,059 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/409966 ayrıştırma 4.796 sn
+2026-10-02 14:55:50,190 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/304177 ayrıştırma 2.046 sn
+2026-10-02 14:55:50,511 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/214377 ayrıştırma 2.481 sn
+2026-10-02 14:55:52,618 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/16392 ayrıştırma 3.193 sn
+2026-10-02 14:55:52,762 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/294215 ayrıştırma 3.713 sn
+2026-10-02 14:55:53,098 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/357931 ayrıştırma 3.038 sn
+2026-10-02 14:55:53,230 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/362095 ayrıştırma 3.040 sn
+2026-10-02 14:55:53,243 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/421467 ayrıştırma 2.731 sn
+2026-10-02 14:55:53,409 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/194381 ayrıştırma 4.141 sn
+2026-10-02 14:55:53,805 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/319396 ayrıştırma 4.450 sn
+2026-10-02 14:55:53,933 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/371859 ayrıştırma 4.374 sn
+2026-10-02 14:55:55,069 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/322368 ayrıştırma 1.970 sn
+2026-10-02 14:55:55,950 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/885 ayrıştırma 2.718 sn
+2026-10-02 14:55:55,971 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/290819 ayrıştırma 2.727 sn
+2026-10-02 14:55:56,944 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/675 ayrıştırma 4.180 sn
+2026-10-02 14:55:57,347 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/122219 ayrıştırma 4.729 sn
+2026-10-02 14:55:57,740 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/216379 ayrıştırma 4.330 sn
+2026-10-02 14:55:58,145 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/161633 ayrıştırma 4.210 sn
+2026-10-02 14:55:58,624 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/340895 ayrıştırma 2.652 sn
+2026-10-02 14:55:58,710 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/585 ayrıştırma 3.640 sn
+2026-10-02 14:55:58,992 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/231099 ayrıştırma 5.186 sn
+2026-10-02 14:55:59,138 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/444273 ayrıştırma 3.187 sn
+2026-10-02 14:55:59,532 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/243615 ayrıştırma 2.184 sn
+2026-10-02 14:56:01,299 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/282955 ayrıştırma 3.559 sn
+2026-10-02 14:56:01,724 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/343672 ayrıştırma 4.780 sn
+2026-10-02 14:56:01,903 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/207790 ayrıştırma 2.740 sn
+2026-10-02 14:56:01,984 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/206072 ayrıştırma 3.274 sn
+2026-10-02 14:56:02,387 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/316620 ayrıştırma 4.242 sn
+2026-10-02 14:56:02,592 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/418412 ayrıştırma 3.060 sn
+2026-10-02 14:56:02,703 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/337334 ayrıştırma 3.709 sn
+2026-10-02 14:56:02,845 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/18785 ayrıştırma 4.221 sn
+2026-10-02 14:56:03,325 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/375096 ayrıştırma 2.025 sn
+2026-10-02 14:56:04,101 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/1780 ayrıştırma 2.117 sn
+2026-10-02 14:56:04,815 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/165670 ayrıştırma 2.911 sn
+2026-10-02 14:56:05,758 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/333335 ayrıştırma 4.033 sn
+2026-10-02 14:56:05,769 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/363942 ayrıştırma 3.175 sn
+2026-10-02 14:56:06,041 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/111034 ayrıştırma 3.653 sn
+2026-10-02 14:56:06,375 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/405520 ayrıştırma 3.530 sn
+2026-10-02 14:56:06,646 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/16655 ayrıştırma 1.823 sn
+2026-10-02 14:56:06,963 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/11283 ayrıştırma 2.861 sn
+2026-10-02 14:56:07,473 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/281430 ayrıştırma 4.770 sn
+2026-10-02 14:56:08,304 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/389995 ayrıştırma 2.535 sn
+2026-10-02 14:56:08,522 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/370324 ayrıştırma 2.481 sn
+2026-10-02 14:56:09,680 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/299440 ayrıştırma 3.922 sn
+2026-10-02 14:56:09,899 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/375530 ayrıştırma 2.935 sn
+2026-10-02 14:56:10,227 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/203381 ayrıştırma 3.852 sn
+2026-10-02 14:56:10,637 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/7230 ayrıştırma 3.990 sn
+2026-10-02 14:56:11,079 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/415513 ayrıştırma 2.775 sn
+2026-10-02 14:56:11,169 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/225656 ayrıştırma 3.695 sn
+2026-10-02 14:56:11,606 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/100768 ayrıştırma 1.925 sn
+2026-10-02 14:56:11,685 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/342343 ayrıştırma 3.163 sn
+2026-10-02 14:56:12,363 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/382141 ayrıştırma 2.464 sn
+2026-10-02 14:56:12,761 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/322356 ayrıştırma 2.533 sn
+2026-10-02 14:56:14,193 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/357149 ayrıştırma 3.555 sn
+2026-10-02 14:56:14,540 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/300578 ayrıştırma 3.370 sn
+2026-10-02 14:56:14,792 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/367446 ayrıştırma 3.712 sn
+2026-10-02 14:56:14,931 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/322608 ayrıştırma 3.243 sn
+2026-10-02 14:56:15,601 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/232532 ayrıştırma 2.840 sn
+2026-10-02 14:56:15,976 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/318770 ayrıştırma 12.623 sn
+2026-10-02 14:56:16,151 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/294614 ayrıştırma 4.545 sn
+2026-10-02 14:56:16,987 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/8471 ayrıştırma 2.447 sn
+2026-10-02 14:56:17,232 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/406972 ayrıştırma 2.440 sn
+2026-10-02 14:56:17,352 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/150438 ayrıştırma 2.421 sn
+2026-10-02 14:56:17,464 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/358541 ayrıştırma 3.270 sn
+2026-10-02 14:56:19,077 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/240140 ayrıştırma 6.714 sn
+2026-10-02 14:56:19,766 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/22236 ayrıştırma 3.614 sn
+2026-10-02 14:56:19,908 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/375451 ayrıştırma 4.307 sn
+2026-10-02 14:56:20,110 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/132342 ayrıştırma 4.132 sn
+2026-10-02 14:56:20,277 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/132981 ayrıştırma 2.810 sn
+2026-10-02 14:56:20,523 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/238108 ayrıştırma 3.535 sn
+2026-10-02 14:56:20,597 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/280552 ayrıştırma 3.363 sn
+2026-10-02 14:56:21,546 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/433938 ayrıştırma 2.469 sn
+2026-10-02 14:56:22,003 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/403845 ayrıştırma 2.094 sn
+2026-10-02 14:56:22,484 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/104706 ayrıştırma 2.717 sn
+2026-10-02 14:56:23,378 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/505 ayrıştırma 3.099 sn
+2026-10-02 14:56:23,811 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/305922 ayrıştırma 6.459 sn
+2026-10-02 14:56:23,993 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/226692 ayrıştırma 3.396 sn
+2026-10-02 14:56:24,536 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/379082 ayrıştırma 4.425 sn
+2026-10-02 14:56:24,960 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/323247 ayrıştırma 2.957 sn
+2026-10-02 14:56:25,208 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/135705 ayrıştırma 2.719 sn
+2026-10-02 14:56:25,479 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/187007 ayrıştırma 3.932 sn
+2026-10-02 14:56:25,588 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/343655 ayrıştırma 5.064 sn
+2026-10-02 14:56:26,027 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/277357 ayrıştırma 2.214 sn
+2026-10-02 14:56:26,674 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/232007 ayrıştırma 3.296 sn
+2026-10-02 14:56:27,986 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/401283 ayrıştırma 3.025 sn
+2026-10-02 14:56:28,343 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/176848 ayrıştırma 4.349 sn
+2026-10-02 14:56:28,522 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/5744 ayrıştırma 3.985 sn
+2026-10-02 14:56:29,082 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/372970 ayrıştırma 3.054 sn
+2026-10-02 14:56:29,329 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/329012 ayrıştırma 2.652 sn
+2026-10-02 14:56:29,470 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/2048 ayrıştırma 4.262 sn
+2026-10-02 14:56:29,529 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/182309 ayrıştırma 4.050 sn
+2026-10-02 14:56:30,106 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/224190 ayrıştırma 2.118 sn
+2026-10-02 14:56:30,806 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/415132 ayrıştırma 2.283 sn
+2026-10-02 14:56:31,166 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/287080 ayrıştırma 2.822 sn
+2026-10-02 14:56:32,206 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/298452 ayrıştırma 3.123 sn
+2026-10-02 14:56:32,646 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/281633 ayrıştırma 3.316 sn
+2026-10-02 14:56:33,162 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/431981 ayrıştırma 7.574 sn
+2026-10-02 14:56:33,445 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/370560 ayrıştırma 2.639 sn
+2026-10-02 14:56:33,724 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/328634 ayrıştırma 3.617 sn
+2026-10-02 14:56:33,906 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/742 ayrıştırma 2.737 sn
+2026-10-02 14:56:34,011 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/307288 ayrıştırma 4.481 sn
+2026-10-02 14:56:34,418 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/280052 ayrıştırma 4.910 sn
+2026-10-02 14:56:34,781 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/358796 ayrıştırma 2.575 sn
+2026-10-02 14:56:36,579 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/325618 ayrıştırma 3.133 sn
+2026-10-02 14:56:36,735 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/168801 ayrıştırma 4.088 sn
+2026-10-02 14:56:37,320 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/224929 ayrıştırma 3.308 sn
+2026-10-02 14:56:37,717 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/387338 ayrıştırma 4.554 sn
+2026-10-02 14:56:37,852 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/331665 ayrıştırma 3.946 sn
+2026-10-02 14:56:38,008 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/372969 ayrıştırma 4.283 sn
+2026-10-02 14:56:38,174 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/282601 ayrıştırma 3.392 sn
+2026-10-02 14:56:38,564 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/401176 ayrıştırma 4.145 sn
+2026-10-02 14:56:38,896 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/224264 ayrıştırma 2.316 sn
+2026-10-02 14:56:39,042 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/159499 ayrıştırma 2.304 sn
+2026-10-02 14:56:40,566 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/187227 ayrıştırma 3.246 sn
+2026-10-02 14:56:40,907 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/182091 ayrıştırma 3.189 sn
+2026-10-02 14:56:41,441 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/409953 ayrıştırma 3.266 sn
+2026-10-02 14:56:41,505 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/110683 ayrıştırma 2.609 sn
+2026-10-02 14:56:41,779 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/418415 ayrıştırma 3.926 sn
+2026-10-02 14:56:42,021 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/433798 ayrıştırma 3.455 sn
+2026-10-02 14:56:42,102 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/372967 ayrıştırma 3.060 sn
+2026-10-02 14:56:43,415 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/159202 ayrıştırma 2.849 sn
+2026-10-02 14:56:43,767 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/315791 ayrıştırma 2.261 sn
+2026-10-02 14:56:44,245 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/418677 ayrıştırma 6.237 sn
+2026-10-02 14:56:45,202 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/305912 ayrıştırma 3.761 sn
+2026-10-02 14:56:45,315 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/226473 ayrıştırma 3.213 sn
+2026-10-02 14:56:46,066 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/26598 ayrıştırma 4.285 sn
+2026-10-02 14:56:46,513 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/326161 ayrıştırma 5.606 sn
+2026-10-02 14:56:46,800 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/433951 ayrıştırma 4.779 sn
+2026-10-02 14:56:47,151 ERROR Thread-3 (worker) Restaurant fetch failed: https://tgoyemek.com/restoranlar/442269
+Traceback (most recent call last):
+  File "C:\MyData\TexGo\Scripts\tgo_restaurant_dumper_2.py", line 927, in worker
+    record = parse_restaurant_page(client, url)
+  File "C:\MyData\TexGo\Scripts\tgo_restaurant_dumper_2.py", line 268, in parse_restaurant_page
+    WebDriverWait(driver, 30, poll_frequency=0.2).until(
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        lambda d: source_ready(d.page_source, url))
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\selenium\webdriver\support\wait.py", line 112, in until
+    value = method(self._driver)
+  File "C:\MyData\TexGo\Scripts\tgo_restaurant_dumper_2.py", line 269, in <lambda>
+    lambda d: source_ready(d.page_source, url))
+                           ^^^^^^^^^^^^^
+  File "C:\MyData\TexGo\Scripts\tgo_restaurant_dumper_2.py", line 795, in page_source
+    return self.execute_script('return document.documentElement.outerHTML') or ''
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\MyData\TexGo\Scripts\tgo_restaurant_dumper_2.py", line 789, in execute_script
+    raise RuntimeError(str(result['exceptionDetails']))
+RuntimeError: {'exceptionId': 7, 'text': 'Uncaught', 'lineNumber': 0, 'columnNumber': 44, 'scriptId': '227', 'stackTrace': {'callFrames': [{'functionName': '', 'scriptId': '227', 'url': '', 'lineNumber': 0, 'columnNumber': 44}, {'functionName': '', 'scriptId': '227', 'url': '', 'lineNumber': 0, 'columnNumber': 55}]}, 'exception': {'type': 'object', 'subtype': 'error', 'className': 'TypeError', 'description': "TypeError: Cannot read properties of null (reading 'outerHTML')\n    at <anonymous>:1:45\n    at <anonymous>:1:56", 'objectId': '-6892182916449098769.312.2'}}
+2026-10-02 14:56:47,733 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/244709 ayrıştırma 3.965 sn
+2026-10-02 14:56:47,853 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/30702 ayrıştırma 4.437 sn
+2026-10-02 14:56:48,077 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/399353 ayrıştırma 2.761 sn
+2026-10-02 14:56:48,310 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/224993 ayrıştırma 4.064 sn
+2026-10-02 14:56:48,782 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/10131 ayrıştırma 3.576 sn
+2026-10-02 14:56:50,407 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/337410 ayrıştırma 3.605 sn
+2026-10-02 14:56:50,532 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/396990 ayrıştırma 4.018 sn
+2026-10-02 14:56:51,282 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/368622 ayrıştırma 4.129 sn
+2026-10-02 14:56:51,437 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/174842 ayrıştırma 2.648 sn
+2026-10-02 14:56:51,930 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/294190 ayrıştırma 4.075 sn
+2026-10-02 14:56:51,941 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/300443 ayrıştırma 3.631 sn
+2026-10-02 14:56:52,609 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/297505 ayrıştırma 4.875 sn
+2026-10-02 14:56:53,091 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/293110 ayrıştırma 5.013 sn
+2026-10-02 14:56:53,263 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/150440 ayrıştırma 2.730 sn
+2026-10-02 14:56:53,380 ERROR Thread-9 (worker) Restaurant fetch failed: https://tgoyemek.com/restoranlar/163216
+Traceback (most recent call last):
+  File "C:\MyData\TexGo\Scripts\tgo_restaurant_dumper_2.py", line 927, in worker
+    record = parse_restaurant_page(client, url)
+  File "C:\MyData\TexGo\Scripts\tgo_restaurant_dumper_2.py", line 268, in parse_restaurant_page
+    WebDriverWait(driver, 30, poll_frequency=0.2).until(
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        lambda d: source_ready(d.page_source, url))
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\selenium\webdriver\support\wait.py", line 112, in until
+    value = method(self._driver)
+  File "C:\MyData\TexGo\Scripts\tgo_restaurant_dumper_2.py", line 269, in <lambda>
+    lambda d: source_ready(d.page_source, url))
+                           ^^^^^^^^^^^^^
+  File "C:\MyData\TexGo\Scripts\tgo_restaurant_dumper_2.py", line 795, in page_source
+    return self.execute_script('return document.documentElement.outerHTML') or ''
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\MyData\TexGo\Scripts\tgo_restaurant_dumper_2.py", line 789, in execute_script
+    raise RuntimeError(str(result['exceptionDetails']))
+RuntimeError: {'exceptionId': 1, 'text': 'Uncaught', 'lineNumber': 0, 'columnNumber': 44, 'scriptId': '51', 'exception': {'type': 'object', 'subtype': 'error', 'className': 'TypeError', 'description': "TypeError: Cannot read properties of null (reading 'outerHTML')\n    at <anonymous>:1:45\n    at <anonymous>:1:56", 'objectId': '-4191913317984661143.142.2'}}
+2026-10-02 14:56:53,963 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/411522 ayrıştırma 2.681 sn
+2026-10-02 14:56:54,440 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/404315 ayrıştırma 4.033 sn
+2026-10-02 14:56:55,910 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/640 ayrıştırma 3.968 sn
+2026-10-02 14:56:56,610 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/327975 ayrıştırma 4.000 sn
+2026-10-02 14:56:56,797 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/367007 ayrıştırma 2.353 sn
+2026-10-02 14:56:57,083 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/410810 ayrıştırma 5.645 sn
+2026-10-02 14:56:57,093 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/294468 ayrıştırma 3.128 sn
+2026-10-02 14:56:57,316 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/114220 ayrıştırma 4.053 sn
+2026-10-02 14:56:57,611 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/318383 ayrıştırma 4.519 sn
+2026-10-02 14:56:57,980 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/16022 ayrıştırma 4.599 sn
+2026-10-02 14:56:58,373 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/411651 ayrıştırma 2.462 sn
+2026-10-02 14:57:00,498 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/429587 ayrıştırma 3.404 sn
+2026-10-02 14:57:00,591 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/289713 ayrıştırma 3.980 sn
+2026-10-02 14:57:00,730 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/379928 ayrıştırma 3.647 sn
+2026-10-02 14:57:01,062 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/426708 ayrıştırma 3.081 sn
+2026-10-02 14:57:01,338 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/2197 ayrıştırma 4.022 sn
+2026-10-02 14:57:01,357 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/383220 ayrıştırma 4.559 sn
+2026-10-02 14:56:59,573 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/333550 ayrıştırma 3.522 sn
+2026-10-02 14:56:59,754 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/372211 ayrıştırma 4.464 sn
+2026-10-02 14:57:00,506 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/337414 ayrıştırma 2.330 sn
+2026-10-02 14:57:00,702 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/415517 ayrıştırma 2.433 sn
+2026-10-02 14:57:02,335 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/355156 ayrıştırma 3.594 sn
+2026-10-02 14:57:02,519 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/414095 ayrıştırma 3.502 sn
+2026-10-02 14:57:02,598 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/421110 ayrıştırma 4.190 sn
+2026-10-02 14:57:02,953 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/384975 ayrıştırma 3.918 sn
+2026-10-02 14:57:03,134 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/123376 ayrıştırma 3.560 sn
+2026-10-02 14:57:03,328 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/206136 ayrıştırma 3.574 sn
+2026-10-02 14:57:03,537 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/355565 ayrıştırma 2.833 sn
+2026-10-02 14:57:03,791 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/281378 ayrıştırma 3.285 sn
+2026-10-02 14:57:04,679 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/230967 ayrıştırma 2.344 sn
+2026-10-02 14:57:04,874 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/428287 ayrıştırma 2.276 sn
+2026-10-02 14:57:06,448 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/111958 ayrıştırma 3.929 sn
+2026-10-02 14:57:06,509 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/400170 ayrıştırma 3.180 sn
+2026-10-02 14:57:06,843 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/214111 ayrıştırma 3.708 sn
+2026-10-02 14:57:07,405 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/324661 ayrıştırma 3.613 sn
+2026-10-02 14:57:07,741 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/409367 ayrıştırma 3.062 sn
+2026-10-02 14:57:08,074 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/152718 ayrıştırma 4.537 sn
+2026-10-02 14:57:08,401 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/238935 ayrıştırma 3.527 sn
+2026-10-02 14:57:08,534 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/10559 ayrıştırma 5.581 sn
+2026-10-02 14:57:09,523 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/433939 ayrıştırma 3.075 sn
+2026-10-02 14:57:09,863 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/244267 ayrıştırma 2.458 sn
+2026-10-02 14:57:11,192 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/245461 ayrıştırma 3.450 sn
+2026-10-02 14:57:11,537 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/299520 ayrıştırma 4.694 sn
+2026-10-02 14:57:11,735 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/418418 ayrıştırma 3.660 sn
+2026-10-02 14:57:12,301 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/386772 ayrıştırma 5.790 sn
+2026-10-02 14:57:12,386 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/326843 ayrıştırma 3.983 sn
+2026-10-02 14:57:12,785 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/368236 ayrıştırma 4.250 sn
+2026-10-02 14:57:12,872 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/238086 ayrıştırma 3.349 sn
+2026-10-02 14:57:13,173 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/208155 ayrıştırma 3.309 sn
+2026-10-02 14:57:13,451 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/435014 ayrıştırma 2.258 sn
+2026-10-02 14:57:14,124 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/151271 ayrıştırma 2.586 sn
+2026-10-02 14:57:14,993 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/328629 ayrıştırma 3.257 sn
+2026-10-02 14:57:15,816 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/168810 ayrıştırma 3.514 sn
+2026-10-02 14:57:15,929 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/403627 ayrıştırma 3.543 sn
+2026-10-02 14:57:16,372 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/329083 ayrıştırma 3.587 sn
+2026-10-02 14:57:16,593 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/305565 ayrıştırma 3.721 sn
+2026-10-02 14:57:16,790 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/397391 ayrıştırma 3.618 sn
+2026-10-02 14:57:16,978 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/304732 ayrıştırma 3.526 sn
+2026-10-02 14:57:17,225 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/422633 ayrıştırma 3.100 sn
+2026-10-02 14:57:17,556 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/313282 ayrıştırma 1.627 sn
+2026-10-02 14:57:18,475 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/415879 ayrıştırma 2.102 sn
+2026-10-02 14:57:18,620 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/388394 ayrıştırma 3.620 sn
+2026-10-02 14:57:19,893 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/343793 ayrıştırma 4.075 sn
+2026-10-02 14:57:20,555 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/341401 ayrıştırma 3.764 sn
+2026-10-02 14:57:20,693 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/169595 ayrıştırma 4.099 sn
+2026-10-02 14:57:20,852 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/330638 ayrıştırma 3.873 sn
+2026-10-02 14:57:21,256 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/427958 ayrıştırma 4.030 sn
+2026-10-02 14:57:21,485 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/319882 ayrıştırma 2.860 sn
+2026-10-02 14:57:21,499 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/7388 ayrıştırma 3.023 sn
+2026-10-02 14:57:21,879 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/241568 ayrıştırma 4.322 sn
+2026-10-02 14:57:22,145 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/326590 ayrıştırma 2.252 sn
+2026-10-02 14:57:23,975 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/325290 ayrıştırma 3.280 sn
+2026-10-02 14:57:24,155 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/402655 ayrıştırma 3.303 sn
+2026-10-02 14:57:24,480 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/425459 ayrıştırma 3.925 sn
+2026-10-02 14:57:24,600 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/182439 ayrıştırma 3.113 sn
+2026-10-02 14:57:24,890 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/376351 ayrıştırma 3.633 sn
+2026-10-02 14:57:24,964 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/415928 ayrıştırma 3.464 sn
+2026-10-02 14:57:25,039 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/243806 ayrıştırma 2.894 sn
+2026-10-02 14:57:25,577 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/205465 ayrıştırma 3.697 sn
+2026-10-02 14:57:25,669 ERROR Thread-3 (worker) Restaurant fetch failed: https://tgoyemek.com/restoranlar/403377
+Traceback (most recent call last):
+  File "C:\MyData\TexGo\Scripts\tgo_restaurant_dumper_2.py", line 927, in worker
+    record = parse_restaurant_page(client, url)
+  File "C:\MyData\TexGo\Scripts\tgo_restaurant_dumper_2.py", line 268, in parse_restaurant_page
+    WebDriverWait(driver, 30, poll_frequency=0.2).until(
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        lambda d: source_ready(d.page_source, url))
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\selenium\webdriver\support\wait.py", line 112, in until
+    value = method(self._driver)
+  File "C:\MyData\TexGo\Scripts\tgo_restaurant_dumper_2.py", line 269, in <lambda>
+    lambda d: source_ready(d.page_source, url))
+                           ^^^^^^^^^^^^^
+  File "C:\MyData\TexGo\Scripts\tgo_restaurant_dumper_2.py", line 795, in page_source
+    return self.execute_script('return document.documentElement.outerHTML') or ''
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\MyData\TexGo\Scripts\tgo_restaurant_dumper_2.py", line 789, in execute_script
+    raise RuntimeError(str(result['exceptionDetails']))
+RuntimeError: {'exceptionId': 8, 'text': 'Uncaught', 'lineNumber': 0, 'columnNumber': 44, 'scriptId': '227', 'stackTrace': {'callFrames': [{'functionName': '', 'scriptId': '227', 'url': '', 'lineNumber': 0, 'columnNumber': 44}, {'functionName': '', 'scriptId': '227', 'url': '', 'lineNumber': 0, 'columnNumber': 55}]}, 'exception': {'type': 'object', 'subtype': 'error', 'className': 'TypeError', 'description': "TypeError: Cannot read properties of null (reading 'outerHTML')\n    at <anonymous>:1:45\n    at <anonymous>:1:56", 'objectId': '-6892182916449098769.364.2'}}
+2026-10-02 14:57:26,088 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/412712 ayrıştırma 2.113 sn
+2026-10-02 14:57:26,349 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/20847 ayrıştırma 2.193 sn
+2026-10-02 14:57:28,737 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/195983 ayrıştırma 4.137 sn
+2026-10-02 14:57:29,047 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/419253 ayrıştırma 4.156 sn
+2026-10-02 14:57:29,150 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/419714 ayrıştırma 4.186 sn
+2026-10-02 14:57:29,369 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/320503 ayrıştırma 4.329 sn
+2026-10-02 14:57:29,514 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/313879 ayrıştırma 3.937 sn
+2026-10-02 14:57:29,631 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/342957 ayrıştırma 3.542 sn
+2026-10-02 14:57:29,944 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/143825 ayrıştırma 3.594 sn
+2026-10-02 14:57:30,051 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/431505 ayrıştırma 4.378 sn
+2026-10-02 14:57:30,639 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/9618 ayrıştırma 1.901 sn
+2026-10-02 14:57:30,957 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/101402 ayrıştırma 1.910 sn
+2026-10-02 14:57:33,099 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/390578 ayrıştırma 3.730 sn
+2026-10-02 14:57:33,470 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/375339 ayrıştırma 3.526 sn
+2026-10-02 14:57:33,720 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/395810 ayrıştırma 4.205 sn
+2026-10-02 14:57:33,745 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/325469 ayrıştırma 4.594 sn
+2026-10-02 14:57:34,036 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/429816 ayrıştırma 3.396 sn
+2026-10-02 14:57:34,495 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/299444 ayrıştırma 4.864 sn
+2026-10-02 14:57:34,656 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/143827 ayrıştırma 4.604 sn
+2026-10-02 14:57:34,972 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/299273 ayrıştırma 3.995 sn
+2026-10-02 14:57:35,362 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/278832 ayrıştırma 2.262 sn
+2026-10-02 14:57:35,752 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/315861 ayrıştırma 2.281 sn
+2026-10-02 14:57:37,326 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/432486 ayrıştırma 3.290 sn
+2026-10-02 14:57:37,549 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/244519 ayrıştırma 3.803 sn
+2026-10-02 14:57:37,862 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/4107 ayrıştırma 4.142 sn
+2026-10-02 14:57:38,296 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/12409 ayrıştırma 3.640 sn
+2026-10-02 14:57:38,497 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/168802 ayrıştırma 4.002 sn
+2026-10-02 14:57:38,581 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/109646 ayrıştırma 3.218 sn
+2026-10-02 14:57:38,752 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/299590 ayrıştırma 3.779 sn
+2026-10-02 14:57:39,046 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/212297 ayrıştırma 3.292 sn
+2026-10-02 14:57:39,809 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/131591 ayrıştırma 2.482 sn
+2026-10-02 14:57:39,984 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/294486 ayrıştırma 2.433 sn
+2026-10-02 14:57:41,743 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/115056 ayrıştırma 3.880 sn
+2026-10-02 14:57:41,920 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/358037 ayrıştırma 3.624 sn
+2026-10-02 14:57:42,256 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/107528 ayrıştırma 3.758 sn
+2026-10-02 14:57:42,523 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/291364 ayrıştırma 3.771 sn
+2026-10-02 14:57:42,685 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/372219 ayrıştırma 3.639 sn
+2026-10-02 14:57:42,754 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/100479 ayrıştırma 4.173 sn
+2026-10-02 14:57:43,207 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/11563 ayrıştırma 3.223 sn
+2026-10-02 14:57:43,293 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/241565 ayrıştırma 3.483 sn
+2026-10-02 14:57:43,776 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/278898 ayrıştırma 2.033 sn
+2026-10-02 14:57:44,606 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/362099 ayrıştırma 2.350 sn
+2026-10-02 14:57:44,891 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/421444 ayrıştırma 2.970 sn
+2026-10-02 14:57:45,814 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/113970 ayrıştırma 3.129 sn
+2026-10-02 14:57:46,407 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/329005 ayrıştırma 3.883 sn
+2026-10-02 14:57:46,968 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/284399 ayrıştırma 4.213 sn
+2026-10-02 14:57:47,030 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/27921 ayrıştırma 3.823 sn
+2026-10-02 14:57:47,497 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/395893 ayrıştırma 4.203 sn
+2026-10-02 14:57:47,610 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/155823 ayrıştırma 2.715 sn
+2026-10-02 14:57:47,721 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/420606 ayrıştırma 3.944 sn
+2026-10-02 14:57:47,874 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/399631 ayrıştırma 3.267 sn
+2026-10-02 14:57:48,224 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/4725 ayrıştırma 2.401 sn
+2026-10-02 14:57:50,005 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/367442 ayrıştırma 2.974 sn
+2026-10-02 14:57:50,882 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/224510 ayrıştırma 2.658 sn
+2026-10-02 14:57:50,956 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/434701 ayrıştırma 3.235 sn
+2026-10-02 14:57:51,271 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/438644 ayrıştırma 4.303 sn
+2026-10-02 14:57:51,468 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/387707 ayrıştırma 3.594 sn
+2026-10-02 14:57:51,695 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/239486 ayrıştırma 5.288 sn
+2026-10-02 14:57:51,782 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/734 ayrıştırma 4.171 sn
+2026-10-02 14:57:51,870 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/221714 ayrıştırma 4.369 sn
+2026-10-02 14:57:52,336 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/436421 ayrıştırma 2.331 sn
+2026-10-02 14:57:53,155 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/187618 ayrıştırma 1.884 sn
+2026-10-02 14:57:53,995 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/421518 ayrıştırma 3.113 sn
+2026-10-02 14:57:54,670 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/294302 ayrıştırma 3.714 sn
+2026-10-02 14:57:55,729 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/474273 ayrıştırma 3.948 sn
+2026-10-02 14:57:55,828 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/190955 ayrıştırma 4.360 sn
+2026-10-02 14:57:56,107 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/33146 ayrıştırma 3.771 sn
+2026-10-02 14:57:56,376 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/388558 ayrıştırma 4.505 sn
+2026-10-02 14:57:56,476 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/139940 ayrıştırma 3.320 sn
+2026-10-02 14:57:56,558 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/156563 ayrıştırma 2.562 sn
+2026-10-02 14:57:57,077 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/428617 ayrıştırma 5.381 sn
+2026-10-02 14:57:57,434 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/323939 ayrıştırma 2.763 sn
+2026-10-02 14:57:58,987 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/401797 ayrıştırma 3.257 sn
+2026-10-02 14:57:59,669 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/211822 ayrıştırma 3.097 sn
+2026-10-02 14:57:59,824 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/296278 ayrıştırma 3.447 sn
+2026-10-02 14:57:59,915 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/279221 ayrıştırma 4.087 sn
+2026-10-02 14:57:59,985 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/278998 ayrıştırma 2.908 sn
+2026-10-02 14:58:00,306 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/152716 ayrıştırma 2.871 sn
+2026-10-02 14:58:00,494 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/432907 ayrıştırma 4.387 sn
+2026-10-02 14:58:01,187 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/294301 ayrıştırma 4.710 sn
+2026-10-02 14:58:01,809 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/2372 ayrıştırma 2.139 sn
+2026-10-02 14:58:01,884 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/323889 ayrıştırma 2.897 sn
+2026-10-02 14:58:03,418 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/32434 ayrıştırma 3.503 sn
+2026-10-02 14:58:03,740 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/324695 ayrıştırma 3.915 sn
+2026-10-02 14:58:04,195 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/749 ayrıştırma 4.209 sn
+2026-10-02 14:58:04,571 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/241631 ayrıştırma 4.265 sn
+2026-10-02 14:58:04,690 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/324698 ayrıştırma 4.195 sn
+2026-10-02 14:58:04,815 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/213354 ayrıştırma 3.627 sn
+2026-10-02 14:58:05,094 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/278642 ayrıştırma 3.209 sn
+2026-10-02 14:58:05,275 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/178108 ayrıştırma 3.466 sn
+2026-10-02 14:58:05,569 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/426310 ayrıştırma 1.829 sn
+2026-10-02 14:58:05,800 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/242529 ayrıştırma 2.382 sn
+2026-10-02 14:58:07,835 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/313923 ayrıştırma 3.262 sn
+2026-10-02 14:58:07,926 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/235722 ayrıştırma 3.730 sn
+2026-10-02 14:58:08,149 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/242370 ayrıştırma 3.459 sn
+2026-10-02 14:58:08,500 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/15390 ayrıştırma 3.225 sn
+2026-10-02 14:58:08,874 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/430284 ayrıştırma 3.073 sn
+2026-10-02 14:58:09,114 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/218511 ayrıştırma 3.544 sn
+2026-10-02 14:58:10,027 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/732 ayrıştırma 4.932 sn
+2026-10-02 14:58:10,413 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/227354 ayrıştırma 5.598 sn
+2026-10-02 14:58:10,612 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/115422 ayrıştırma 2.463 sn
+2026-10-02 14:58:11,034 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/430161 ayrıştırma 2.534 sn
+2026-10-02 14:58:11,226 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/139420 ayrıştırma 3.299 sn
+2026-10-02 14:58:11,893 ERROR Thread-3 (worker) Restaurant fetch failed: https://tgoyemek.com/restoranlar/111599
+Traceback (most recent call last):
+  File "C:\MyData\TexGo\Scripts\tgo_restaurant_dumper_2.py", line 927, in worker
+    record = parse_restaurant_page(client, url)
+  File "C:\MyData\TexGo\Scripts\tgo_restaurant_dumper_2.py", line 268, in parse_restaurant_page
+    WebDriverWait(driver, 30, poll_frequency=0.2).until(
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        lambda d: source_ready(d.page_source, url))
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\selenium\webdriver\support\wait.py", line 112, in until
+    value = method(self._driver)
+  File "C:\MyData\TexGo\Scripts\tgo_restaurant_dumper_2.py", line 269, in <lambda>
+    lambda d: source_ready(d.page_source, url))
+                           ^^^^^^^^^^^^^
+  File "C:\MyData\TexGo\Scripts\tgo_restaurant_dumper_2.py", line 795, in page_source
+    return self.execute_script('return document.documentElement.outerHTML') or ''
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\MyData\TexGo\Scripts\tgo_restaurant_dumper_2.py", line 789, in execute_script
+    raise RuntimeError(str(result['exceptionDetails']))
+RuntimeError: {'exceptionId': 9, 'text': 'Uncaught', 'lineNumber': 0, 'columnNumber': 44, 'scriptId': '227', 'stackTrace': {'callFrames': [{'functionName': '', 'scriptId': '227', 'url': '', 'lineNumber': 0, 'columnNumber': 44}, {'functionName': '', 'scriptId': '227', 'url': '', 'lineNumber': 0, 'columnNumber': 55}]}, 'exception': {'type': 'object', 'subtype': 'error', 'className': 'TypeError', 'description': "TypeError: Cannot read properties of null (reading 'outerHTML')\n    at <anonymous>:1:45\n    at <anonymous>:1:56", 'objectId': '-6892182916449098769.416.2'}}
+2026-10-02 14:58:12,371 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/387 ayrıştırma 4.536 sn
+2026-10-02 14:58:13,063 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/7948 ayrıştırma 4.188 sn
+2026-10-02 14:58:14,122 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/408972 ayrıştırma 5.007 sn
+2026-10-02 14:58:14,439 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/160674 ayrıştırma 4.025 sn
+2026-10-02 14:58:14,786 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/168838 ayrıştırma 3.751 sn
+2026-10-02 14:58:15,036 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/213947 ayrıştırma 4.423 sn
+2026-10-02 14:58:15,241 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/162769 ayrıştırma 2.178 sn
+2026-10-02 14:58:15,437 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/289 ayrıştırma 3.066 sn
+2026-10-02 14:58:15,617 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/304952 ayrıştırma 4.387 sn
+2026-10-02 14:58:18,064 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/16937 ayrıştırma 3.942 sn
+2026-10-02 14:58:18,227 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/26197 ayrıştırma 6.316 sn
+2026-10-02 14:58:18,617 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/132740 ayrıştırma 3.179 sn
+2026-10-02 14:58:18,740 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/429228 ayrıştırma 3.499 sn
+2026-10-02 14:58:18,825 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/244392 ayrıştırma 4.385 sn
+2026-10-02 14:58:19,050 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/244786 ayrıştırma 4.013 sn
+2026-10-02 14:58:19,199 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/304879 ayrıştırma 4.412 sn
+2026-10-02 14:58:19,357 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/111239 ayrıştırma 3.740 sn
+2026-10-02 14:58:20,289 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/127692 ayrıştırma 2.225 sn
+2026-10-02 14:58:20,472 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/387266 ayrıştırma 2.245 sn
+2026-10-02 14:58:22,104 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/307550 ayrıştırma 3.487 sn
+2026-10-02 14:58:23,172 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/358683 ayrıştırma 4.121 sn
+2026-10-02 14:58:23,480 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/386922 ayrıştırma 4.739 sn
+2026-10-02 14:58:23,746 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/183202 ayrıştırma 4.547 sn
+2026-10-02 14:58:23,829 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/342664 ayrıştırma 3.356 sn
+2026-10-02 14:58:24,181 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/358630 ayrıştırma 5.356 sn
+2026-10-02 14:58:24,350 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/358804 ayrıştırma 4.992 sn
+2026-10-02 14:58:24,448 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/433515 ayrıştırma 4.158 sn
+2026-10-02 14:58:24,766 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/367951 ayrıştırma 2.662 sn
+2026-10-02 14:58:25,801 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/204040 ayrıştırma 2.629 sn
+2026-10-02 14:58:26,345 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/385580 ayrıştırma 2.599 sn
+2026-10-02 14:58:27,498 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/305372 ayrıştırma 3.669 sn
+2026-10-02 14:58:27,911 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/17127 ayrıştırma 4.431 sn
+2026-10-02 14:58:28,133 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/165674 ayrıştırma 3.685 sn
+2026-10-02 14:58:28,228 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/335344 ayrıştırma 3.878 sn
+2026-10-02 14:58:28,763 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/127689 ayrıştırma 4.582 sn
+2026-10-02 14:58:29,075 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/176076 ayrıştırma 2.728 sn
+2026-10-02 14:58:29,829 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/411788 ayrıştırma 5.063 sn
+2026-10-02 14:58:30,297 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/8359 ayrıştırma 2.385 sn
+2026-10-02 14:58:30,426 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/9431 ayrıştırma 2.913 sn
+2026-10-02 14:58:31,537 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/218650 ayrıştırma 3.403 sn
+2026-10-02 14:58:32,092 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/236122 ayrıştırma 3.863 sn
+2026-10-02 14:58:32,585 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/27147 ayrıştırma 6.783 sn
+2026-10-02 14:58:33,350 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/390571 ayrıştırma 3.518 sn
+2026-10-02 14:58:33,493 ERROR Thread-10 (worker) Restaurant fetch failed: https://tgoyemek.com/restoranlar/392334
+Traceback (most recent call last):
+  File "C:\MyData\TexGo\Scripts\tgo_restaurant_dumper_2.py", line 927, in worker
+    record = parse_restaurant_page(client, url)
+  File "C:\MyData\TexGo\Scripts\tgo_restaurant_dumper_2.py", line 268, in parse_restaurant_page
+    WebDriverWait(driver, 30, poll_frequency=0.2).until(
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        lambda d: source_ready(d.page_source, url))
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\selenium\webdriver\support\wait.py", line 112, in until
+    value = method(self._driver)
+  File "C:\MyData\TexGo\Scripts\tgo_restaurant_dumper_2.py", line 269, in <lambda>
+    lambda d: source_ready(d.page_source, url))
+                           ^^^^^^^^^^^^^
+  File "C:\MyData\TexGo\Scripts\tgo_restaurant_dumper_2.py", line 795, in page_source
+    return self.execute_script('return document.documentElement.outerHTML') or ''
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\MyData\TexGo\Scripts\tgo_restaurant_dumper_2.py", line 789, in execute_script
+    raise RuntimeError(str(result['exceptionDetails']))
+RuntimeError: {'exceptionId': 1, 'text': 'Uncaught', 'lineNumber': 0, 'columnNumber': 44, 'scriptId': '37', 'exception': {'type': 'object', 'subtype': 'error', 'className': 'TypeError', 'description': "TypeError: Cannot read properties of null (reading 'outerHTML')\n    at <anonymous>:1:45\n    at <anonymous>:1:56", 'objectId': '-821712439186966096.210.2'}}
+2026-10-02 14:58:33,804 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/391857 ayrıştırma 4.728 sn
+2026-10-02 14:58:33,968 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/1515 ayrıştırma 5.204 sn
+2026-10-02 14:58:34,139 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/4316 ayrıştırma 3.841 sn
+2026-10-02 14:58:34,669 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/4617 ayrıştırma 3.127 sn
+2026-10-02 14:58:34,802 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/391893 ayrıştırma 4.376 sn
+2026-10-02 14:58:35,117 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/434794 ayrıştırma 2.532 sn
+2026-10-02 14:58:37,516 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/7656 ayrıştırma 4.165 sn
+2026-10-02 14:58:38,014 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/332927 ayrıştırma 4.045 sn
+2026-10-02 14:58:38,083 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/152685 ayrıştırma 2.965 sn
+2026-10-02 14:58:38,283 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/7727 ayrıştırma 3.479 sn
+2026-10-02 14:58:38,422 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/33965 ayrıştırma 3.753 sn
+2026-10-02 14:58:38,796 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/162367 ayrıştırma 4.656 sn
+2026-10-02 14:58:39,078 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/440885 ayrıştırma 5.273 sn
+2026-10-02 14:58:39,765 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/441306 ayrıştırma 2.248 sn
+2026-10-02 14:58:39,920 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/9468 ayrıştırma 1.837 sn
+2026-10-02 14:58:40,267 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/209592 ayrıştırma 6.771 sn
+2026-10-02 14:58:41,940 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/339378 ayrıştırma 3.925 sn
+2026-10-02 14:58:42,469 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/177875 ayrıştırma 3.672 sn
+2026-10-02 14:58:42,944 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/19896 ayrıştırma 4.520 sn
+2026-10-02 14:58:43,180 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/2926 ayrıştırma 4.102 sn
+2026-10-02 14:58:43,300 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/461027 ayrıştırma 3.032 sn
+2026-10-02 14:58:43,690 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/379778 ayrıştırma 5.407 sn
+2026-10-02 14:58:44,057 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/22542 ayrıştırma 4.137 sn
+2026-10-02 14:58:44,166 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/337484 ayrıştırma 4.401 sn
+2026-10-02 14:58:44,455 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/174737 ayrıştırma 2.511 sn
+2026-10-02 14:58:44,836 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/1562 ayrıştırma 2.366 sn
+2026-10-02 14:58:45,869 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/427624 ayrıştırma 2.924 sn
+2026-10-02 14:58:47,091 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/420134 ayrıştırma 3.401 sn
+2026-10-02 14:58:47,474 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/281379 ayrıştırma 4.173 sn
+2026-10-02 14:58:47,839 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/379089 ayrıştırma 3.673 sn
+2026-10-02 14:58:47,999 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/286398 ayrıştırma 3.941 sn
+2026-10-02 14:58:48,130 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/430356 ayrıştırma 4.950 sn
+2026-10-02 14:58:48,250 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/290384 ayrıştırma 3.795 sn
+2026-10-02 14:58:48,422 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/430144 ayrıştırma 3.582 sn
+2026-10-02 14:58:49,303 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/224158 ayrıştırma 2.212 sn
+2026-10-02 14:58:49,916 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/126765 ayrıştırma 4.046 sn
+2026-10-02 14:58:52,014 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/418408 ayrıştırma 4.173 sn
+2026-10-02 14:58:52,093 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/357196 ayrıştırma 4.619 sn
+2026-10-02 14:58:52,198 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/156416 ayrıştırma 4.199 sn
+2026-10-02 14:58:52,797 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/391892 ayrıştırma 4.667 sn
+2026-10-02 14:58:53,130 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/326167 ayrıştırma 3.214 sn
+2026-10-02 14:58:53,628 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/163676 ayrıştırma 4.325 sn
+2026-10-02 14:58:54,464 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/419449 ayrıştırma 6.214 sn
+2026-10-02 14:58:54,858 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/359555 ayrıştırma 6.435 sn
+2026-10-02 14:58:54,966 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/399639 ayrıştırma 2.933 sn
+2026-10-02 14:58:55,630 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/356907 ayrıştırma 2.499 sn
+2026-10-02 14:58:55,977 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/433614 ayrıştırma 3.778 sn
+2026-10-02 14:58:58,082 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/25188 ayrıştırma 5.284 sn
+2026-10-02 14:58:58,861 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/391895 ayrıştırma 5.232 sn
+2026-10-02 14:58:59,021 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/185833 ayrıştırma 4.163 sn
+2026-10-02 14:58:59,149 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/105123 ayrıştırma 4.685 sn
+2026-10-02 14:58:59,343 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/433932 ayrıştırma 3.362 sn
+2026-10-02 14:58:59,736 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/424786 ayrıştırma 7.642 sn
+2026-10-02 14:58:59,841 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/16836 ayrıştırma 4.875 sn
+2026-10-02 14:59:00,264 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/381106 ayrıştırma 4.633 sn
+2026-10-02 14:59:01,105 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/285647 ayrıştırma 3.023 sn
+2026-10-02 14:59:02,900 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/417206 ayrıştırma 4.036 sn
+2026-10-02 14:59:03,235 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/525 ayrıştırma 3.892 sn
+2026-10-02 14:59:03,972 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/355410 ayrıştırma 4.130 sn
+2026-10-02 14:59:03,983 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/414986 ayrıştırma 4.247 sn
+2026-10-02 14:59:04,052 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/426315 ayrıştırma 2.945 sn
+2026-10-02 14:59:04,375 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/3088 ayrıştırma 4.111 sn
+2026-10-02 14:59:04,797 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/21325 ayrıştırma 5.647 sn
+2026-10-02 14:59:05,594 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/329204 ayrıştırma 2.692 sn
+2026-10-02 14:59:05,858 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/291088 ayrıştırma 2.623 sn
+2026-10-02 14:59:06,452 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/360641 ayrıştırma 2.398 sn
+2026-10-02 14:59:06,873 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/443047 ayrıştırma 2.889 sn
+2026-10-02 14:59:07,211 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/292720 ayrıştırma 3.238 sn
+2026-10-02 14:59:08,364 ERROR Thread-3 (worker) Restaurant fetch failed: https://tgoyemek.com/restoranlar/418469
+Traceback (most recent call last):
+  File "C:\MyData\TexGo\Scripts\tgo_restaurant_dumper_2.py", line 927, in worker
+    record = parse_restaurant_page(client, url)
+  File "C:\MyData\TexGo\Scripts\tgo_restaurant_dumper_2.py", line 268, in parse_restaurant_page
+    WebDriverWait(driver, 30, poll_frequency=0.2).until(
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        lambda d: source_ready(d.page_source, url))
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\selenium\webdriver\support\wait.py", line 112, in until
+    value = method(self._driver)
+  File "C:\MyData\TexGo\Scripts\tgo_restaurant_dumper_2.py", line 269, in <lambda>
+    lambda d: source_ready(d.page_source, url))
+                           ^^^^^^^^^^^^^
+  File "C:\MyData\TexGo\Scripts\tgo_restaurant_dumper_2.py", line 795, in page_source
+    return self.execute_script('return document.documentElement.outerHTML') or ''
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\MyData\TexGo\Scripts\tgo_restaurant_dumper_2.py", line 789, in execute_script
+    raise RuntimeError(str(result['exceptionDetails']))
+RuntimeError: {'exceptionId': 10, 'text': 'Uncaught', 'lineNumber': 0, 'columnNumber': 44, 'scriptId': '227', 'stackTrace': {'callFrames': [{'functionName': '', 'scriptId': '227', 'url': '', 'lineNumber': 0, 'columnNumber': 44}, {'functionName': '', 'scriptId': '227', 'url': '', 'lineNumber': 0, 'columnNumber': 55}]}, 'exception': {'type': 'object', 'subtype': 'error', 'className': 'TypeError', 'description': "TypeError: Cannot read properties of null (reading 'outerHTML')\n    at <anonymous>:1:45\n    at <anonymous>:1:56", 'objectId': '-6892182916449098769.476.2'}}
+2026-10-02 14:59:08,556 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/232313 ayrıştırma 3.759 sn
+2026-10-02 14:59:09,609 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/123751 ayrıştırma 3.748 sn
+2026-10-02 14:59:09,938 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/6848 ayrıştırma 5.562 sn
+2026-10-02 14:59:10,227 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/30835 ayrıştırma 3.016 sn
+2026-10-02 14:59:10,538 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/238920 ayrıştırma 4.084 sn
+2026-10-02 14:59:10,555 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/397465 ayrıştırma 3.681 sn
+2026-10-02 14:59:11,175 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/292691 ayrıştırma 2.617 sn
+2026-10-02 14:59:12,094 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/337942 ayrıştırma 13.072 sn
+2026-10-02 14:59:14,368 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/240557 ayrıştırma 4.759 sn
+2026-10-02 14:59:14,517 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/341647 ayrıştırma 4.577 sn
+2026-10-02 14:59:15,034 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/388951 ayrıştırma 4.496 sn
+2026-10-02 14:59:15,248 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/27260 ayrıştırma 3.153 sn
+2026-10-02 14:59:15,417 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/157043 ayrıştırma 4.242 sn
+2026-10-02 14:59:15,551 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/150030 ayrıştırma 5.323 sn
+2026-10-02 14:59:16,031 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/14340 ayrıştırma 5.476 sn
+2026-10-02 14:59:16,765 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/373318 ayrıştırma 8.397 sn
+2026-10-02 14:59:17,298 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/365138 ayrıştırma 2.781 sn
+2026-10-02 14:59:17,536 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/178740 ayrıştırma 2.501 sn
+2026-10-02 14:59:19,574 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/388742 ayrıştırma 4.326 sn
+2026-10-02 14:59:19,783 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/180057 ayrıştırma 3.751 sn
+2026-10-02 14:59:20,437 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/13422 ayrıştırma 4.884 sn
+2026-10-02 14:59:20,592 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/317468 ayrıştırma 6.224 sn
+2026-10-02 14:59:21,038 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/310564 ayrıştırma 5.620 sn
+2026-10-02 14:59:21,327 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/377359 ayrıştırma 3.790 sn
+2026-10-02 14:59:21,494 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/407445 ayrıştırma 4.728 sn
+2026-10-02 14:59:21,794 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/375714 ayrıştırma 4.495 sn
+2026-10-02 14:59:22,822 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/412182 ayrıştırma 3.038 sn
+2026-10-02 14:59:23,158 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/202111 ayrıştırma 2.566 sn
+2026-10-02 14:59:23,273 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/369040 ayrıştırma 2.835 sn
+2026-10-02 14:59:23,783 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/129218 ayrıştırma 4.208 sn
+2026-10-02 14:59:26,272 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/446553 ayrıştırma 5.233 sn
+2026-10-02 14:59:26,384 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/324183 ayrıştırma 5.056 sn
+2026-10-02 14:59:26,515 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/220789 ayrıştırma 5.020 sn
+2026-10-02 14:59:26,724 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/2533 ayrıştırma 4.929 sn
+2026-10-02 14:59:27,143 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/368580 ayrıştırma 4.321 sn
+2026-10-02 14:59:27,477 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/355030 ayrıştırma 4.319 sn
+2026-10-02 14:59:27,503 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/295012 ayrıştırma 4.230 sn
+2026-10-02 14:59:27,736 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/367770 ayrıştırma 3.953 sn
+2026-10-02 14:59:30,552 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/6952 ayrıştırma 4.279 sn
+2026-10-02 14:59:31,098 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/333740 ayrıştırma 4.714 sn
+2026-10-02 14:59:31,188 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/360250 ayrıştırma 4.464 sn
+2026-10-02 14:59:31,529 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/212118 ayrıştırma 5.013 sn
+2026-10-02 14:59:31,670 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/323815 ayrıştırma 3.933 sn
+2026-10-02 14:59:31,832 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/233361 ayrıştırma 4.348 sn
+2026-10-02 14:59:32,025 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/448525 ayrıştırma 4.882 sn
+2026-10-02 14:59:32,401 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/392215 ayrıştırma 4.897 sn
+2026-10-02 14:59:32,884 ERROR Thread-3 (worker) Restaurant fetch failed: https://tgoyemek.com/restoranlar/362426
+Traceback (most recent call last):
+  File "C:\MyData\TexGo\Scripts\tgo_restaurant_dumper_2.py", line 927, in worker
+    record = parse_restaurant_page(client, url)
+  File "C:\MyData\TexGo\Scripts\tgo_restaurant_dumper_2.py", line 268, in parse_restaurant_page
+    WebDriverWait(driver, 30, poll_frequency=0.2).until(
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        lambda d: source_ready(d.page_source, url))
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\selenium\webdriver\support\wait.py", line 112, in until
+    value = method(self._driver)
+  File "C:\MyData\TexGo\Scripts\tgo_restaurant_dumper_2.py", line 269, in <lambda>
+    lambda d: source_ready(d.page_source, url))
+                           ^^^^^^^^^^^^^
+  File "C:\MyData\TexGo\Scripts\tgo_restaurant_dumper_2.py", line 795, in page_source
+    return self.execute_script('return document.documentElement.outerHTML') or ''
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\MyData\TexGo\Scripts\tgo_restaurant_dumper_2.py", line 789, in execute_script
+    raise RuntimeError(str(result['exceptionDetails']))
+RuntimeError: {'exceptionId': 16, 'text': 'Uncaught', 'lineNumber': 0, 'columnNumber': 44, 'scriptId': '227', 'stackTrace': {'callFrames': [{'functionName': '', 'scriptId': '227', 'url': '', 'lineNumber': 0, 'columnNumber': 44}, {'functionName': '', 'scriptId': '227', 'url': '', 'lineNumber': 0, 'columnNumber': 55}]}, 'exception': {'type': 'object', 'subtype': 'error', 'className': 'TypeError', 'description': "TypeError: Cannot read properties of null (reading 'outerHTML')\n    at <anonymous>:1:45\n    at <anonymous>:1:56", 'objectId': '-6892182916449098769.496.2'}}
+2026-10-02 14:59:33,370 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/413127 ayrıştırma 2.182 sn
+2026-10-02 14:59:33,620 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/412625 ayrıştırma 3.068 sn
+2026-10-02 14:59:35,929 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/225111 ayrıştırma 4.258 sn
+2026-10-02 14:59:36,117 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/399543 ayrıştırma 5.018 sn
+2026-10-02 14:59:36,272 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/312460 ayrıştırma 4.440 sn
+2026-10-02 14:59:36,846 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/438228 ayrıştırma 4.445 sn
+2026-10-02 14:59:37,121 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/399400 ayrıştırma 5.094 sn
+2026-10-02 14:59:37,592 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/195041 ayrıştırma 3.971 sn
+2026-10-02 14:59:37,888 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/225025 ayrıştırma 4.517 sn
+2026-10-02 14:59:38,511 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/4578 ayrıştırma 2.393 sn
+2026-10-02 14:59:39,185 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/367584 ayrıştırma 2.912 sn
+2026-10-02 14:59:39,511 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/382258 ayrıştırma 3.581 sn
+2026-10-02 14:59:39,597 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/416079 ayrıştırma 2.476 sn
+2026-10-02 14:59:41,630 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/364837 ayrıştırma 8.743 sn
+2026-10-02 14:59:42,207 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/336551 ayrıştırma 4.317 sn
+2026-10-02 14:59:42,553 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/359904 ayrıştırma 5.706 sn
+2026-10-02 14:59:42,880 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/364645 ayrıştırma 3.369 sn
+2026-10-02 14:59:43,287 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/358040 ayrıştırma 5.695 sn
+2026-10-02 14:59:43,303 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/446176 ayrıştırma 3.705 sn
+2026-10-02 14:59:43,574 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/329473 ayrıştırma 5.062 sn
+2026-10-02 14:59:43,589 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/374720 ayrıştırma 4.403 sn
+2026-10-02 14:59:44,481 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/339270 ayrıştırma 2.851 sn
+2026-10-02 14:59:46,172 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/343864 ayrıştırma 3.965 sn
+2026-10-02 14:59:46,711 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/291653 ayrıştırma 3.830 sn
+2026-10-02 14:59:46,832 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/329324 ayrıştırma 4.278 sn
+2026-10-02 14:59:47,484 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/447935 ayrıştırma 4.195 sn
+2026-10-02 14:59:47,780 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/382256 ayrıştırma 4.477 sn
+2026-10-02 14:59:48,321 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/412781 ayrıştırma 4.731 sn
+2026-10-02 14:59:48,563 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/468236 ayrıştırma 2.391 sn
+2026-10-02 14:59:48,954 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/403279 ayrıştırma 4.473 sn
+2026-10-02 14:59:49,102 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/380713 ayrıştırma 5.510 sn
+2026-10-02 14:59:49,822 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/373043 ayrıştırma 3.111 sn
+2026-10-02 14:59:51,701 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/193076 ayrıştırma 4.869 sn
+2026-10-02 14:59:52,549 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/313536 ayrıştırma 5.064 sn
+2026-10-02 14:59:52,822 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/222340 ayrıştırma 5.039 sn
+2026-10-02 14:59:53,023 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/376558 ayrıştırma 4.459 sn
+2026-10-02 14:59:53,196 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/366829 ayrıştırma 4.873 sn
+2026-10-02 14:59:53,278 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/340706 ayrıştırma 4.323 sn
+2026-10-02 14:59:53,521 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/385927 ayrıştırma 4.419 sn
+2026-10-02 14:59:53,749 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/202076 ayrıştırma 3.927 sn
+2026-10-02 14:59:54,095 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/383092 ayrıştırma 2.393 sn
+2026-10-02 14:59:54,541 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/421442 ayrıştırma 1.991 sn
+2026-10-02 14:59:57,435 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/170028 ayrıştırma 4.411 sn
+2026-10-02 14:59:57,575 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/210252 ayrıştırma 4.297 sn
+2026-10-02 14:59:57,743 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/367819 ayrıştırma 4.547 sn
+2026-10-02 14:59:57,962 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/373726 ayrıştırma 5.139 sn
+2026-10-02 14:59:58,100 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/168103 ayrıştırma 3.558 sn
+2026-10-02 14:59:58,268 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/167954 ayrıştırma 4.518 sn
+2026-10-02 14:59:58,280 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/310596 ayrıştırma 4.758 sn
+2026-10-02 14:59:58,413 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/300765 ayrıştırma 4.317 sn
+2026-10-02 14:59:58,704 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/382194 ayrıştırma 1.269 sn
+2026-10-02 14:59:59,244 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/168108 ayrıştırma 1.500 sn
+2026-10-02 15:00:02,087 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/30961 ayrıştırma 4.511 sn
+2026-10-02 15:00:02,245 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/302567 ayrıştırma 4.282 sn
+2026-10-02 15:00:02,416 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/317710 ayrıştırma 4.135 sn
+2026-10-02 15:00:02,545 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/324842 ayrıştırma 4.444 sn
+2026-10-02 15:00:02,634 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/181517 ayrıştırma 4.352 sn
+2026-10-02 15:00:02,770 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/178462 ayrıştırma 4.357 sn
+2026-10-02 15:00:02,973 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/180359 ayrıştırma 4.269 sn
+2026-10-02 15:00:03,202 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/178413 ayrıştırma 3.957 sn
+2026-10-02 15:00:04,466 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/302533 ayrıştırma 2.378 sn
+2026-10-02 15:00:04,522 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/123971 ayrıştırma 1.977 sn
+2026-10-02 15:00:06,644 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/241180 ayrıştırma 4.399 sn
+2026-10-02 15:00:06,928 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/279912 ayrıştırma 4.158 sn
+2026-10-02 15:00:06,986 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/327409 ayrıştırma 3.783 sn
+2026-10-02 15:00:07,155 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/278104 ayrıştırma 4.739 sn
+2026-10-02 15:00:07,164 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/354 ayrıştırma 4.190 sn
+2026-10-02 15:00:07,525 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/328851 ayrıştırma 3.059 sn
+2026-10-02 15:00:07,957 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/435325 ayrıştırma 3.435 sn
+2026-10-02 15:00:08,156 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/409830 ayrıştırma 5.522 sn
+2026-10-02 15:00:09,241 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/297426 ayrıştırma 2.596 sn
+2026-10-02 15:00:09,579 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/185076 ayrıştırma 2.415 sn
+2026-10-02 15:00:11,535 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/382173 ayrıştırma 4.010 sn
+2026-10-02 15:00:11,726 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/292451 ayrıştırma 4.570 sn
+2026-10-02 15:00:12,021 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/340815 ayrıştırma 5.035 sn
+2026-10-02 15:00:12,294 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/338 ayrıştırma 4.138 sn
+2026-10-02 15:00:12,691 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/295524 ayrıştırma 3.111 sn
+2026-10-02 15:00:12,903 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/184439 ayrıştırma 3.662 sn
+2026-10-02 15:00:13,154 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/296489 ayrıştırma 6.226 sn
+2026-10-02 15:00:13,643 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/378821 ayrıştırma 5.686 sn
+2026-10-02 15:00:14,045 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/157585 ayrıştırma 2.508 sn
+2026-10-02 15:00:14,620 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/302933 ayrıştırma 2.599 sn
+2026-10-02 15:00:16,744 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/184712 ayrıştırma 4.449 sn
+2026-10-02 15:00:16,858 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/331740 ayrıştırma 3.954 sn
+2026-10-02 15:00:17,248 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/357512 ayrıştırma 4.557 sn
+2026-10-02 15:00:17,376 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/1771 ayrıştırma 5.650 sn
+2026-10-02 15:00:17,499 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/296521 ayrıştırma 4.345 sn
+2026-10-02 15:00:17,838 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/294261 ayrıştırma 3.218 sn
+2026-10-02 15:00:17,945 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/302553 ayrıştırma 3.897 sn
+2026-10-02 15:00:18,188 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/302932 ayrıştırma 4.544 sn
+2026-10-02 15:00:19,174 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/377087 ayrıştırma 2.427 sn
+2026-10-02 15:00:19,407 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/340456 ayrıştırma 2.549 sn
+2026-10-02 15:00:21,770 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/168086 ayrıştırma 4.393 sn
+2026-10-02 15:00:21,879 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/329834 ayrıştırma 3.934 sn
+2026-10-02 15:00:21,968 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/431836 ayrıştırma 4.718 sn
+2026-10-02 15:00:22,211 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/302545 ayrıştırma 4.372 sn
+2026-10-02 15:00:22,323 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/279907 ayrıştırma 4.824 sn
+2026-10-02 15:00:22,616 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/355031 ayrıştırma 4.428 sn
+2026-10-02 15:00:22,836 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/320361 ayrıştırma 3.661 sn
+2026-10-02 15:00:23,115 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/401856 ayrıştırma 3.707 sn
+2026-10-02 15:00:23,918 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/303024 ayrıştırma 2.148 sn
+2026-10-02 15:00:24,291 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/328560 ayrıştırma 2.411 sn
+2026-10-02 15:00:26,488 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/368196 ayrıştırma 4.520 sn
+2026-10-02 15:00:26,744 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/180349 ayrıştırma 4.533 sn
+2026-10-02 15:00:27,039 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/325645 ayrıştırma 4.423 sn
+2026-10-02 15:00:27,420 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/286889 ayrıştırma 5.096 sn
+2026-10-02 15:00:27,641 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/241741 ayrıştırma 4.526 sn
+2026-10-02 15:00:27,808 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/362977 ayrıştırma 4.971 sn
+2026-10-02 15:00:28,116 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/188155 ayrıştırma 3.825 sn
+2026-10-02 15:00:28,315 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/207788 ayrıştırma 4.397 sn
+2026-10-02 15:00:28,916 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/418407 ayrıştırma 2.172 sn
+2026-10-02 15:00:29,102 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/322290 ayrıştırma 2.613 sn
+2026-10-02 15:00:29,449 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/306573 ayrıştırma 2.408 sn
+2026-10-02 15:00:31,407 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/302854 ayrıştırma 3.764 sn
+2026-10-02 15:00:32,157 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/178414 ayrıştırma 4.737 sn
+2026-10-02 15:00:32,435 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/178458 ayrıştırma 4.625 sn
+2026-10-02 15:00:32,715 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/225083 ayrıştırma 3.613 sn
+2026-10-02 15:00:32,956 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/312559 ayrıştırma 3.503 sn
+2026-10-02 15:00:32,982 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/280138 ayrıştırma 4.866 sn
+2026-10-02 15:00:33,265 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/327849 ayrıştırma 4.949 sn
+2026-10-02 15:00:33,289 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/338671 ayrıştırma 4.372 sn
+2026-10-02 15:00:34,007 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/329963 ayrıştırma 2.600 sn
+2026-10-02 15:00:36,010 ERROR Thread-3 (worker) Restaurant fetch failed: https://tgoyemek.com/restoranlar/414202
+Traceback (most recent call last):
+  File "C:\MyData\TexGo\Scripts\tgo_restaurant_dumper_2.py", line 927, in worker
+    record = parse_restaurant_page(client, url)
+  File "C:\MyData\TexGo\Scripts\tgo_restaurant_dumper_2.py", line 268, in parse_restaurant_page
+    WebDriverWait(driver, 30, poll_frequency=0.2).until(
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        lambda d: source_ready(d.page_source, url))
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\selenium\webdriver\support\wait.py", line 112, in until
+    value = method(self._driver)
+  File "C:\MyData\TexGo\Scripts\tgo_restaurant_dumper_2.py", line 269, in <lambda>
+    lambda d: source_ready(d.page_source, url))
+                           ^^^^^^^^^^^^^
+  File "C:\MyData\TexGo\Scripts\tgo_restaurant_dumper_2.py", line 795, in page_source
+    return self.execute_script('return document.documentElement.outerHTML') or ''
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\MyData\TexGo\Scripts\tgo_restaurant_dumper_2.py", line 789, in execute_script
+    raise RuntimeError(str(result['exceptionDetails']))
+RuntimeError: {'exceptionId': 30, 'text': 'Uncaught', 'lineNumber': 0, 'columnNumber': 44, 'scriptId': '227', 'stackTrace': {'callFrames': [{'functionName': '', 'scriptId': '227', 'url': '', 'lineNumber': 0, 'columnNumber': 44}, {'functionName': '', 'scriptId': '227', 'url': '', 'lineNumber': 0, 'columnNumber': 55}]}, 'exception': {'type': 'object', 'subtype': 'error', 'className': 'TypeError', 'description': "TypeError: Cannot read properties of null (reading 'outerHTML')\n    at <anonymous>:1:45\n    at <anonymous>:1:56", 'objectId': '-6892182916449098769.560.2'}}
+2026-10-02 15:00:36,649 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/171370 ayrıştırma 4.490 sn
+2026-10-02 15:00:36,925 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/320865 ayrıştırma 4.490 sn
+2026-10-02 15:00:37,260 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/224530 ayrıştırma 4.545 sn
+2026-10-02 15:00:37,377 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/119719 ayrıştırma 4.414 sn
+2026-10-02 15:00:37,563 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/285822 ayrıştırma 4.291 sn
+2026-10-02 15:00:37,768 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/340805 ayrıştırma 3.760 sn
+2026-10-02 15:00:37,895 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/429787 ayrıştırma 4.605 sn
+2026-10-02 15:00:38,737 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/303678 ayrıştırma 2.089 sn
+2026-10-02 15:00:39,177 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/302847 ayrıştırma 3.164 sn
+2026-10-02 15:00:39,195 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/8536 ayrıştırma 2.268 sn
+2026-10-02 15:00:41,978 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/156675 ayrıştırma 4.599 sn
+2026-10-02 15:00:42,201 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/297758 ayrıştırma 4.638 sn
+2026-10-02 15:00:42,513 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/360197 ayrıştırma 4.618 sn
+2026-10-02 15:00:42,654 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/303647 ayrıştırma 3.476 sn
+2026-10-02 15:00:42,804 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/322911 ayrıştırma 4.066 sn
+2026-10-02 15:00:42,897 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/431320 ayrıştırma 5.128 sn
+2026-10-02 15:00:43,046 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/340818 ayrıştırma 3.851 sn
+2026-10-02 15:00:43,674 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/374368 ayrıştırma 6.414 sn
+2026-10-02 15:00:44,175 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/286907 ayrıştırma 1.974 sn
+2026-10-02 15:00:44,516 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/296569 ayrıştırma 2.538 sn
+2026-10-02 15:00:46,960 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/306618 ayrıştırma 4.063 sn
+2026-10-02 15:00:47,410 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/423935 ayrıştırma 4.605 sn
+2026-10-02 15:00:47,681 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/372665 ayrıştırma 5.027 sn
+2026-10-02 15:00:47,957 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/302522 ayrıştırma 3.441 sn
+2026-10-02 15:00:48,086 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/371441 ayrıştırma 4.411 sn
+2026-10-02 15:00:48,378 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/337627 ayrıştırma 5.331 sn
+2026-10-02 15:00:48,577 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/410809 ayrıştırma 6.062 sn
+2026-10-02 15:00:49,713 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/164848 ayrıştırma 2.303 sn
+2026-10-02 15:00:49,910 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/103078 ayrıştırma 5.735 sn
+2026-10-02 15:00:50,125 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/422545 ayrıştırma 2.166 sn
+2026-10-02 15:00:52,083 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/176594 ayrıştırma 5.121 sn
+2026-10-02 15:00:52,407 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/187685 ayrıştırma 4.321 sn
+2026-10-02 15:00:52,846 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/388360 ayrıştırma 5.163 sn
+2026-10-02 15:00:53,349 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/298379 ayrıştırma 4.772 sn
+2026-10-02 15:00:53,566 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/202202 ayrıştırma 5.188 sn
+2026-10-02 15:00:53,922 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/339921 ayrıştırma 3.797 sn
+2026-10-02 15:00:54,035 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/299482 ayrıştırma 4.125 sn
+2026-10-02 15:00:54,129 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/388775 ayrıştırma 4.416 sn
+2026-10-02 15:00:54,261 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/278258 ayrıştırma 2.178 sn
+2026-10-02 15:00:54,413 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/207789 ayrıştırma 2.005 sn
+2026-10-02 15:00:57,628 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/172982 ayrıştırma 3.367 sn
+2026-10-02 15:00:57,808 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/302834 ayrıştırma 3.395 sn
+2026-10-02 15:00:57,979 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/373131 ayrıştırma 5.132 sn
+2026-10-02 15:00:58,026 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/235493 ayrıştırma 4.104 sn
+2026-10-02 15:00:58,145 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/329078 ayrıştırma 4.016 sn
+2026-10-02 15:00:58,232 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/305213 ayrıştırma 4.881 sn
+2026-10-02 15:00:58,329 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/156689 ayrıştırma 4.293 sn
+2026-10-02 15:00:58,493 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/422511 ayrıştırma 4.926 sn
+2026-10-02 15:00:58,929 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/207791 ayrıştırma 1.300 sn
+2026-10-02 15:00:59,794 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/218255 ayrıştırma 1.985 sn
+2026-10-02 15:01:02,464 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/244691 ayrıştırma 4.459 sn
+2026-10-02 15:01:02,672 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/433384 ayrıştırma 4.527 sn
+2026-10-02 15:01:02,684 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/234770 ayrıştırma 4.355 sn
+2026-10-02 15:01:02,815 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/420659 ayrıştırma 4.788 sn
+2026-10-02 15:01:03,014 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/377459 ayrıştırma 4.520 sn
+2026-10-02 15:01:03,227 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/381827 ayrıştırma 4.995 sn
+2026-10-02 15:01:03,414 ERROR Thread-3 (worker) Restaurant fetch failed: https://tgoyemek.com/restoranlar/449578
+Traceback (most recent call last):
+  File "C:\MyData\TexGo\Scripts\tgo_restaurant_dumper_2.py", line 927, in worker
+    record = parse_restaurant_page(client, url)
+  File "C:\MyData\TexGo\Scripts\tgo_restaurant_dumper_2.py", line 268, in parse_restaurant_page
+    WebDriverWait(driver, 30, poll_frequency=0.2).until(
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        lambda d: source_ready(d.page_source, url))
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\OmerW11\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\selenium\webdriver\support\wait.py", line 112, in until
+    value = method(self._driver)
+  File "C:\MyData\TexGo\Scripts\tgo_restaurant_dumper_2.py", line 269, in <lambda>
+    lambda d: source_ready(d.page_source, url))
+                           ^^^^^^^^^^^^^
+  File "C:\MyData\TexGo\Scripts\tgo_restaurant_dumper_2.py", line 795, in page_source
+    return self.execute_script('return document.documentElement.outerHTML') or ''
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\MyData\TexGo\Scripts\tgo_restaurant_dumper_2.py", line 789, in execute_script
+    raise RuntimeError(str(result['exceptionDetails']))
+RuntimeError: {'exceptionId': 38, 'text': 'Uncaught', 'lineNumber': 0, 'columnNumber': 44, 'scriptId': '227', 'stackTrace': {'callFrames': [{'functionName': '', 'scriptId': '227', 'url': '', 'lineNumber': 0, 'columnNumber': 44}, {'functionName': '', 'scriptId': '227', 'url': '', 'lineNumber': 0, 'columnNumber': 55}]}, 'exception': {'type': 'object', 'subtype': 'error', 'className': 'TypeError', 'description': "TypeError: Cannot read properties of null (reading 'outerHTML')\n    at <anonymous>:1:45\n    at <anonymous>:1:56", 'objectId': '-6892182916449098769.588.2'}}
+2026-10-02 15:01:03,432 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/233741 ayrıştırma 4.502 sn
+2026-10-02 15:01:03,611 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/322200 ayrıştırma 3.817 sn
+2026-10-02 15:01:05,208 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/327191 ayrıştırma 2.522 sn
+2026-10-02 15:01:05,458 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/285356 ayrıştırma 2.786 sn
+2026-10-02 15:01:07,307 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/159140 ayrıştırma 4.492 sn
+2026-10-02 15:01:07,693 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/178460 ayrıştırma 4.679 sn
+2026-10-02 15:01:07,791 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/303272 ayrıştırma 4.358 sn
+2026-10-02 15:01:07,968 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/322176 ayrıştırma 4.356 sn
+2026-10-02 15:01:08,136 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/340813 ayrıştırma 4.908 sn
+2026-10-02 15:01:08,528 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/178466 ayrıştırma 5.112 sn
+2026-10-02 15:01:08,961 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/291089 ayrıştırma 3.752 sn
+2026-10-02 15:01:09,039 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/319785 ayrıştırma 3.579 sn
+2026-10-02 15:01:09,770 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/233664 ayrıştırma 2.462 sn
+2026-10-02 15:01:10,137 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/308079 ayrıştırma 2.347 sn
+2026-10-02 15:01:12,136 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/282382 ayrıştırma 4.167 sn
+2026-10-02 15:01:12,454 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/282667 ayrıştırma 4.317 sn
+2026-10-02 15:01:12,716 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/216451 ayrıştırma 4.187 sn
+2026-10-02 15:01:12,840 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/214080 ayrıştırma 5.146 sn
+2026-10-02 15:01:13,374 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/178416 ayrıştırma 4.412 sn
+2026-10-02 15:01:13,670 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/354871 ayrıştırma 3.532 sn
+2026-10-02 15:01:14,205 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/428516 ayrıştırma 4.434 sn
+2026-10-02 15:01:14,666 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/363762 ayrıştırma 2.212 sn
+2026-10-02 15:01:15,038 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/298757 ayrıştırma 2.902 sn
+2026-10-02 15:01:15,217 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/119220 ayrıştırma 6.177 sn
+2026-10-02 15:01:15,728 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/340443 ayrıştırma 2.888 sn
+2026-10-02 15:01:16,501 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/152311 ayrıştırma 3.785 sn
+2026-10-02 15:01:18,689 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/371007 ayrıştırma 5.019 sn
+2026-10-02 15:01:18,785 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/207787 ayrıştırma 5.409 sn
+2026-10-02 15:01:18,930 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/371584 ayrıştırma 2.429 sn
+2026-10-02 15:01:19,104 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/9648 ayrıştırma 4.898 sn
+2026-10-02 15:01:19,191 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/393027 ayrıştırma 4.152 sn
+2026-10-02 15:01:19,344 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/283497 ayrıştırma 4.677 sn
+2026-10-02 15:01:19,440 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/241664 ayrıştırma 3.711 sn
+2026-10-02 15:01:19,634 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/303783 ayrıştırma 4.416 sn
+2026-10-02 15:01:22,987 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/340462 ayrıştırma 4.202 sn
+2026-10-02 15:01:23,115 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/335794 ayrıştırma 4.011 sn
+2026-10-02 15:01:23,285 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/317907 ayrıştırma 3.650 sn
+2026-10-02 15:01:23,454 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/373059 ayrıştırma 4.765 sn
+2026-10-02 15:01:23,583 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/278032 ayrıştırma 4.238 sn
+2026-10-02 15:01:23,725 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/368002 ayrıştırma 4.285 sn
+2026-10-02 15:01:23,905 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/337569 ayrıştırma 4.974 sn
+2026-10-02 15:01:24,100 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/6418 ayrıştırma 4.909 sn
+2026-10-02 15:01:25,137 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/323447 ayrıştırma 2.022 sn
+2026-10-02 15:01:25,613 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/179276 ayrıştırma 1.888 sn
+2026-10-02 15:01:26,933 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/104433 ayrıştırma 3.945 sn
+2026-10-02 15:01:27,641 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/343204 ayrıştırma 4.356 sn
+2026-10-02 15:01:27,996 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/407311 ayrıştırma 4.541 sn
+2026-10-02 15:01:28,483 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/287059 ayrıştırma 4.382 sn
+2026-10-02 15:01:28,732 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/4704 ayrıştırma 4.826 sn
+2026-10-02 15:01:29,573 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/434055 ayrıştırma 2.637 sn
+2026-10-02 15:01:29,771 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/21227 ayrıştırma 6.189 sn
+2026-10-02 15:01:29,872 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/379037 ayrıştırma 2.222 sn
+2026-10-02 15:01:30,084 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/146928 ayrıştırma 4.943 sn
+2026-10-02 15:01:30,174 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/16225 ayrıştırma 4.560 sn
+2026-10-02 15:01:32,606 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/408609 ayrıştırma 4.610 sn
+2026-10-02 15:01:33,367 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/318586 ayrıştırma 4.883 sn
+2026-10-02 15:01:33,978 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/366693 ayrıştırma 3.804 sn
+2026-10-02 15:01:34,118 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/217640 ayrıştırma 4.246 sn
+2026-10-02 15:01:34,339 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/277480 ayrıştırma 4.765 sn
+2026-10-02 15:01:34,477 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/277853 ayrıştırma 5.745 sn
+2026-10-02 15:01:34,721 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/1318 ayrıştırma 4.637 sn
+2026-10-02 15:01:35,086 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/216725 ayrıştırma 5.314 sn
+2026-10-02 15:01:35,718 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/239754 ayrıştırma 3.111 sn
+2026-10-02 15:01:35,977 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/214919 ayrıştırma 2.608 sn
+2026-10-02 15:01:38,526 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/211746 ayrıştırma 4.548 sn
+2026-10-02 15:01:38,753 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/354862 ayrıştırma 4.634 sn
+2026-10-02 15:01:39,084 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/11305 ayrıştırma 4.606 sn
+2026-10-02 15:01:39,209 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/325528 ayrıştırma 4.869 sn
+2026-10-02 15:01:39,332 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/203030 ayrıştırma 4.611 sn
+2026-10-02 15:01:39,445 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/196128 ayrıştırma 3.468 sn
+2026-10-02 15:01:39,546 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/136770 ayrıştırma 4.459 sn
+2026-10-02 15:01:39,779 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/302597 ayrıştırma 4.061 sn
+2026-10-02 15:01:40,467 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/240892 ayrıştırma 1.939 sn
+2026-10-02 15:01:40,982 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/446194 ayrıştırma 2.229 sn
+2026-10-02 15:01:43,370 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/221 ayrıştırma 4.285 sn
+2026-10-02 15:01:43,622 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/385573 ayrıştırma 4.176 sn
+2026-10-02 15:01:44,126 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/408082 ayrıştırma 4.347 sn
+2026-10-02 15:01:44,281 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/25868 ayrıştırma 4.735 sn
+2026-10-02 15:01:44,439 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/341639 ayrıştırma 5.230 sn
+2026-10-02 15:01:45,004 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/25391 ayrıştırma 5.672 sn
+2026-10-02 15:01:45,294 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/399668 ayrıştırma 4.826 sn
+2026-10-02 15:01:45,514 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/433950 ayrıştırma 4.532 sn
+2026-10-02 15:01:45,752 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/20081 ayrıştırma 2.382 sn
+2026-10-02 15:01:46,730 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/4723 ayrıştırma 3.108 sn
+2026-10-02 15:01:48,363 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/372982 ayrıştırma 4.081 sn
+2026-10-02 15:01:49,062 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/13898 ayrıştırma 4.935 sn
+2026-10-02 15:01:49,234 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/397209 ayrıştırma 3.939 sn
+2026-10-02 15:01:49,488 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/402833 ayrıştırma 4.483 sn
+2026-10-02 15:01:50,370 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/236144 ayrıştırma 5.931 sn
+2026-10-02 15:01:50,531 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/417806 ayrıştırma 3.801 sn
+2026-10-02 15:01:50,960 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/392516 ayrıştırma 2.597 sn
+2026-10-02 15:01:51,331 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/428303 ayrıştırma 5.817 sn
+2026-10-02 15:01:51,677 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/420754 ayrıştırma 5.924 sn
+2026-10-02 15:01:51,897 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/319750 ayrıştırma 2.662 sn
+2026-10-02 15:01:53,948 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/294269 ayrıştırma 4.886 sn
+2026-10-02 15:01:54,385 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/322718 ayrıştırma 4.891 sn
+2026-10-02 15:01:55,229 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/211370 ayrıştırma 4.696 sn
+2026-10-02 15:01:55,529 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/399006 ayrıştırma 5.157 sn
+2026-10-02 15:01:55,847 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/395477 ayrıştırma 3.950 sn
+2026-10-02 15:01:56,296 INFO Thread-9 (worker) Restoran https://tgoyemek.com/restoranlar/295445 ayrıştırma 5.335 sn
+2026-10-02 15:01:56,483 INFO Thread-8 (worker) Restoran https://tgoyemek.com/restoranlar/438012 ayrıştırma 5.150 sn
+2026-10-02 15:01:56,651 INFO Thread-10 (worker) Restoran https://tgoyemek.com/restoranlar/312784 ayrıştırma 2.702 sn
+2026-10-02 15:01:57,024 INFO Thread-3 (worker) Restoran https://tgoyemek.com/restoranlar/228330 ayrıştırma 5.346 sn
+2026-10-02 15:01:57,123 INFO Thread-4 (worker) Restoran https://tgoyemek.com/restoranlar/172873 ayrıştırma 2.738 sn
+2026-10-02 15:01:59,234 INFO Thread-5 (worker) Restoran https://tgoyemek.com/restoranlar/228487 ayrıştırma 4.004 sn
+2026-10-02 15:01:59,423 INFO Thread-7 (worker) Restoran https://tgoyemek.com/restoranlar/287364 ayrıştırma 3.893 sn
+2026-10-02 15:01:59,624 INFO Thread-6 (worker) Restoran https://tgoyemek.com/restoranlar/284186 ayrıştırma 3.776 sn
+2026-10-02 15:02:05,876 INFO MainThread Performans: kayıt=1193 yeni_çekilen=1193 hatalı_URL=17 eksik=17 toplam=631.351s ortalama_restoran=3.683s duvar_saati_ortalama=0.529s kesildi=False
