@@ -21,7 +21,7 @@ def build(root):
         for r in raw['restaurants']:
             info=r['info']; rid=str(info['id']); ids.append(rid)
             if rid in winners and winners[rid]['collectedAt']>=stamp: continue
-            info={k:info[k] for k in ('id','name','imageUrl','status','closed','tempClosed','commentCount','commentDeeplink','kitchens','deliveryInfo','score','workingHours','workingHoursInterval','location','paymentMethods','attributes','highlightedCampaigns','deliveryFees','pickUpModel') if k in info}
+            info={k:info[k] for k in ('id','name','imageUrl','status','closed','tempClosed','commentCount','commentDeeplink','appLink','shareUrl','kitchens','deliveryInfo','score','workingHours','workingHoursInterval','location','paymentMethods','attributes','highlightedCampaigns','deliveryFees','pickUpModel') if k in info}
             info['kitchens']=[{'name':k['name']} for k in (info.get('kitchens') or [])]
             info['score']={k:info.get('score',{}).get(k) for k in ('overall','ratingText')} if info.get('score') else None
             info['deliveryInfo']={k:info.get('deliveryInfo',{}).get(k) for k in ('eta','minPrice')}

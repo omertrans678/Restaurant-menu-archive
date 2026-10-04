@@ -1,5 +1,15 @@
 # Changelog
 
+## v3.4.1 — 2026-10-04
+
+- Keep JSON file and folder import available offline, including when the remote catalog fails before any data is loaded. Show a clear local-import recovery message instead of “Failed to fetch”.
+- Keep the local import buttons visible below the scrolling region list. Cancel pending remote requests when local files are selected, and prevent late responses from overwriting the local selection.
+- Preserve offline reload of previously selected local files through IndexedDB.
+- Replace the unqualified `ty://` shopping-app route on Android with a user-activated `intent://` link explicitly targeting `com.trendyol.go` on its verified `tgo.gl` domain. Keep the rounded Uber Eats logo.
+- Use an official `https://tgo.gl/...` restaurant link when present in `info.appLink`, `info.shareUrl` or `info.commentDeeplink`. Without such a link, open the Go application's entry point rather than inventing a restaurant route. Desktop browsers use the restaurant's web page; an unresolved Android intent also falls back to that page.
+
+Validation: fully offline startup, both actual file pickers, folder import, persisted offline reload, network-error recovery, local import during a pending remote request, Android package/domain allowlist and desktop fallback. Native application opening and restaurant routing still require a phone with the Go app installed.
+
 ## v3.4 — 2026-10-04
 
 - Added JSON file and folder selection below the region picker, with local selections retained in IndexedDB.

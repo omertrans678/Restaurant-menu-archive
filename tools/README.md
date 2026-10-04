@@ -20,4 +20,6 @@ Commit the generated `datasets.json` and `_texgo` files together with the corres
 
 Repeated restaurant IDs across regions use the most recently collected restaurant record. Product category occurrences remain intact. Payment method text, pickup minimums, delivery-fee brackets and source closure status are preserved.
 
-The source-app button uses the native link in the source dataset. The icon's source is the original Uber Eats SVG supplied in the TexGo project; official logo information is available at [Uber Eats brand assets](https://merchants.ubereats.com/fr/en/resources/learning-center/co-marketing-tools/).
+On Android, the source-app button uses a package-bound intent targeting `com.trendyol.go` on the verified `tgo.gl` domain. When the source dataset contains an official restaurant shortlink, that link is preserved. Without one, the button opens the Go app entry point; it does not assume an undocumented restaurant route. Desktop browsers and unresolved Android intents fall back to the restaurant web page. The icon's source is the original Uber Eats SVG supplied in the TexGo project; official logo information is available at [Uber Eats brand assets](https://merchants.ubereats.com/fr/en/resources/learning-center/co-marketing-tools/).
+
+References: [Chrome Android intents](https://developer.chrome.com/docs/android/intents), [Go domain association](https://tgo.gl/.well-known/assetlinks.json).
