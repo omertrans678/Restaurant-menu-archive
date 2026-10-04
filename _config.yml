@@ -1,0 +1,13 @@
+# GitHub Pages must include the generated underscore-prefixed data directory.
+include:
+  - _texgo
+
+# The raw regional archives remain in GitHub. Pages serves the smaller generated
+# summaries, menus and search shards instead of duplicating the large originals.
+exclude:
+  - tools
+  - "Istanbul_AS/20*"
+  - "Istanbul_EU/20*"
+
+encoding: utf-8
+timezone: Europe/Istanbul
