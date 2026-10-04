@@ -1,5 +1,15 @@
 # Changelog
 
+## v3.4.2 — 2026-10-04
+
+- Ask before downloading restaurant/product data on first use and whenever the published data revision changes. Remember acceptance or rejection per regional site and data revision.
+- Leave restaurant and product lists empty when downloading is rejected. JSON file/folder import remains available, with an explicit action to reconsider downloading.
+- Check updates through the small static datasets.json manifest instead of GitHub directory API listings. The dialog explains that this small update check still uses the network.
+- Cache accepted JSON summaries, menus and product search chunks on the device. Reopen unchanged cached data without large network requests; remove older regional data-cache entries after a successful update. In-memory product data can still be released independently.
+- Add revision, collection time and initial summary size to generated manifests. Content changes produce a new revision even if the folder/date stays the same.
+
+Validation: no large data requests before acceptance or after rejection; rejection survives reload; local import after rejection; same-version cache reuse; new-version acceptance and rejection; cached JSON recovery offline; both regional sites and stable/content-sensitive builder revisions. Browser cache availability depends on device storage and browser settings.
+
 ## v3.4.1 — 2026-10-04
 
 - Keep JSON file and folder import available offline, including when the remote catalog fails before any data is loaded. Show a clear local-import recovery message instead of “Failed to fetch”.

@@ -15,7 +15,7 @@ def build(root):
     folders=sorted((p for p in root.iterdir() if p.is_dir() and re.fullmatch(r'\d{4}-\d{2}-\d{2}_\d{2}-\d{2}_[^/\\]+',p.name)),reverse=True)
     if not folders: raise ValueError(f'No dated folders in {root}')
     folder=folders[0]; output=root/'_texgo'/folder.name
-    regions=[]; winners={}; total_bytes=0
+    regions=[]; winners={}; total_bytes=0; content_hash=hashlib.sha256()
     for file in sorted(folder.glob('*.json')):
         raw=json.loads(file.read_text(encoding='utf-8-sig')); stamp=raw.get('collectedAt',''); ids=[]
         for r in raw['restaurants']:
@@ -37,6 +37,7 @@ def build(root):
             info['maxProductPrice']=max((p.get('price',{}).get('salePrice',p.get('price',{}).get('marketPrice',0)) for c in sections for p in c['products']),default=0)
             menu={'info':info,'sections':sections}
             write(output/'menus'/f'{rid}.json',menu)
+            content_hash.update(json.dumps(menu,ensure_ascii=False,sort_keys=True,separators=(',',':')).encode('utf-8'))
             winners[rid]={'info':info,'collectedAt':stamp}
         regions.append({'file':file.name,'address':raw.get('address',file.stem),'collectedAt':stamp,'ids':list(dict.fromkeys(ids))})
         total_bytes+=file.stat().st_size
@@ -53,9 +54,9 @@ def build(root):
         batch.append(menu);count+=n;total+=n
     if batch: flush()
     catalog={'version':4,'folder':folder.name,'regions':regions,'summary':'restaurants.json','search':shards,'restaurantCount':len(winners),'productCount':total}
-    catalog['revision']=hashlib.sha256(json.dumps(catalog,sort_keys=True).encode()).hexdigest()[:12]
+    catalog['revision']=hashlib.sha256((json.dumps(catalog,sort_keys=True)+content_hash.hexdigest()).encode()).hexdigest()[:12]
     write(output/'catalog.json',catalog)
-    write(root/'datasets.json',{'folders':[{'name':folder.name,'files':[r['file'] for r in regions]}]})
+    write(root/'datasets.json',{'folders':[{'name':folder.name,'files':[r['file'] for r in regions],'revision':catalog['revision'],'summaryBytes':(output/'restaurants.json').stat().st_size,'collectedAt':max(r['collectedAt'] for r in regions)}]})
     print(json.dumps({'root':str(root),'restaurants':len(winners),'products':total,'sourceBytes':total_bytes,'summaryBytes':(output/'restaurants.json').stat().st_size,'shards':len(shards)}),flush=True)
 
 if __name__=='__main__':
