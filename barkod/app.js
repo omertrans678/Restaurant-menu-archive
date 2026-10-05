@@ -3,6 +3,13 @@ const $ = id => document.getElementById(id);
 let items = [];
 try { const saved = JSON.parse(localStorage.getItem('barkod-listesi') || '[]'); if(Array.isArray(saved)) items = saved.filter(x => typeof x.code === 'string' && Number.isSafeInteger(x.quantity) && x.quantity > 0); } catch {}
 function status(message) { $('status').textContent = message; }
+let feedbackTimer;
+function showSuccess() {
+  clearTimeout(feedbackTimer);
+  $('scan-area').classList.add('scan-success');
+  $('status').classList.add('success');
+  feedbackTimer = setTimeout(() => { $('scan-area').classList.remove('scan-success'); $('status').classList.remove('success'); }, 700);
+}
 function render() {
   $('rows').replaceChildren();
   for (const item of items) {
@@ -22,8 +29,9 @@ function add(code) {
   code = code.trim().toUpperCase();
   if (!/^[A-Za-z0-9]{10}$/.test(code)) { status('Yalnızca 10 karakterli kısa barkod kabul edilir. QR ve uzun kargo barkodunu okutmayın.'); return false; }
   const existing = items.find(x => x.code === code);
-  if (existing) existing.quantity++; else items.push({code, quantity:1});
-  render(); status(`✓ ${code} eklendi.`); return true;
+  if (existing) { existing.quantity++; items = items.filter(x => x !== existing); items.unshift(existing); }
+  else items.unshift({code, quantity:1});
+  render(); status(`✓ ${code} eklendi.`); showSuccess(); return true;
 }
 $('form').onsubmit = event => { event.preventDefault(); if (add($('barcode').value)) $('barcode').value = ''; $('barcode').focus(); };
 $('clear').onclick = () => { if(confirm('Tüm liste silinsin mi?')) {items=[]; render(); status('Liste temizlendi.');} };
@@ -45,19 +53,19 @@ $('camera').onclick = async () => {
       if (!/^[A-Za-z0-9]{10}$/.test(code)) return;
       const now = Date.now();
       // Aynı barkod kamera önünde tutulurken yalnızca bir kez ekle.
-      const duplicate = code === lastCode && now-lastSeen < 1800;
+      const duplicate = code === lastCode && now-lastSeen < 1000;
       lastCode = code; lastSeen = now;
       if(!duplicate) {add(code); if(navigator.vibrate) navigator.vibrate(80);}
     });
-    running = true; $('camera').hidden = true; $('stop').hidden = false;
-    status('Kamera açık. 10 karakterli kısa barkodu çerçeveye yatay yerleştirin; tekrar eklemek için 2 saniye kameradan uzaklaştırın.');
+    running = true; $('scan-area').classList.add('scanning'); $('camera').hidden = true; $('stop').hidden = false;
+    status('Kamera açık. 10 karakterli kısa barkodu çerçeveye yatay yerleştirin; tekrar eklemek için 1 saniye kameradan uzaklaştırın.');
   } catch {status('Kamera açılamadı. Kamera iznini kontrol edin veya barkodu elle girin.');}
   finally {$('camera').disabled = false;}
 };
 $('stop').onclick = async () => {
   if(!running) return;
   $('stop').disabled = true;
-  try {await scanner.stop(); running=false; scanner.clear(); $('camera').hidden=false; $('stop').hidden=true; lastCode=''; status('Kamera kapatıldı.');}
+  try {await scanner.stop(); running=false; scanner.clear(); $('scan-area').classList.remove('scanning', 'scan-success'); $('camera').hidden=false; $('stop').hidden=true; lastCode=''; status('Kamera kapatıldı.');}
   catch {status('Kamera kapatılamadı. Sayfayı yenileyin.');}
   finally {$('stop').disabled=false;}
 };
