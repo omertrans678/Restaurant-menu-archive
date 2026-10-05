@@ -8,14 +8,14 @@
 </style>
 <script defer src="https://unpkg.com/html5-qrcode@2.3.8/html5-qrcode.min.js"></script>
 <script defer src="https://cdn.sheetjs.com/xlsx-0.20.3/package/dist/xlsx.full.min.js"></script>
-<script defer src="app.js"></script>
+<script defer src="app.js?v=2"></script>
 </head>
 <body><main>
 <h1>Barkod Listesi</h1>
-<p class="note">Kamerayla okutun veya barkod okuyucuyla aşağıdaki alana girin. Aynı barkodun adedi artar.</p>
+<p><strong style="color:#176b43">✓ Kısa barkod: 4161125527</strong><br><span style="color:#b42318">✕ QR kodunu ve uzun kargo barkodunu okutmayın.</span></p><p class="note">Yalnızca 10 haneli barkod listeye eklenir. Kısa barkodu kamera çerçevesine yatay yerleştirin. Aynı barkodun adedi artar.</p>
 <div class="actions"><button id="camera" class="primary">Kamerayı aç</button><button id="stop" hidden>Kamerayı kapat</button></div>
 <div id="reader"></div>
-<form id="form"><input id="barcode" aria-label="Barkod" placeholder="Barkod" autocomplete="off" required maxlength="200"><button class="primary">Ekle</button></form>
+<form id="form"><input id="barcode" aria-label="Barkod" placeholder="10 haneli barkod" inputmode="numeric" pattern="[0-9]{10}" title="10 haneli barkodu girin" autocomplete="off" required minlength="10" maxlength="10"><button class="primary">Ekle</button></form>
 <p id="status" role="status" aria-live="polite"></p>
 <div class="actions"><button id="download" class="primary" disabled>Excel indir (.xlsx)</button><button id="clear" disabled>Listeyi temizle</button></div>
 <p id="count">Liste boş.</p>
