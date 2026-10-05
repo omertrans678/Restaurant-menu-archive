@@ -42,31 +42,102 @@ $('download').onclick = () => {
   const book = XLSX.utils.book_new(); XLSX.utils.book_append_sheet(book, sheet, 'Barkodlar');
   XLSX.writeFile(book, `barkod-listesi-${new Date().toISOString().slice(0,10)}.xlsx`);
 };
-let scanner, running = false, lastCode = '', lastSeen = 0;
+
+let stream, running = false, frameRequest, detector, decoder, currentCode = '', missedFrames = 0;
+const capture = document.createElement('canvas');
+const rotated = document.createElement('canvas');
+function acceptScan(code) {
+  code = (code || '').trim().toUpperCase();
+  if (!/^[A-Z0-9]{10}$/.test(code)) return false;
+  missedFrames = 0;
+  if (code !== currentCode) {
+    currentCode = code;
+    add(code);
+    if (navigator.vibrate) navigator.vibrate(60);
+  }
+  return true;
+}
+function decodeCanvas(canvas) {
+  try {
+    const bitmap = new ZXing.BinaryBitmap(new ZXing.HybridBinarizer(new ZXing.HTMLCanvasElementLuminanceSource(canvas)));
+    return decoder.decodeBitmap(bitmap).getText();
+  } catch { return ''; }
+}
+async function scanLoop() {
+  if (!running) return;
+  const video = $('video');
+  if (video.readyState >= 2 && video.videoWidth) {
+    const scale = Math.min(1, 1600 / Math.max(video.videoWidth, video.videoHeight));
+    const w = Math.round(video.videoWidth * scale), h = Math.round(video.videoHeight * scale);
+    if (capture.width !== w || capture.height !== h) {capture.width = w; capture.height = h;}
+    capture.getContext('2d', {willReadFrequently:true}).drawImage(video, 0, 0, w, h);
+    let code = '';
+    if (detector) {
+      try {
+        const results = await detector.detect(capture);
+        code = results.find(x => /^[A-Za-z0-9]{10}$/.test(x.rawValue))?.rawValue || '';
+      } catch { detector = null; }
+    }
+    if (!detector && decoder) {
+      code = decodeCanvas(capture);
+      if (!/^[A-Za-z0-9]{10}$/.test(code)) {
+        if (rotated.width !== h || rotated.height !== w) {rotated.width=h; rotated.height=w;}
+        const context = rotated.getContext('2d', {willReadFrequently:true});
+        context.setTransform(0,1,-1,0,h,0);
+        context.drawImage(capture,0,0);
+        code = decodeCanvas(rotated);
+      }
+    }
+    if (!running) return;
+    if (!acceptScan(code) && ++missedFrames >= 3) currentCode = '';
+  }
+  if (running) frameRequest = requestAnimationFrame(scanLoop);
+}
+function stopCamera() {
+  running = false;
+  cancelAnimationFrame(frameRequest);
+  if (stream) stream.getTracks().forEach(track => track.stop());
+  stream = null; $('video').srcObject = null;
+  $('scan-area').classList.remove('scanning','scan-success');
+  $('camera').hidden = false; $('stop').hidden = true;
+  currentCode = ''; missedFrames = 0;
+}
 $('camera').onclick = async () => {
-  if (!window.Html5Qrcode) {status('Kamera bileşeni yüklenemedi. İnternet bağlantısını kontrol edin.'); return;}
-  if (!window.isSecureContext) {status('Kamera için HTTPS adresinden açın (GitHub Pages).'); return;}
+  if (!window.isSecureContext || !navigator.mediaDevices?.getUserMedia) {status('Kamera için HTTPS adresinden açın.'); return;}
   $('camera').disabled = true;
   try {
-    scanner ||= new Html5Qrcode('reader', {formatsToSupport: [Html5QrcodeSupportedFormats.CODE_128, Html5QrcodeSupportedFormats.CODE_39, Html5QrcodeSupportedFormats.CODE_93, Html5QrcodeSupportedFormats.ITF, Html5QrcodeSupportedFormats.CODABAR], verbose: false});
-    await scanner.start({facingMode:'environment'}, {fps:10, aspectRatio:16/9, videoConstraints:{facingMode:'environment',width:{ideal:1920},height:{ideal:1080}}, qrbox: (width, height) => ({width: Math.floor(width * 0.9), height: Math.floor(Math.min(height * 0.6, 160))})}, code => {
-      if (!/^[A-Za-z0-9]{10}$/.test(code)) return;
-      const now = Date.now();
-      // Aynı barkod kamera önünde tutulurken yalnızca bir kez ekle.
-      const duplicate = code === lastCode && now-lastSeen < 1000;
-      lastCode = code; lastSeen = now;
-      if(!duplicate) {add(code); if(navigator.vibrate) navigator.vibrate(80);}
-    });
-    running = true; $('scan-area').classList.add('scanning'); $('camera').hidden = true; $('stop').hidden = false;
-    status('Kamera açık · Kısa barkodu yatay okutun.');
-  } catch {status('Kamera açılamadı. Kamera iznini kontrol edin veya barkodu elle girin.');}
-  finally {$('camera').disabled = false;}
+    detector = null; decoder = null;
+    if (window.BarcodeDetector) {
+      const formats = await BarcodeDetector.getSupportedFormats();
+      const supported = ['code_128','code_39','code_93','codabar','itf'].filter(x => formats.includes(x));
+      if (supported.length) detector = new BarcodeDetector({formats:supported});
+    }
+    if (window.ZXing) {
+      const hints = new Map();
+      hints.set(ZXing.DecodeHintType.POSSIBLE_FORMATS, [ZXing.BarcodeFormat.CODE_128,ZXing.BarcodeFormat.CODE_39,ZXing.BarcodeFormat.CODE_93,ZXing.BarcodeFormat.ITF,ZXing.BarcodeFormat.CODABAR]);
+      hints.set(ZXing.DecodeHintType.TRY_HARDER,true);
+      decoder = new ZXing.BrowserMultiFormatReader(hints);
+    }
+    if (!detector && !decoder) throw new Error('decoder');
+    stream = await navigator.mediaDevices.getUserMedia({audio:false,video:{facingMode:{ideal:'environment'},width:{ideal:8192},height:{ideal:8192},frameRate:{ideal:30}}});
+    const track = stream.getVideoTracks()[0];
+    const caps = track.getCapabilities?.() || {};
+    if (caps.width?.max && caps.height?.max) {
+      try {await track.applyConstraints({width:{exact:caps.width.max},height:{exact:caps.height.max}});}
+      catch {try {await track.applyConstraints({width:{ideal:caps.width.max},height:{ideal:caps.height.max}});} catch {}}
+    }
+    if (caps.focusMode?.includes('continuous')) {try {await track.applyConstraints({advanced:[{focusMode:'continuous'}]});} catch {}}
+    $('video').srcObject = stream;
+    await $('video').play();
+    running = true; currentCode=''; missedFrames=0;
+    $('scan-area').classList.add('scanning'); $('camera').hidden=true; $('stop').hidden=false;
+    const settings = track.getSettings();
+    $('resolution').textContent = `${settings.width || '?'} × ${settings.height || '?'}`;
+    status('Kamera açık · Yatay veya dikey okutun.');
+    frameRequest = requestAnimationFrame(scanLoop);
+  } catch {stopCamera();status('Kamera açılamadı. Kamera iznini ve internet bağlantısını kontrol edin.');}
+  finally {$('camera').disabled=false;}
 };
-$('stop').onclick = async () => {
-  if(!running) return;
-  $('stop').disabled = true;
-  try {await scanner.stop(); running=false; scanner.clear(); $('scan-area').classList.remove('scanning', 'scan-success'); $('camera').hidden=false; $('stop').hidden=true; lastCode=''; status('Kamera kapatıldı.');}
-  catch {status('Kamera kapatılamadı. Sayfayı yenileyin.');}
-  finally {$('stop').disabled=false;}
-};
+$('stop').onclick = () => {stopCamera();status('Kamera kapatıldı.');};
+window.addEventListener('pagehide', stopCamera);
 render();
