@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="tr">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Barkod Listesi</title>
+<style>
+*{box-sizing:border-box}body{font:16px system-ui,sans-serif;margin:0;background:#f5f5f5;color:#222}main{max-width:760px;margin:24px auto;padding:20px;background:white;border-radius:8px}h1{font-size:24px;margin-top:0}button,input{font:inherit;padding:12px;border:1px solid #ccc;border-radius:5px}button{cursor:pointer;background:#eee}button.primary{background:#176b43;color:white;border-color:#176b43}button:disabled{opacity:.5;cursor:default}.actions,form{display:flex;gap:8px;flex-wrap:wrap;margin:16px 0}input{flex:1;min-width:160px}#reader{max-width:500px;margin:auto}#status{min-height:24px;color:#176b43}table{width:100%;border-collapse:collapse}td,th{text-align:left;padding:12px 6px;border-bottom:1px solid #ddd}td:first-child{overflow-wrap:anywhere}td button{padding:5px 10px}.note{color:#666;font-size:14px}.table{overflow-x:auto}@media(max-width:600px){main{margin:0;border-radius:0;padding:16px}}
+</style>
+<script defer src="https://unpkg.com/html5-qrcode@2.3.8/html5-qrcode.min.js"></script>
+<script defer src="https://cdn.sheetjs.com/xlsx-0.20.3/package/dist/xlsx.full.min.js"></script>
+<script defer src="app.js"></script>
+</head>
+<body><main>
+<h1>Barkod Listesi</h1>
+<p class="note">Kamerayla okutun veya barkod okuyucuyla aşağıdaki alana girin. Aynı barkodun adedi artar.</p>
+<div class="actions"><button id="camera" class="primary">Kamerayı aç</button><button id="stop" hidden>Kamerayı kapat</button></div>
+<div id="reader"></div>
+<form id="form"><input id="barcode" aria-label="Barkod" placeholder="Barkod" autocomplete="off" required maxlength="200"><button class="primary">Ekle</button></form>
+<p id="status" role="status" aria-live="polite"></p>
+<div class="actions"><button id="download" class="primary" disabled>Excel indir (.xlsx)</button><button id="clear" disabled>Listeyi temizle</button></div>
+<p id="count">Liste boş.</p>
+<div class="table"><table><thead><tr><th>Barkod</th><th>Adet</th><th>İşlem</th></tr></thead><tbody id="rows"></tbody></table></div>
+<p class="note">Liste bu tarayıcıda saklanır. Ürün adı için bir ürün veritabanı gerekir; burada barkod ve adet kaydedilir.</p>
+</main></body></html>
