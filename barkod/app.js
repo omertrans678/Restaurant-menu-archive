@@ -49,7 +49,7 @@ $('camera').onclick = async () => {
   $('camera').disabled = true;
   try {
     scanner ||= new Html5Qrcode('reader', {formatsToSupport: [Html5QrcodeSupportedFormats.CODE_128, Html5QrcodeSupportedFormats.CODE_39, Html5QrcodeSupportedFormats.CODE_93, Html5QrcodeSupportedFormats.ITF, Html5QrcodeSupportedFormats.CODABAR], verbose: false});
-    await scanner.start({facingMode:'environment'}, {fps:10, aspectRatio:16/9, qrbox: (width, height) => ({width: Math.floor(width * 0.9), height: Math.floor(Math.min(height * 0.6, 160))})}, code => {
+    await scanner.start({facingMode:'environment'}, {fps:10, aspectRatio:16/9, videoConstraints:{facingMode:'environment',width:{ideal:1920},height:{ideal:1080}}, qrbox: (width, height) => ({width: Math.floor(width * 0.9), height: Math.floor(Math.min(height * 0.6, 160))})}, code => {
       if (!/^[A-Za-z0-9]{10}$/.test(code)) return;
       const now = Date.now();
       // Aynı barkod kamera önünde tutulurken yalnızca bir kez ekle.
