@@ -19,8 +19,8 @@ function render() {
   try { localStorage.setItem('barkod-listesi', JSON.stringify(items)); } catch { status('Tarayıcı listeyi saklayamadı. Sayfayı kapatmadan Excel olarak indirin.'); }
 }
 function add(code) {
-  code = code.trim();
-  if (!/^\d{10}$/.test(code)) { status('Yalnızca 10 haneli kısa barkod kabul edilir. QR ve uzun kargo barkodunu okutmayın.'); return false; }
+  code = code.trim().toUpperCase();
+  if (!/^[A-Za-z0-9]{10}$/.test(code)) { status('Yalnızca 10 karakterli kısa barkod kabul edilir. QR ve uzun kargo barkodunu okutmayın.'); return false; }
   const existing = items.find(x => x.code === code);
   if (existing) existing.quantity++; else items.push({code, quantity:1});
   render(); status(`✓ ${code} eklendi.`); return true;
@@ -42,7 +42,7 @@ $('camera').onclick = async () => {
   try {
     scanner ||= new Html5Qrcode('reader', {formatsToSupport: [Html5QrcodeSupportedFormats.CODE_128, Html5QrcodeSupportedFormats.CODE_39, Html5QrcodeSupportedFormats.CODE_93, Html5QrcodeSupportedFormats.ITF, Html5QrcodeSupportedFormats.CODABAR], verbose: false});
     await scanner.start({facingMode:'environment'}, {fps:10, qrbox: (width, height) => ({width: Math.floor(width * 0.9), height: Math.floor(Math.min(height * 0.6, 160))})}, code => {
-      if (!/^\d{10}$/.test(code)) return;
+      if (!/^[A-Za-z0-9]{10}$/.test(code)) return;
       const now = Date.now();
       // Aynı barkod kamera önünde tutulurken yalnızca bir kez ekle.
       const duplicate = code === lastCode && now-lastSeen < 1800;
@@ -50,7 +50,7 @@ $('camera').onclick = async () => {
       if(!duplicate) {add(code); if(navigator.vibrate) navigator.vibrate(80);}
     });
     running = true; $('camera').hidden = true; $('stop').hidden = false;
-    status('Kamera açık. 10 haneli kısa barkodu çerçeveye yatay yerleştirin; tekrar eklemek için 2 saniye kameradan uzaklaştırın.');
+    status('Kamera açık. 10 karakterli kısa barkodu çerçeveye yatay yerleştirin; tekrar eklemek için 2 saniye kameradan uzaklaştırın.');
   } catch {status('Kamera açılamadı. Kamera iznini kontrol edin veya barkodu elle girin.');}
   finally {$('camera').disabled = false;}
 };
