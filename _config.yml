@@ -1,13 +1,2 @@
-# Exclude legacy regional folders and tools from the GitHub Pages artifact;
-# the published site serves root index.html, datasets.json, and Istanbul/*.json.
-exclude:
-  - tools
-  - Istanbul_AS
-  - Istanbul_EU
-  - Sumer_ZBE
-  - Caglayan_KHA
-  - Kocatepe_BPA
-  - Yesilkoy_Marmaray
-
 encoding: utf-8
 timezone: Europe/Istanbul
