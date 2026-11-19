@@ -1,5 +1,15 @@
 # Changelog
 
+## v3.5 — 2026-11-19
+
+- Serve a unified root `index.html` and `datasets.json` loading all 39 Istanbul districts from single lean JSON files under `Istanbul/*.json` (merging overlapping records by newest `collectedAt`, including `Sümer Zeytinburnu` + `Zeytinburnu`, `Çağlayan Kağıthane` + `Kâğıthane`, `Kocatepe M1` + `Bayrampaşa`, and `Yeşilköy Marmaray` + `Bakırköy`).
+- Auto-select the most recently updated district on startup and support accent-insensitive province/district search (`#datasetSearch`) inside the region picker.
+- Allow canceling an in-progress region download/load by clicking another region in the picker.
+- Fix product search in `Ürünler` so product name/description matches take precedence without pulling unrelated items from restaurants whose name matches the query.
+- Display `il/ilçe` next to (to the left of) the star rating badge on restaurant cards and detail headers.
+- Keep products active and listed for closed restaurants, determine open/closed status from Turkey working hours first, link the restaurant source logo directly to `tgoyemek.com`, and float toast notifications (`position: fixed`) without shifting page layout.
+- Archive the previous v3.4.2 HTML under `Versions/v3.4.2/index.html`.
+
 ## v3.4.2 — 2026-10-04
 
 - Ask before downloading restaurant/product data on first use and whenever the published data revision changes. Remember acceptance or rejection per regional site and data revision.

@@ -1,4 +1,4 @@
 # Restaurant-menu-archive
 A monthly updated archive of restaurant menus and prices
 
-Web interface v3.4.2: see [CHANGELOG.md](CHANGELOG.md) for changes and [tools/README.md](tools/README.md) for preparing optimized static data.
+Web interface v3.5: unified root `index.html` serving all 39 Istanbul districts from `Istanbul/*.json` ([live site](https://omertrans678.github.io/Restaurant-menu-archive/)). See [CHANGELOG.md](CHANGELOG.md) for version history and `Versions/` for archived releases.
