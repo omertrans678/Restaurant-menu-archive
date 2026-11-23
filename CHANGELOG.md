@@ -1,5 +1,11 @@
 # Changelog
 
+## v3.6 — 2026-11-23
+
+- Refresh all 39 Istanbul district datasets (`26,838` restaurants total, `datasets.json` revision `6c4ab29430bf`) using API-discovered active promotions (`83979288, 65910950, 67806491, 68999768, 69518655, 73980185`) plus full per-restaurant active promotions.
+- Show color-coded `İlk 5 Sipariş · 450 TL` (green) and `İlk 5 Sipariş · 550 TL` (orange) campaign badges on restaurant cards across the `Restoranlar`, `Ürünler`, and `Restoran Bilgisi` tabs, with filter support under *Restoran rozetleri*.
+- Prevent product titles and prices from overlapping on narrow two-column cards in the `Ürünler` and `Restoran Bilgisi` views.
+
 ## v3.5 — 2026-11-19
 
 - Serve a unified root `index.html` and `datasets.json` loading all 39 Istanbul districts from single lean JSON files under `Istanbul/*.json` (merging overlapping records by newest `collectedAt`, including `Sümer Zeytinburnu` + `Zeytinburnu`, `Çağlayan Kağıthane` + `Kâğıthane`, `Kocatepe M1` + `Bayrampaşa`, and `Yeşilköy Marmaray` + `Bakırköy`).
